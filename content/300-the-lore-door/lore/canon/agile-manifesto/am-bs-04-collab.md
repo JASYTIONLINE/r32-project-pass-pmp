@@ -2,7 +2,7 @@
 title: Principle 4 Backstory — Daily Collaboration
 author: Jasyti Archives
 role: Doctrine of The Plan
-summary: The fourth law of the Plan binds vision to craft: dreamers and builders must meet each day, or their towers fall by silence.
+summary: "The fourth law of the Plan binds vision to craft: dreamers and builders must meet each day, or their towers fall by silence.
 tags:
   - agile
   - manifesto
