@@ -13,7 +13,7 @@ function: education
 shortcode: "[idx]"
 ---
 
-# Structured Study Guide – Pass the PMP® on the First Try  
+# Structured Study Guide – Pass the PMP® on the First Try!
 
 What if you could skip the noise and study exactly what PMI tests—no filler, no guesswork?  
 That’s this guide. Every click here moves you one step closer to *a passing score and a better paycheck.*  
