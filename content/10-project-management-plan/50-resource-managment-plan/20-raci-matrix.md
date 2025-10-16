@@ -1,11 +1,17 @@
 ---
-title: RACI Matrix – Project PASS PMP
-description: Defines team responsibilities using the Responsible, Accountable, Consulted, and Informed model.
-version: 1.0
+title: "RACI Matrix — Project PASS PMP"
+description: "Defines roles and responsibilities using the Responsible, Accountable, Consulted, and Informed model for the project team."
+filename: 20-raci-matrix.md
+tags: [resources, roles, matrix, "filename:20-raci-matrix.md"]
+draft: false
+date: "2025-10-16"
+role: "standard"
+function: "assignment"
+shortcode: "[std]"
 ---
 
-# 🧭 RACI Matrix – Project PASS PMP  
-**Folder:** `/50-resource-management-plan/`  
+# RACI Matrix
+ – Project PASS PMP  
 
 ---
 
@@ -82,3 +88,17 @@ This helps prevent confusion, overlapping roles, and missed accountability check
 ---
 
 > 📌 Use this document as a **teaching reference** and a **living accountability tracker**. It ensures that every contributor knows exactly where they fit in the project’s responsibility structure.
+
+[[#RACI Matrix|Top]]
+
+---
+
+## QuickLinks
+- [[10-resource-management-plan|Resource Management Plan — Project PASS PMP]]
+- [[20-raci-matrix|RACI Matrix]]
+- [[30-resource-estimates|Resource Estimates]]
+- [[40-resource-calendars|Resource Calendars]]
+- [[50-team-charter|Team Charter]]
+- [[60-training-plan|Training Plan]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

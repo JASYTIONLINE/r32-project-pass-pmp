@@ -1,11 +1,17 @@
 ---
-title: Resource Calendars – Project PASS PMP
-description: Defines availability of team members and key resources by phase, sprint, or week.
-version: 1.0
+title: "Resource Calendars — Project PASS PMP"
+description: "Defines resource availability by phase, sprint, or milestone to align with schedule and workload."
+filename: 40-resource-calendars.md
+tags: [resources, calendars, scheduling, "filename:40-resource-calendars.md"]
+draft: false
+date: "2025-10-16"
+role: "standard"
+function: "planning"
+shortcode: "[std]"
 ---
 
-# 📆 Resource Calendars – Project PASS PMP  
-**Folder:** `/50-resource-management-plan/`  
+# Resource Calendars
+– Project PASS PMP  
 
 ---
 
@@ -79,3 +85,17 @@ If a resource is overbooked or unavailable:
 ---
 
 > 📌 Use this calendar to validate who is available, when they’re available, and how their effort fits into the delivery plan. All estimates and schedules rely on this file for reality-checking availability.
+
+[[#Resource Calendars|Top]]
+
+---
+
+## QuickLinks
+- [[10-resource-management-plan|Resource Management Plan — Project PASS PMP]]
+- [[20-raci-matrix|RACI Matrix]]
+- [[30-resource-estimates|Resource Estimates]]
+- [[40-resource-calendars|Resource Calendars]]
+- [[50-team-charter|Team Charter]]
+- [[60-training-plan|Training Plan]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

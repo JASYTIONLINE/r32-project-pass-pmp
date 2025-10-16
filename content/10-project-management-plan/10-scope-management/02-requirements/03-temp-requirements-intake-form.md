@@ -1,10 +1,17 @@
 ---
-title: Requirements Intake Form – Project PASS PMP
-description: Use this form to propose a new or updated requirement for the project.
-version: 1.0
+title: "Requirements Intake Form Template"
+description: "Template for collecting, categorizing, and prioritizing new or modified project requirements."
+filename: 03-temp-requirements-intake-form.md
+tags: [requirements, template, intake, "filename:03-temp-requirements-intake-form.md"]
+draft: false
+date: "2025-10-16"
+role: "template"
+function: "governance"
+shortcode: "[tmp]"
 ---
 
-# 📥 Requirements Intake Form
+
+# Requirements Intake Form
 
 ## Submission Details
 
@@ -52,3 +59,18 @@ version: 1.0
 |--------------|------------------|-----------|------------|
 |              |                  | [Y/N]     |            |
 |              |                  | [Y/N]     |            |
+
+[[#Requirements Intake Form|Top]]
+
+---
+
+## QuickLinks
+- [[00-cutomer-intake-interview-project-pass-pmp|Customer Intake Interview — Project PASS PMP]]
+- [[01-requirements-management-plan|Requirements Management Plan]]
+- [[02-requirements-traceability-matrix|Requirements Traceability Matrix]]
+- [[03-temp-requirements-intake-form|Requirements Intake Form Template]]
+- [[04-requirements-validation-checklist|Requirements Validation Checklist]]
+- [[index|Requirements Management – Index]]
+- [[README|Requirements Management – README]]
+- [[../../../400-glossary/10-glossary|Glossary]]
+- [[../../../index|Project PASS PMP – Home]]

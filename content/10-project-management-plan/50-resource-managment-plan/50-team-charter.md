@@ -1,11 +1,17 @@
 ---
-title: Team Charter – Project PASS PMP
-description: Defines team norms, values, collaboration expectations, and working agreements for the project team.
-version: 1.0
+title: "Team Charter — Project PASS PMP"
+description: "Defines team norms, collaboration expectations, and communication agreements to support performance and psychological safety."
+filename: 50-team-charter.md
+tags: [resources, governance, team, "filename:50-team-charter.md"]
+draft: false
+date: "2025-10-16"
+role: "standard"
+function: "governance"
+shortcode: "[std]"
 ---
 
-# 🤝 Team Charter – Project PASS PMP  
-**Folder:** `/50-resource-management-plan/`  
+# Team Charter
+– Project PASS PMP
 
 ---
 
@@ -94,3 +100,17 @@ To collaboratively deliver a high-quality PMP knowledge base using structured wo
 ---
 
 > 📌 This document is as binding as the schedule or scope. If our culture breaks down, the project will too. Treat it as both a promise and a protocol.
+
+[[#Team Charter|Top]]
+
+---
+
+## QuickLinks
+- [[10-resource-management-plan|Resource Management Plan — Project PASS PMP]]
+- [[20-raci-matrix|RACI Matrix]]
+- [[30-resource-estimates|Resource Estimates]]
+- [[40-resource-calendars|Resource Calendars]]
+- [[50-team-charter|Team Charter]]
+- [[60-training-plan|Training Plan]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

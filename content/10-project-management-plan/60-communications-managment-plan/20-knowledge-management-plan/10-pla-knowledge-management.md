@@ -1,11 +1,17 @@
 ---
-title: Knowledge Management Plan – Project PASS PMP
-description: Defines how knowledge will be captured, shared, and maintained across the project.
-version: 1.0
+title: "Knowledge Management Plan — Project PASS PMP"
+description: "Defines how knowledge is captured, organized, reused, and archived across Project PASS PMP to promote learning and reduce rework."
+filename: 10-pla-knowledge-management.md
+tags: [knowledge, governance, management, "filename:10-pla-knowledge-management.md"]
+draft: false
+date: "2025-10-16"
+role: "procedure"
+function: "governance"
+shortcode: "[pro]"
 ---
 
-# 🧠 Knowledge Management Plan – Project PASS PMP  
-**Folder:** `/20-knowledge-management-plan/`
+# Knowledge Management Plan
+Project PASS PMP  
 
 ---
 
@@ -77,3 +83,16 @@ All knowledge assets must be linked into the system using standard file naming, 
 |------|------|-----------|------|
 | Sponsor | Knowledge Steward | | |
 | PM | Knowledge Coordinator | | |
+
+[[#Knowledge Management Plan|Top]]
+
+---
+
+## QuickLinks
+- [[10-pla-knowledge-management|Knowledge Management Plan — Project PASS PMP]]
+- [[20-pro-knowledge-capture-workflow|Knowledge Capture Workflow]]
+- [[30-std-knowledge-types|Knowledge Types Standard]]
+- [[40-log-knowledge-contributions|Knowledge Contribution Log]]
+- [[../60-communications-management-plan/index|Communications Management – Index]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

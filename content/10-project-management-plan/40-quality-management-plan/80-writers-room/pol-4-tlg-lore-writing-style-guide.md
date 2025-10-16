@@ -1,30 +1,17 @@
 ---
-title: Writer Style Guide — Structured Learning
-description: Governance and contributor guide for authoring informational pages inside the Structured Study Guide. Defines the Author’s tone, humor, structure, and inline-linking conventions.
-tags:
-  - style-guide
-  - structured-learning
-  - author
-  - tone-voice-deck
-  - policy
-  - writing
-  - contributor-rules
-  - pmp
-date: 2025-10-12
+title: "The Last Gate Lore Writing Style Guide"
+description: "Defines tone, continuity, and stylistic conventions for narrative content within The Last Gate universe."
+filename: pol-4-tlg-lore-writing-style-guide.md
+tags: [writers-room, lore, style, "filename:pol-4-tlg-lore-writing-style-guide.md"]
 draft: false
-eco:
-  - domain-1
-  - domain-2
-  - domain-3
-appliesTo:
-  - all-structured-learning-pages
-  - all-glossary-links
-  - all-eco-tasks
-canonical: true
-fileName: pol-writer-style-guide-structured-learning.md
+date: "2025-10-16"
+role: "policy"
+function: "creative"
+shortcode: "[pol]"
 ---
 
-# ✍️ Writer Style Guide — Structured Learning (Information Pages)
+# Writer Style Guide 
+— Structured Learning (Information Pages)
 
 This document defines the creative and structural rules for every informational page within the **Structured Study Guide (100 Series)** of the PMP Knowledge Base.  
 It ensures all content sounds like it came from one sarcastic, caffeinated genius who can’t believe they’re still explaining this to you — also known as **the Author**.
@@ -131,16 +118,11 @@ A quick scenario or inside joke that shows relevance.
 
 “In the [[Case Study]], this exact meeting goes sideways when someone says ‘synergy.’ Twice.”
 
-Quicklinks Footer
+
 
 lua
 Copy code
-### Quicklinks
-- [[previous-topic|Previous Topic]]
-- [[next-topic|Next Topic]]
-- [[repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/40-quallity-managment-plan/80-writers-room/index|Lesson Index]]
-- [[repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/40-quallity-managment-plan/index|Structured Study Guide – Home]]
-- [[../../library/glossary/index|Glossary]]
+
 🎙 Tone & Voice Rules
 Element	Guideline
 Tense	Present or casual past — whichever feels like a story being told.
@@ -207,13 +189,23 @@ The Author guides them with sarcasm, empathy, and impeccable organization.
 
 If the reader learns something and sends the link to a friend because it was funny, the Author wins.
 
----
-### Quicklinks
-- [[pol-pmi-lore-fidelity-policy|PMI Lore Fidelity Policy]]
-- [[pol-tlg-lore-writing-style-guide|Writer Style Guide — The Last Gate]]
-- [[std-temp-backstory-model|Backstory Template]]
-- [[std-tlg-narrative-rulebook|Narrative Rulebook]]
+[[## Writer Style Guide|Top]]
 
-### Main Categories
-- [[repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/40-quallity-managment-plan/index|TLG-Lore-Door-Policy Index]]
-- [[repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/index|10-Guidance Index]]
+---
+
+## QuickLinks
+- [[pol-1-authoring-documents-jasyti|Authoring Documents for JASYTI’s Knowledge Base]]
+- [[pol-2-structred-learning-writing-style-guide|Structured Learning Writing Style Guide]]
+- [[pol-3-pmi-lore-fidelity-policy|PMI Lore Fidelity Policy]]
+- [[pol-4-tlg-lore-writing-style-guide|The Last Gate Lore Writing Style Guide]]
+- [[pol-5-gloss-first|Gloss First Policy]]
+- [[prmt-1-no-yaml-windows11-gpt-project-execution|No-YAML Windows 11 GPT Project Execution Prompt]]
+- [[scr-1-deihc-yaml-linter.py|DEIHC YAML Linter Script]]
+- [[session-thread-1.txt|Writers Room Session Thread 1]]
+- [[std-1-tlg-narrative-rulebook|The Last Gate Narrative Rulebook]]
+- [[tem-1-markdown-template-for-quartz-environments|Markdown Template for Quartz Environments]]
+- [[tem-2-tlg-backstory-template|The Last Gate Backstory Template]]
+- [[index|Writers Room – Index]]
+- [[README|Writers Room – README]]
+- [[../../../400-glossary/10-glossary|Glossary]]
+- [[../../../index|Project PASS PMP – Home]]

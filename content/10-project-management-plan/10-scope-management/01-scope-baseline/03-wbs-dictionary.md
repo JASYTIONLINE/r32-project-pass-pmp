@@ -1,8 +1,15 @@
 ---
-title: WBS Dictionary – Project PASS PMP
-description: Supporting document to define and describe each element of the WBS for both public-facing and internal knowledge bases.
-version: 1.0
+title: "Work Breakdown Structure (WBS)"
+description: "Hierarchical decomposition of total project work into manageable components for planning, execution, and control."
+filename: 02-work-breakdown-structure.md
+tags: [governance, scope, baseline, wbs, "filename:02-work-breakdown-structure.md"]
+draft: false
+date: "2025-10-16"
+role: "standard"
+function: "governance"
+shortcode: "[std]"
 ---
+
 
 # 📘 Work Breakdown Structure Dictionary  
 **Project Name:** Project PASS PMP  

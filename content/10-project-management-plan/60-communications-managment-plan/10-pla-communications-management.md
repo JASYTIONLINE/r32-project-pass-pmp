@@ -1,10 +1,17 @@
 ---
-title: Communications Management Plan – Project PASS PMP
-description: Defines the strategy and structure for stakeholder communications throughout the project lifecycle.
-version: 1.0
+title: "Communications Management Plan — Project PASS PMP"
+description: "Defines how project information is communicated to stakeholders, when, by whom, and through which channels under the PACE system."
+filename: 10-pla-communications-management.md
+tags: [communications, governance, plan, "filename:10-pla-communications-management.md"]
+draft: false
+date: "2025-10-16"
+role: "procedure"
+function: "governance"
+shortcode: "[pro]"
 ---
 
-# 📡 Communications Management Plan – Project PASS PMP  
+# Communications Management Plan
+– Project PASS PMP  
 **Folder:** `/60-communications-management-plan/`
 
 ---
@@ -99,3 +106,14 @@ Retrospective feedback is required after each milestone.
 |------|------|-----------|------|
 | Sponsor | Comms Owner | | |
 | PM | Plan Manager | | |
+
+[[#Communications Management Plan]]
+---
+
+## QuickLinks
+- [[10-pla-communications-management|Communications Management Plan — Project PASS PMP]]
+- [[20-pol-communications-pace.md|PACE Communications Policy]]
+- [[30-pro-communications-collaboration-index|Collaboration Platform Procedure]]
+- [[40-log-communications|Communications Log]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

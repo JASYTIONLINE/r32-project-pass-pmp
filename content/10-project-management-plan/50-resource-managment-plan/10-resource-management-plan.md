@@ -1,11 +1,18 @@
 ---
-title: Resource Management Plan – Project PASS PMP
-description: Defines how resources will be identified, assigned, managed, and developed throughout the project.
-version: 1.0
+title: "Resource Management Plan — Project PASS PMP"
+description: "Defines how human and physical resources are identified, assigned, managed, and developed throughout Project PASS PMP."
+filename: 10-resource-management-plan.md
+tags: [resources, governance, management, "filename:10-resource-management-plan.md"]
+draft: false
+date: "2025-10-16"
+role: "procedure"
+function: "governance"
+shortcode: "[pro]"
 ---
 
-# 👥 Resource Management Plan – Project PASS PMP  
-**Folder:** `/50-resource-management-plan/`  
+
+# Resource Management Plan
+ – Project PASS PMP  
 
 ---
 
@@ -102,3 +109,17 @@ Release planning is aligned with [Funding Requirements](../30-cost-management-pl
 ---
 
 > 📌 This plan provides structure for managing team effort, capacity, collaboration, and development throughout the life of the project.
+
+[[#Resource Management Plan|Top]]
+
+---
+
+## QuickLinks
+- [[10-resource-management-plan|Resource Management Plan — Project PASS PMP]]
+- [[20-raci-matrix|RACI Matrix]]
+- [[30-resource-estimates|Resource Estimates]]
+- [[40-resource-calendars|Resource Calendars]]
+- [[50-team-charter|Team Charter]]
+- [[60-training-plan|Training Plan]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

@@ -1,12 +1,16 @@
 ---
-title: Cost Estimates – Project PASS PMP
-description: Itemized cost estimates for tasks and deliverables across the project.
-version: 1.0
+title: "Cost Estimates — Project PASS PMP"
+description: "Provides detailed cost estimates for each project activity, work package, and deliverable."
+filename: 40-Cost-Estimates.md
+tags: [governance, cost, estimating, "filename:40-Cost-Estimates.md"]
+draft: false
+date: "2025-10-16"
+role: "standard"
+function: "governance"
+shortcode: "[std]"
 ---
 
-# 🧮 Cost Estimates – Project PASS PMP  
-**Folder:** `/30-cost-management/`  
-**Bloom’s Level:** 2 – Understanding (Apply, Interpret, Compare)
+# Cost Estimates – Project PASS PMP  
 
 ---
 
@@ -42,3 +46,23 @@ It feeds into the [Cost Baseline](./Cost-Baseline.md) and is referenced in the [
 
 - Update whenever scope changes or contributor estimates shift
 - Once baselined, match against [Cost Performance Report](./Cost-Performance-Report.md)
+
+[[#Cost Estimates – Project PASS PMP|Top]]
+
+---
+
+## QuickLinks
+- [[10-cost-management-plan|Cost Management Plan — Project PASS PMP]]
+- [[20-cost-performance-report|Cost Performance Report]]
+- [[30-cost-change-log|Cost Change Log]]
+- [[40-Cost-Estimates|Cost Estimates]]
+- [[50-Cost-Baseline|Cost Baseline]]
+- [[60-Funding-Requirements|Funding Requirements]]
+- [[70-Budget-Audit-Checklist|Budget Audit Checklist]]
+- [[80-Cost-Performance-Trend-Chart|Cost Performance Trend Chart]]
+- [[90-Cost-Metrics-Glossary|Cost Metrics Glossary]]
+- [[index|Cost Management – Index]]
+- [[README|Cost Management – README]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]
+

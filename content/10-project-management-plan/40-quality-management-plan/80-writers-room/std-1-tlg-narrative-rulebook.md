@@ -1,18 +1,18 @@
 ---
-title: Characther's Combined Backstories"
-decriptive_title: Canon - Comprehensive Cast of Carachters
-author: JASYTI
-role: overview
-summary: A compiled document containing all the back stories for all the cast of charachters
-tags:
-  - characters
-  - backstory
-  - crew
-  - narrative-arc
-  - chr
-  - bs
+title: "The Last Gate Narrative Rulebook"
+description: "Defines the internal logic, canon consistency, and creative structure of The Last Gate series."
+filename: std-1-tlg-narrative-rulebook.md
+tags: [writers-room, lore, narrative, "filename:std-1-tlg-narrative-rulebook.md"]
+draft: false
+date: "2025-10-16"
+role: "standard"
+function: "creative"
+shortcode: "[std]"
 ---
-# The Last Gate Canon: Combined Character Backstories  
+
+# The Last Gate Canon:
+ Combined Character Backstories  
+
 ## Introduction
 - This page is a **reference guide**, not story prose.  
 - Each entry follows the same model: **Role → Summary → Backstory → How to Use → Leak → Key Moment.**  
@@ -277,6 +277,8 @@ Dom is the Domain Anchor — gravel-voiced, scarred, and always framing lessons 
 
 ---
 
+[[#The Last Gate Canon:|Top]]
+
 ## 🧠 Dom’s Backstory (In-World Truth)
 
 Dominic Triad was born into a family of orbital auditors, raised to believe that numbers never lie and deviation always kills. As a cadet in the Galactic Project Corps, he excelled at schedule compression drills and once won an award for predicting a reactor repair timeline within six seconds of actual completion.  
@@ -447,6 +449,7 @@ Her uncanny knack for knowing what came next earned her the nickname **Tasker.**
 - Sees Riya as someone to keep moving, even when Riya needs to pause  
 
 ---
+[[#The Last Gate Canon:|Top]]
 
 ### 🎯 Key Moment — The Emotional Payoff
 
@@ -533,6 +536,7 @@ It never gets one.
 
 She walks away. And The Plan moves without it.
 
+[[#The Last Gate Canon:|Top]]
 
 # Risque Mangere – Story Engine & Structural Backstory
 
@@ -642,6 +646,7 @@ When the Empire fell, she slid easily into M.A.C.P.E.A.’s machine bureaucracy.
 Now, aboard Platform 7, she has latched onto Project ELIXIR. Stabilization isn’t enough for her. It must predict sentiment, support every colony language, and change the color palette while they’re at it. She doesn’t see sabotage. She sees legacy.  
 
 ---
+[[#The Last Gate Canon:|Top]]
 
 ### 💧 How to Leak the Backstory (Narrative Integration)
 
@@ -690,6 +695,7 @@ And for the reader, the lesson is sealed: **every time an exam answer adds gold-
 - She is the exam’s **scope creep distractor** — polished but fatal.  
 - By the end of the saga, her presence trains the reader’s instincts: if it looks like Reep, it’s the wrong answer.
 
+[[#The Last Gate Canon:|Top]]
 
 ## The GoKnow Gate – Story Engine & Structural Backstory
 
@@ -763,13 +769,23 @@ For the first time, it defers.
 
 And Riya proves the Plan is alive — because she chose.
 
----
-### Quicklinks
-- [[pol-pmi-lore-fidelity-policy|PMI Lore Fidelity Policy]]
-- [[pol-tlg-lore-writing-style-guide|Writer Style Guide — The Last Gate]]
-- [[std-temp-backstory-model|Backstory Template]]
-- [[std-tlg-narrative-rulebook|Narrative Rulebook]]
+[[#The Last Gate Canon:|Top]]
 
-### Main Categories
-- [[repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/40-quallity-managment-plan/index|TLG-Lore-Door-Policy Index]]
-- [[repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/index|10-Guidance Index]]
+---
+
+## QuickLinks
+- [[pol-1-authoring-documents-jasyti|Authoring Documents for JASYTI’s Knowledge Base]]
+- [[pol-2-structred-learning-writing-style-guide|Structured Learning Writing Style Guide]]
+- [[pol-3-pmi-lore-fidelity-policy|PMI Lore Fidelity Policy]]
+- [[pol-4-tlg-lore-writing-style-guide|The Last Gate Lore Writing Style Guide]]
+- [[pol-5-gloss-first|Gloss First Policy]]
+- [[prmt-1-no-yaml-windows11-gpt-project-execution|No-YAML Windows 11 GPT Project Execution Prompt]]
+- [[scr-1-deihc-yaml-linter.py|DEIHC YAML Linter Script]]
+- [[session-thread-1.txt|Writers Room Session Thread 1]]
+- [[std-1-tlg-narrative-rulebook|The Last Gate Narrative Rulebook]]
+- [[tem-1-markdown-template-for-quartz-environments|Markdown Template for Quartz Environments]]
+- [[tem-2-tlg-backstory-template|The Last Gate Backstory Template]]
+- [[index|Writers Room – Index]]
+- [[README|Writers Room – README]]
+- [[../../../400-glossary/10-glossary|Glossary]]
+- [[../../../index|Project PASS PMP – Home]]

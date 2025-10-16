@@ -1,13 +1,16 @@
 ---
-title: Cost Performance Trend Chart – Project PASS PMP
-description: Visualizes cost performance over time using EVM metrics like CPI and CV.
-version: 1.0
+title: "Cost Performance Trend Chart — Project PASS PMP"
+description: "Graphical representation of cost performance over time using CPI, variance, and EVM data."
+filename: 80-Cost-Performance-Trend-Chart.md
+tags: [governance, reporting, trend, cost, "filename:80-Cost-Performance-Trend-Chart.md"]
+draft: false
+date: "2025-10-16"
+role: "reference"
+function: "governance"
+shortcode: "[ref]"
 ---
 
-# 📊 Cost Performance Trend Chart – Project PASS PMP  
-**Folder:** `/30-cost-management-plan/`  
-**Bloom’s Level:** 2 – Understanding (Interpret, Compare, Visualize)
-
+# Cost Performance Trend Chart – Project PASS PMP  
 ---
 
 ## 📎 Purpose
@@ -58,14 +61,21 @@ It provides an easy-to-read visual and numerical breakdown of **project cost hea
 - Compare to the [Schedule Performance Report](../20-schedule-management/05-schedule-performance-report.md) to assess time-cost alignment  
 - Use the trend to justify decisions about buffer use, resource shifts, or scope adjustments
 
+[[#Cost Performance Trend Chart – Project PASS PMP|Top]]
+
 ---
 
-## 🔗 Quick Navigation
-
-- [Cost Management Plan](10-cost-management-plan.md)  
-- [Cost Estimates](40-Cost-Estimates.md)  
-- [Cost Baseline](50-Cost-Baseline.md)  
-- [Funding Requirements](60-Funding-Requirements.md)  
-- [Cost Performance Report](20-cost-performance-report.md)  
-- [Cost Change Log](30-cost-change-log.md)  
-- [Back to Folder Index](repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/30-cost-managment-plan/index.md)
+## QuickLinks
+- [[10-cost-management-plan|Cost Management Plan — Project PASS PMP]]
+- [[20-cost-performance-report|Cost Performance Report]]
+- [[30-cost-change-log|Cost Change Log]]
+- [[40-Cost-Estimates|Cost Estimates]]
+- [[50-Cost-Baseline|Cost Baseline]]
+- [[60-Funding-Requirements|Funding Requirements]]
+- [[70-Budget-Audit-Checklist|Budget Audit Checklist]]
+- [[80-Cost-Performance-Trend-Chart|Cost Performance Trend Chart]]
+- [[90-Cost-Metrics-Glossary|Cost Metrics Glossary]]
+- [[index|Cost Management – Index]]
+- [[README|Cost Management – README]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

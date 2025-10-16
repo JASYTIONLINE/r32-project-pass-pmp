@@ -1,10 +1,17 @@
 ---
-title: Schedule Management Plan – Project PASS PMP
-description: Defines how the project schedule will be planned, developed, managed, and controlled.
-version: 1.0
+title: "Schedule Management Plan — Project PASS PMP"
+description: "Defines how the project schedule will be planned, developed, managed, and controlled."
+filename: 01-schedule-management-plan.md
+tags: [governance, procedures, schedule-management, "filename:01-schedule-management-plan.md"]
+draft: false
+date: "2025-10-16"
+role: "procedure"
+function: "governance"
+shortcode: "[pro]"
 ---
 
-# 📘 Schedule Management Plan  
+
+# Schedule Management Plan  
 **Project:** Project PASS PMP  
 **Folder:** `/20-schedule-management/`
 
@@ -115,4 +122,21 @@ See: [Schedule Performance Report](./06-schedule-performance-report.md)
 
 ---
 
-> 📌 This plan defines the rules and artifacts for scheduling across the full project lifecycle. All contributors should understand how scheduling affects deliverables, dependencies, and final exam preparation timelines.
+> This plan defines the rules and artifacts for scheduling across the full project lifecycle. All contributors should understand how scheduling affects deliverables, dependencies, and final exam preparation timelines.
+
+[[#Schedule Management Plan|Top]]
+
+---
+
+## QuickLinks
+- [[01-schedule-management-plan|Schedule Management Plan]]
+- [[02-detailed-project-schedule|Detailed Project Schedule]]
+- [[03-milestone-list|Milestone List]]
+- [[04-schedule-baseline|Schedule Baseline]]
+- [[05-schedule-performance-report|Schedule Performance Report]]
+- [[06-schedule-change-log|Schedule Change Log]]
+- [[index|Schedule Management – Index]]
+- [[README|Schedule Management – README]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]
+

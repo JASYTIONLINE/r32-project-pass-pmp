@@ -1,12 +1,17 @@
 ---
-title: Knowledge Contribution Log – Project PASS PMP
-description: Tracks the creation, update, and review of knowledge assets across the project lifecycle.
-version: 1.0
+title: "Knowledge Contribution Log — Project PASS PMP"
+description: "Chronological ledger of all knowledge contributions, updates, and classifications used for audits and retrospectives."
+filename: 40-log-knowledge-contributions.md
+tags: [knowledge, log, contributions, "filename:40-log-knowledge-contributions.md"]
+draft: false
+date: "2025-10-16"
+role: "record"
+function: "reporting"
+shortcode: "[log]"
 ---
 
-# 🗂 Knowledge Contribution Log – Project PASS PMP  
-**File:** `log-knowledge-contributions.md`  
-**Folder:** `/20-knowledge-management-plan/`
+# Knowledge Contribution Log
+– Project PASS PMP  
 
 ---
 
@@ -68,3 +73,16 @@ Maintaining this log ensures accountability, transparency, and a clear audit tra
 - [Knowledge Capture Workflow](pro-knowledge-capture-workflow.md)  
 - [Knowledge Types Standard](std-knowledge-types.md)  
 - [Back to Folder Index](repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/60-communications-managment-plan/20-knowledge-management-plan/index.md)
+
+[[#Knowledge Management Plan — Project PASS PMP|Top]]
+
+---
+
+## QuickLinks
+- [[10-pla-knowledge-management|Knowledge Management Plan — Project PASS PMP]]
+- [[20-pro-knowledge-capture-workflow|Knowledge Capture Workflow]]
+- [[30-std-knowledge-types|Knowledge Types Standard]]
+- [[40-log-knowledge-contributions|Knowledge Contribution Log]]
+- [[../60-communications-management-plan/index|Communications Management – Index]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

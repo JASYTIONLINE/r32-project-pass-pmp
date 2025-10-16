@@ -1,10 +1,18 @@
 ---
-title: Communications Log – Project PASS PMP
-description: Chronological log of significant project communications and related decisions.
-version: 1.0
+title: "Communications Log — Project PASS PMP"
+description: "Chronological record of key communication events, decisions, escalations, and stakeholder updates, supporting transparency and traceability."
+filename: 40-log-communications.md
+tags: [communications, reporting, log, "filename:40-log-communications.md"]
+draft: false
+date: "2025-10-16"
+role: "record"
+function: "reporting"
+shortcode: "[log]"
 ---
 
-# 📝 Communications Log – Project PASS PMP  
+
+# Communications Log
+– Project PASS PMP  
 **Folder:** `/60-communications-management-plan/`
 
 ---
@@ -69,3 +77,15 @@ It supports:
 - [PACE Policy](pol-communications-pace.md.md)  
 - [Collaboration Platform Index](pro-communications-collaboration-index.md)  
 - [Back to Folder Index](repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/60-communications-managment-plan/index.md)
+
+[[#Communications Log|Top]]
+
+---
+
+## QuickLinks
+- [[10-pla-communications-management|Communications Management Plan — Project PASS PMP]]
+- [[20-pol-communications-pace.md|PACE Communications Policy]]
+- [[30-pro-communications-collaboration-index|Collaboration Platform Procedure]]
+- [[40-log-communications|Communications Log]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

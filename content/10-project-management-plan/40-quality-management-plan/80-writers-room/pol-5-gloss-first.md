@@ -1,24 +1,18 @@
 ---
-title: "Glossary-First Writing Policy"
-description: "Policy for using glossary definitions to guide all terminology in The Last Gate fiction."
-tags: [cmpa3302, policy, glossary, writing, "filename:pol-gloss-first.md"]
+title: "Gloss First Policy"
+description: "Mandates that all new writing integrates glossary-first terminology and cross-links for conceptual consistency."
+filename: pol-5-gloss-first.md
+tags: [writers-room, glossary, policy, "filename:pol-5-gloss-first.md"]
 draft: false
-date: "2025-09-23"
-permalink: "/kb/pol-gloss-first/"
-enableToc: true
-
-aliases: ["Glossary Policy", "Glossary-First Policy"]
-cssclasses: ["sc-std"]
-
-h1: "Glossary-First Writing Policy"
-course: "cmpa3302"
-filename: "pol-gloss-first.md"
+date: "2025-10-16"
 role: "policy"
-function: "kb-page"
+function: "education"
 shortcode: "[pol]"
 ---
+
 					
-# Policy: Glossary-First Integration in *The Last Gate* Fiction  
+# Glossary-First
+Integration in *The Last Gate* Fiction  
 
 ## Purpose  
 To ensure that every use of PMI terminology within *The Last Gate* narrative is scientifically accurate, contextually faithful, and aligned with PMI standards. This policy guarantees that the fiction functions both as lore and as a living glossary, supporting exam recall and conceptual clarity.  
@@ -54,3 +48,25 @@ To ensure that every use of PMI terminology within *The Last Gate* narrative is 
 
 ## Enforcement  
 - Drafts must undergo a glossary-fidelity review before acceptance int
+
+[[#Glossary-First|Top]]
+
+---
+
+## QuickLinks
+- [[pol-1-authoring-documents-jasyti|Authoring Documents for JASYTI’s Knowledge Base]]
+- [[pol-2-structred-learning-writing-style-guide|Structured Learning Writing Style Guide]]
+- [[pol-3-pmi-lore-fidelity-policy|PMI Lore Fidelity Policy]]
+- [[pol-4-tlg-lore-writing-style-guide|The Last Gate Lore Writing Style Guide]]
+- [[pol-5-gloss-first|Gloss First Policy]]
+- [[prmt-1-no-yaml-windows11-gpt-project-execution|No-YAML Windows 11 GPT Project Execution Prompt]]
+- [[scr-1-deihc-yaml-linter.py|DEIHC YAML Linter Script]]
+- [[session-thread-1.txt|Writers Room Session Thread 1]]
+- [[std-1-tlg-narrative-rulebook|The Last Gate Narrative Rulebook]]
+- [[tem-1-markdown-template-for-quartz-environments|Markdown Template for Quartz Environments]]
+- [[tem-2-tlg-backstory-template|The Last Gate Backstory Template]]
+- [[index|Writers Room – Index]]
+- [[README|Writers Room – README]]
+- [[../../../400-glossary/10-glossary|Glossary]]
+- [[../../../index|Project PASS PMP – Home]]
+

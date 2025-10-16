@@ -1,16 +1,16 @@
 ---
-title: "Writer Style Guide — Structured Learning (Information Pages)"
-description: "Governance policy defining tone, structure, and authoring standards for all informational pages in the Structured Study Guide. Ensures consistency, humor, and clarity across the PMP Knowledge Base."
-filename: pol-structred-learning-writing-style-guide
-tags: [governance, style-guide, structured-learning, writing, author, pmp, "filename:polwriterstyleguidestructuredlearning.md"]
+title: "Structured Learning Writing Style Guide"
+description: "Policy describing tone, clarity, and pedagogical writing conventions for Structured Learning content."
+filename: pol-2-structred-learning-writing-style-guide.md
+tags: [writers-room, governance, writing-style, "filename:pol-2-structred-learning-writing-style-guide.md"]
 draft: false
-date: "2025-10-12"
+date: "2025-10-16"
 role: "policy"
 function: "guidance"
 shortcode: "[pol]"
 ---
 
-# ✍️ Writer Style Guide — Structured Learning (Information Pages)
+# Writer Style Guide — Structured Learning (Information Pages)
 
 This is the official contributor’s guide for writing **informational pages** inside the **Structured Study Guide** (100 Series).  
 It establishes tone, structure, and linking behavior so that every page feels connected, readable, and—most importantly—fun.
@@ -190,6 +190,21 @@ The Author is their sarcastic friend who helps them laugh their way through the 
 
 If a reader bookmarks the page because it made them laugh **and** understand scope control, we’ve done our job.
 
+[[#Writer Style Guide — Structured Learning (Information Pages)|Top]]
+
 ---
 
-**Approved for inclusion under Governance → Policies and Procedures → Writing and Style.**
+## QuickLinks
+- [[pol-1-authoring-documents-jasyti|Authoring Documents for JASYTI’s Knowledge Base]]
+- [[pol-2-structred-learning-writing-style-guide|Structured Learning Writing Style Guide]]
+- [[pol-3-pmi-lore-fidelity-policy|PMI Lore Fidelity Policy]]
+- [[pol-4-tlg-lore-writing-style-guide|The Last Gate Lore Writing Style Guide]]
+- [[pol-5-gloss-first|Gloss First Policy]]
+- [[prmt-1-no-yaml-windows11-gpt-project-execution|No-YAML Windows 11 GPT Project Execution Prompt]]
+- [[std-1-tlg-narrative-rulebook|The Last Gate Narrative Rulebook]]
+- [[tem-1-markdown-template-for-quartz-environments|Markdown Template for Quartz Environments]]
+- [[tem-2-tlg-backstory-template|The Last Gate Backstory Template]]
+- [[index|Writers Room – Index]]
+- [[README|Writers Room – README]]
+- [[../../../400-glossary/10-glossary|Glossary]]
+- [[../../../index|Project PASS PMP – Home]]

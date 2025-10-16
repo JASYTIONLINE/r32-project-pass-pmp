@@ -1,11 +1,17 @@
 ---
-title: Creating docs and frontmatter
----
-This is an example doc. Docs are Markdown files inside the `content/` directory.
-
+title: "Markdown Template for Quartz Environments"
+description: "Standardized template for authoring Markdown files compatible with Quartz publishing and Obsidian editing."
+filename: tem-1-markdown-template-for-quartz-environments.md
+tags: [writers-room, template, markdown, quartz, "filename:tem-1-markdown-template-for-quartz-environments.md"]
+draft: false
+date: "2025-10-16"
+role: "template"
+function: "education"
+shortcode: "[tem]"
 ---
 
 ## Creating new docs
+This is an example doc. Docs are Markdown files inside the `content/` directory.
 
 Creating a new knowledge base doc is easy:
 
@@ -106,3 +112,25 @@ Here are some helpful references for the type of Markdown you can use in your kn
 - [Basic formatting syntax](https://help.obsidian.md/syntax)
 - [Obsidian Flavored Markdown](https://help.obsidian.md/obsidian-flavored-markdown)
 - [GitHub Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[[#Creating new docs|Top]]
+
+---
+
+## QuickLinks
+- [[pol-1-authoring-documents-jasyti|Authoring Documents for JASYTI’s Knowledge Base]]
+- [[pol-2-structred-learning-writing-style-guide|Structured Learning Writing Style Guide]]
+- [[pol-3-pmi-lore-fidelity-policy|PMI Lore Fidelity Policy]]
+- [[pol-4-tlg-lore-writing-style-guide|The Last Gate Lore Writing Style Guide]]
+- [[pol-5-gloss-first|Gloss First Policy]]
+- [[prmt-1-no-yaml-windows11-gpt-project-execution|No-YAML Windows 11 GPT Project Execution Prompt]]
+- [[scr-1-deihc-yaml-linter.py|DEIHC YAML Linter Script]]
+- [[session-thread-1.txt|Writers Room Session Thread 1]]
+- [[std-1-tlg-narrative-rulebook|The Last Gate Narrative Rulebook]]
+- [[tem-1-markdown-template-for-quartz-environments|Markdown Template for Quartz Environments]]
+- [[tem-2-tlg-backstory-template|The Last Gate Backstory Template]]
+- [[index|Writers Room – Index]]
+- [[README|Writers Room – README]]
+- [[../../../400-glossary/10-glossary|Glossary]]
+- [[../../../index|Project PASS PMP – Home]]
+

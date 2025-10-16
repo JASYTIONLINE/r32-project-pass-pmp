@@ -1,10 +1,17 @@
 ---
-title: Detailed Project Schedule – Project PASS PMP
-description: Structured schedule showing tasks, durations, dependencies, and status.
-version: 1.0
+title: "Detailed Project Schedule — Project PASS PMP"
+description: "Structured schedule showing tasks, durations, dependencies, and status across all project workstreams."
+filename: 02-detailed-project-schedule.md
+tags: [governance, schedule, tracking, "filename:02-detailed-project-schedule.md"]
+draft: false
+date: "2025-10-16"
+role: "standard"
+function: "governance"
+shortcode: "[std]"
 ---
 
-# 📆 Detailed Project Schedule  
+
+# Detailed Project Schedule  
 **Project:** Project PASS PMP  
 **Folder:** `/20-schedule-management/`
 
@@ -50,4 +57,20 @@ This document outlines the full schedule of activities required to complete the 
 
 ---
 
-> 💡 This file will evolve until the baseline is locked. Once locked, only changes via [Change Request](../00-project-integration-management/change-management/change-request-template.md) may apply.
+> This file will evolve until the baseline is locked. Once locked, only changes via [Change Request](../00-project-integration-management/change-management/change-request-template.md) may apply.
+
+[[#Detailed Project Schedule|Top]]
+
+---
+
+## QuickLinks
+- [[01-schedule-management-plan|Schedule Management Plan]]
+- [[02-detailed-project-schedule|Detailed Project Schedule]]
+- [[03-milestone-list|Milestone List]]
+- [[04-schedule-baseline|Schedule Baseline]]
+- [[05-schedule-performance-report|Schedule Performance Report]]
+- [[06-schedule-change-log|Schedule Change Log]]
+- [[index|Schedule Management – Index]]
+- [[README|Schedule Management – README]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

@@ -1,10 +1,17 @@
 ---
-title: Schedule Management – Index
-description: Full index of schedule-related planning and control documents for Project PASS PMP.
-version: 1.2
+title: "Schedule Management Index"
+description: "Index of all schedule management artifacts for Project PASS PMP."
+filename: index.md
+tags: [governance, schedule-management, index, "filename:index.md"]
+draft: false
+date: "2025-10-16"
+role: "index"
+function: "governance"
+shortcode: "[idx]"
 ---
 
-# 📘 Schedule Management – Document Index  
+
+# Schedule Management – Document Index  
 **Folder:** `/20-schedule-management/`  
 **Bloom’s Level:** 1 – Remembering (Reference-Ready)
 
@@ -82,3 +89,19 @@ This is a duplicate filename; you may want to merge or remove one if not intenti
 
 > 📌 These artifacts support planning, tracking, and controlling project time.  
 > For changes to the schedule, use the [Change Request Template](../00-project-integration-management/change-management/change-request-template.md).
+
+[[#Schedule Management – Document Index|Top]]
+
+---
+
+## QuickLinks
+- [[01-schedule-management-plan|Schedule Management Plan]]
+- [[02-detailed-project-schedule|Detailed Project Schedule]]
+- [[03-milestone-list|Milestone List]]
+- [[04-schedule-baseline|Schedule Baseline]]
+- [[05-schedule-performance-report|Schedule Performance Report]]
+- [[06-schedule-change-log|Schedule Change Log]]
+- [[index|Schedule Management – Index]]
+- [[README|Schedule Management – README]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

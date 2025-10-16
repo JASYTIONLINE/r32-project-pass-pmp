@@ -1,13 +1,13 @@
 ---
-title: "Scope Statement — Project PASS PMP"
-description: "Formal PMI-compliant scope statement defining deliverables, exclusions, constraints, assumptions, and governance rules for Project PASS PMP."
-filename: 03-scope-project-pass-pmp.md
-tags: [governance, procedures, scope, "filename:03-scope-project-pass-pmp.md"]
+title: "Project Scope Statement"
+description: "Defines the approved project scope, major deliverables, assumptions, and constraints for Project PASS PMP."
+filename: 01-project-scope-statement.md
+tags: [governance, scope, baseline, "filename:01-project-scope-statement.md"]
 draft: false
-date: "2025-10-12"
-role: "procedure"
+date: "2025-10-16"
+role: "standard"
 function: "governance"
-shortcode: "[pro]"
+shortcode: "[std]"
 ---
 
 ## 1. Project Scope Description

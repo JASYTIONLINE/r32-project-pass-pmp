@@ -1,10 +1,16 @@
 ---
-title: Scope Baseline – README
-description: Overview of scope baseline artifacts used to define and control the project's official scope.
-version: 1.0
+title: "Scope Baseline – README"
+description: "Overview of scope baseline documents for Project PASS PMP, including scope statement, WBS, and WBS dictionary."
+filename: README.md
+tags: [governance, overview, scope, "filename:README.md"]
+draft: false
+date: "2025-10-16"
+role: "reference"
+function: "overview"
+shortcode: "[readme]"
 ---
 
-# 📁 Scope Baseline – Overview
+# Scope Baseline – Overview
 
 Welcome to the **Scope Baseline** folder for **Project PASS PMP**. This folder contains the three core documents that officially define the boundaries, deliverables, and structure of the project.
 
@@ -37,3 +43,15 @@ For technical or supporting documents related to how scope is managed (like the 
 
 🔁 If you need to propose a change to any of these files, please use the official [Change Request Template](../../00-project-integration-management/change-management/change-request-template.md) and submit it through the governance workflow.
 
+[[#Scope Baseline – Overview|Top]]
+
+---
+
+## QuickLinks
+- [[01-project-scope-statement|Project Scope Statement]]
+- [[02-work-breakdown-structure|Work Breakdown Structure]]
+- [[03-wbs-dictionary|WBS Dictionary]]
+- [[index|Scope Baseline – Index]]
+- [[README|Scope Baseline – README]]
+- [[../../../400-glossary/10-glossary|Glossary]]
+- [[../../../index|Project PASS PMP – Home]]

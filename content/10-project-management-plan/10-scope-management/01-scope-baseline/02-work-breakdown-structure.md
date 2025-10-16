@@ -1,10 +1,16 @@
 ---
-title: Work Breakdown Structure – Project PASS PMP
-description: Decomposition of deliverables for both public-facing study site and internal team knowledge base.
-version: 1.0
+title: "WBS Dictionary"
+description: "Detailed description of each WBS element, including deliverables, activities, and responsibilities."
+filename: 03-wbs-dictionary.md
+tags: [governance, scope, baseline, wbs, "filename:03-wbs-dictionary.md"]
+draft: false
+date: "2025-10-16"
+role: "standard"
+function: "governance"
+shortcode: "[std]"
 ---
 
-# 🧱 Work Breakdown Structure (WBS)
+# Work Breakdown Structure (WBS)
 
 This WBS defines the **complete scope of work** for Project PASS PMP, broken down into hierarchical levels to support planning, scheduling, and control.  
 It captures the two-track delivery system:

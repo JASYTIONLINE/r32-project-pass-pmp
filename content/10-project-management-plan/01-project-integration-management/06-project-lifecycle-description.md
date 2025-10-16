@@ -1,19 +1,19 @@
 ---
-title: "Change Management Plan"
-description: "Defines the structured approach for submitting, reviewing, approving, and tracking project changes."
-filename: 03-change-management-plan.md
-tags: [governance, procedures, change-management, "filename:03-change-management-plan.md"]
+title: "Project Lifecycle Description"
+description: "Defines the standardized sequence of phases, milestones, and decision points that make up the project lifecycle."
+filename: 06-project-lifecycle-description-md
+tags: [governance, standards, lifecycle, "filename:06-project-lifecycle-description-md"]
 draft: false
 date: "2025-10-16"
-role: "procedure"
+role: "standard"
 function: "governance"
-shortcode: "[pro]"
+shortcode: "[std]"
 ---
-# Change Management Plan
+# Project Lifecycle Description
 
 TBP
 
-[[#Change Management Plan|Top]]
+[[#Project Lifecycle Description|Top]]
 
 ---
 

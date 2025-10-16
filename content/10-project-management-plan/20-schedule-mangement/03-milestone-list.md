@@ -1,10 +1,16 @@
 ---
-title: Milestone List – Project PASS PMP
-description: Key project milestones used to track major progress points and stakeholder approvals.
-version: 1.0
+title: "Milestone List — Project PASS PMP"
+description: "List of key project milestones used to track progress and trigger approvals."
+filename: 03-milestone-list.md
+tags: [governance, schedule, milestone, "filename:03-milestone-list.md"]
+draft: false
+date: "2025-10-16"
+role: "standard"
+function: "governance"
+shortcode: "[std]"
 ---
 
-# 🏁 Milestone List – Project PASS PMP  
+# Milestone List – Project PASS PMP  
 **Folder:** `/20-schedule-management/`  
 **Bloom’s Level:** 2 – Understanding (Sequence, Describe, Interpret)
 
@@ -47,4 +53,20 @@ Milestones are tracked in the [Schedule Baseline](04-schedule-baseline.md) and r
 
 ---
 
-> 📌 Milestones mark the **completion of major deliverables or gates**. They help teams focus on the next critical checkpoint. This document is version-controlled and tied to the project’s schedule performance.
+> Milestones mark the **completion of major deliverables or gates**. They help teams focus on the next critical checkpoint. This document is version-controlled and tied to the project’s schedule performance.
+
+[[#Milestone List – Project PASS PMP|Top]]
+
+---
+
+## QuickLinks
+- [[01-schedule-management-plan|Schedule Management Plan]]
+- [[02-detailed-project-schedule|Detailed Project Schedule]]
+- [[03-milestone-list|Milestone List]]
+- [[04-schedule-baseline|Schedule Baseline]]
+- [[05-schedule-performance-report|Schedule Performance Report]]
+- [[06-schedule-change-log|Schedule Change Log]]
+- [[index|Schedule Management – Index]]
+- [[README|Schedule Management – README]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

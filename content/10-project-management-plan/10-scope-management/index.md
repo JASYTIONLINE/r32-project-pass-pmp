@@ -1,10 +1,17 @@
 ---
-title: Scope Management – Index
-description: Master index of scope-related documents and subfolders for Project PASS PMP.
-version: 1.1
+title: "Scope Management Index"
+description: "Index of all scope-related artifacts and subfolders within the Project PASS PMP Management Plan."
+filename: index.md
+tags: [governance, scope-management, index, "filename:index.md"]
+draft: false
+date: "2025-10-16"
+role: "index"
+function: "governance"
+shortcode: "[idx]"
 ---
 
-# 📘 Scope Management – Document Index  
+
+# Scope Management – Document Index  
 **Folder:** `/10-project-management-plan/10-scope-management/`  
 **Bloom’s Level:** 1 – Remembering (Reference Ready)
 
@@ -52,14 +59,15 @@ Defines how project scope will be defined, validated, and controlled. Includes:
 - Tools and techniques
 - Change control guidelines related to scope
 
----
-
-## 🔁 Quicklinks
-
-- 🔹 [Scope Baseline Index](repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/10-scope-management/01-scope-baseline/index.md)
-- 🔹 [Requirements Folder Index](repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/10-scope-management/02-requirements/index.md)
-- 📄 [Scope Management Plan](01-scope-management-plan.md)
+[[#Scope Management – Document Index  |Top]]
 
 ---
 
-> 📌 For changes to any scope baseline document, submit a formal change request and reference the original WBS element ID or Scope Statement section.
+## QuickLinks
+- [[01-scope-management-plan|Scope Management Plan]]
+- [[01-scope-baseline/index|Scope Baseline – Index]]
+- [[02-requirements/index|Requirements Management – Index]]
+- [[index|Scope Management – Index]]
+- [[README|Scope Management – README]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

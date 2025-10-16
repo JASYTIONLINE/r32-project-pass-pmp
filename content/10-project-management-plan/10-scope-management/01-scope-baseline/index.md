@@ -1,7 +1,13 @@
 ---
-title: Scope Baseline Index – Project PASS PMP
-description: Index and summary of all formal scope baseline artifacts for Project PASS PMP.
-version: 1.0
+title: "Scope Baseline Index"
+description: "Index for the scope baseline documents defining the scope statement, WBS, and WBS dictionary."
+filename: index.md
+tags: [governance, scope, baseline, index, "filename:index.md"]
+draft: false
+date: "2025-10-16"
+role: "index"
+function: "governance"
+shortcode: "[idx]"
 ---
 
 # 📘 Scope Baseline Index  
@@ -60,3 +66,15 @@ They must:
 
 > 🧠 These documents collectively define the “What” of the project. They are used during planning, execution, monitoring, and change control. Keep this folder pristine and audited.
 
+[[#Scope Baseline Index|Top]]
+
+---
+
+## QuickLinks
+- [[01-project-scope-statement|Project Scope Statement]]
+- [[02-work-breakdown-structure|Work Breakdown Structure]]
+- [[03-wbs-dictionary|WBS Dictionary]]
+- [[index|Scope Baseline – Index]]
+- [[README|Scope Baseline – README]]
+- [[../../../400-glossary/10-glossary|Glossary]]
+- [[../../../index|Project PASS PMP – Home]]

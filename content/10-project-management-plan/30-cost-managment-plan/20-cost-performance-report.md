@@ -1,10 +1,16 @@
 ---
-title: Cost Performance Report – Project PASS PMP
-description: Periodic report tracking actual vs. planned cost performance metrics.
-version: 1.0
+title: "Cost Performance Report — Project PASS PMP"
+description: "Summarizes cost performance using key metrics such as CPI, variance, and earned value comparisons."
+filename: 20-cost-performance-report.md
+tags: [governance, reporting, cost, performance, "filename:20-cost-performance-report.md"]
+draft: false
+date: "2025-10-16"
+role: "reference"
+function: "governance"
+shortcode: "[ref]"
 ---
 
-# 💹 Cost Performance Report – Project PASS PMP  
+# Cost Performance Report – Project PASS PMP  
 **Folder:** `/30-cost-management/`  
 **Bloom’s Level:** 2 – Understanding (Interpret, Summarize, Explain)
 
@@ -65,3 +71,22 @@ As of this report:
 ---
 
 > 📌 This report will be updated bi-weekly, aligned with milestone checkpoints.
+
+[[#Cost Performance Report – Project PASS PMP |Top]]
+
+---
+
+## QuickLinks
+- [[10-cost-management-plan|Cost Management Plan — Project PASS PMP]]
+- [[20-cost-performance-report|Cost Performance Report]]
+- [[30-cost-change-log|Cost Change Log]]
+- [[40-Cost-Estimates|Cost Estimates]]
+- [[50-Cost-Baseline|Cost Baseline]]
+- [[60-Funding-Requirements|Funding Requirements]]
+- [[70-Budget-Audit-Checklist|Budget Audit Checklist]]
+- [[80-Cost-Performance-Trend-Chart|Cost Performance Trend Chart]]
+- [[90-Cost-Metrics-Glossary|Cost Metrics Glossary]]
+- [[index|Cost Management – Index]]
+- [[README|Cost Management – README]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

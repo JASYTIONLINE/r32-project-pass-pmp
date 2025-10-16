@@ -1,8 +1,16 @@
 ---
-title: Scope Management Plan
+title: "Scope Management Plan"
+description: "Defines how the project scope will be established, validated, and controlled throughout the lifecycle of Project PASS PMP."
+filename: 01-scope-management-plan.md
+tags: [governance, procedures, scope-management, "filename:01-scope-management-plan.md"]
+draft: false
+date: "2025-10-16"
+role: "procedure"
+function: "governance"
+shortcode: "[pro]"
 ---
 
-# 🗂️ Project Scope Management Plan
+# Project Scope Management Plan
 
 ## 1. Purpose
 

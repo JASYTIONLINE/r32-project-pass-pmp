@@ -1,10 +1,16 @@
 ---
-title: Knowledge Management – Document Index
-description: Portal to knowledge strategy, capture, reuse, and contribution tracking across Project PASS PMP.
-version: 1.0
+title: "Knowledge Management – Document Index"
+description: "Index of knowledge management strategy, workflows, standards, and contribution tracking under Project PASS PMP."
+filename: index.md
+tags: [knowledge, index, governance, "filename:index.md"]
+draft: false
+date: "2025-10-16"
+role: "index"
+function: "governance"
+shortcode: "[idx]"
 ---
 
-# 🧠 Knowledge Management – Document Index  
+# Knowledge Management – Document Index  
 **Folder:** `/20-knowledge-management-plan/`
 
 ---
@@ -46,12 +52,15 @@ Chronological ledger of who contributed what, when, and how it was classified. U
 > ➡️ Reference the **[Knowledge Types Standard](std-knowledge-types.md)** when contributing  
 > ➡️ Check the **[Contribution Log](log-knowledge-contributions.md)** to see how the KB is growing
 
+[[#Knowledge Management – Document Index|Top]]
+
 ---
 
-## Quick Navigation
-
-- [README](repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/60-communications-managment-plan/20-knowledge-management-plan/README.md)  
-- [Knowledge Management Plan](pla-knowledge-management.md)  
-- [Knowledge Capture Workflow](pro-knowledge-capture-workflow.md)  
-- [Knowledge Types Standard](std-knowledge-types.md)  
-- [Knowledge Contribution Log](log-knowledge-contributions.md)
+## QuickLinks
+- [[10-pla-knowledge-management|Knowledge Management Plan — Project PASS PMP]]
+- [[20-pro-knowledge-capture-workflow|Knowledge Capture Workflow]]
+- [[30-std-knowledge-types|Knowledge Types Standard]]
+- [[40-log-knowledge-contributions|Knowledge Contribution Log]]
+- [[../60-communications-management-plan/index|Communications Management – Index]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

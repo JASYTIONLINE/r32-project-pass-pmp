@@ -11,7 +11,7 @@ shortcode: "[pro]"
 ---
 
 
-# Skeleton Customer Intake Interview (v1)
+# Skeleton Customer Intake Interview
 
 ## A. Extracted Summary
 The site is being built as a **single source of truth (SoT)** for PMP exam prep, aligned directly to the **Examination Content Outline (ECO: Domains → Tasks → Enablers)**. It is meant for **self-study learners (you, primarily)** but can also support peers or future students. Users can study the site **linearly, like a book**, or **modularly, by jumping to lessons/domains/glossary**. The structure is **index page → numbered sections (100 Business Environment, 200 Process, 300 People, 400 Exam Prep, 500 Resources) → lessons (X10 pattern) → ECO anchors + glossary cross-links**. Publishing stack is **Obsidian → Quartz → GitHub Pages**. Navigation choices include shallow folder depth, predictable numbering, and a dedicated **Site Map** for structure (kept off the index to avoid clutter). Recent decisions locked in: **ECO-first alignment, cross-linking lessons to ECO domain files, glossary at the end, and SoT rule (all approved sources distilled here, no duplication of PMI books or messy bootcamp UI).**  
@@ -77,3 +77,18 @@ Please fill in the blanks and confirm/adjust the skeleton fields inline. Once yo
 
 ### Main Categories
 - [[repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/10-scope-management/02-requirements/index|Incorporation Docs – Home]]
+
+[[#Skeleton Customer Intake InterviewE|Top]]
+
+---
+
+## QuickLinks
+- [[00-cutomer-intake-interview-project-pass-pmp|Customer Intake Interview — Project PASS PMP]]
+- [[01-requirements-management-plan|Requirements Management Plan]]
+- [[02-requirements-traceability-matrix|Requirements Traceability Matrix]]
+- [[03-temp-requirements-intake-form|Requirements Intake Form Template]]
+- [[04-requirements-validation-checklist|Requirements Validation Checklist]]
+- [[index|Requirements Management – Index]]
+- [[README|Requirements Management – README]]
+- [[../../../400-glossary/10-glossary|Glossary]]
+- [[../../../index|Project PASS PMP – Home]]

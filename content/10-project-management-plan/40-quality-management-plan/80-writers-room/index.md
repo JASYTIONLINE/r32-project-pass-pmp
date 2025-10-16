@@ -1,20 +1,16 @@
 ---
-title: Writer’s Room Index
-description: Central hub for all authoring governance, creative standards, and writing tools used across the JASYTI Knowledge Base.
+title: "Writers Room Index"
+description: "Index of policies, templates, and standards governing JASYTI’s writing environment and lore consistency."
 filename: index.md
-tags:
-  - writers-room
-  - governance
-  - authoring
-  - index
+tags: [writers-room, index, governance, "filename:index.md"]
 draft: false
-date: 2025-10-13
-role: index
-function: governance
+date: "2025-10-16"
+role: "index"
+function: "governance"
 shortcode: "[idx]"
 ---
 
-# 🎬 Welcome to the Writer’s Room  
+# Welcome to the Writer’s Room  
 
 This is the heart of the JASYTI Knowledge Base—where structure meets story, and policies meet caffeine.  
 Every document here keeps the writing ecosystem consistent across **Guidance**, **Structured Learning**, and **Lore Door**.  
@@ -91,8 +87,23 @@ Every file here plays a role in making sure the Knowledge Base writes with **one
 Policies tell us *why*, Standards show us *how*, and Tools make it *faster*.  
 Follow them all, and every document you publish will sound like it came from the same sharp, sarcastic genius we call **the Author**.
 
+[[#Welcome to the Writer’s Room  |Top]]
+
 ---
 
-### Quicklinks  
-- [[repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/40-quallity-managment-plan/index|← 10-Guidance Index]]
-- [[jasytionline.github.io/index|indexKnowledge Base Home]]
+## QuickLinks
+- [[pol-1-authoring-documents-jasyti|Authoring Documents for JASYTI’s Knowledge Base]]
+- [[pol-2-structred-learning-writing-style-guide|Structured Learning Writing Style Guide]]
+- [[pol-3-pmi-lore-fidelity-policy|PMI Lore Fidelity Policy]]
+- [[pol-4-tlg-lore-writing-style-guide|The Last Gate Lore Writing Style Guide]]
+- [[pol-5-gloss-first|Gloss First Policy]]
+- [[prmt-1-no-yaml-windows11-gpt-project-execution|No-YAML Windows 11 GPT Project Execution Prompt]]
+- [[scr-1-deihc-yaml-linter.py|DEIHC YAML Linter Script]]
+- [[session-thread-1.txt|Writers Room Session Thread 1]]
+- [[std-1-tlg-narrative-rulebook|The Last Gate Narrative Rulebook]]
+- [[tem-1-markdown-template-for-quartz-environments|Markdown Template for Quartz Environments]]
+- [[tem-2-tlg-backstory-template|The Last Gate Backstory Template]]
+- [[index|Writers Room – Index]]
+- [[README|Writers Room – README]]
+- [[../../../400-glossary/10-glossary|Glossary]]
+- [[../../../index|Project PASS PMP – Home]]

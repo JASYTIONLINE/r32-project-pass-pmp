@@ -1,11 +1,17 @@
 ---
-title: Resource Estimates – Project PASS PMP
-description: Estimated hours and effort for each resource by work package or task.
-version: 1.0
+title: "Resource Estimates — Project PASS PMP"
+description: "Captures estimated hours and effort for each resource by work package or task to support cost and schedule baselines."
+filename: 30-resource-estimates.md
+tags: [resources, estimates, planning, "filename:30-resource-estimates.md"]
+draft: false
+date: "2025-10-16"
+role: "standard"
+function: "planning"
+shortcode: "[std]"
 ---
 
-# 🧮 Resource Estimates – Project PASS PMP  
-**Folder:** `/50-resource-management-plan/`  
+# Resource Estimates
+– Project PASS PMP  
 
 ---
 
@@ -78,3 +84,17 @@ Effort is expressed in hours (or story points if Agile) and matched to the RACI 
 ---
 
 > 📌 This file helps scope **how much work is needed**, **who's doing it**, and **how it's distributed**. It is also essential for aligning cost and schedule estimates.
+
+[[#Resource Estimates|Top]]
+
+---
+
+## QuickLinks
+- [[10-resource-management-plan|Resource Management Plan — Project PASS PMP]]
+- [[20-raci-matrix|RACI Matrix]]
+- [[30-resource-estimates|Resource Estimates]]
+- [[40-resource-calendars|Resource Calendars]]
+- [[50-team-charter|Team Charter]]
+- [[60-training-plan|Training Plan]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

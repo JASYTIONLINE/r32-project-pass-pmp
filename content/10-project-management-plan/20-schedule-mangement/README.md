@@ -1,10 +1,17 @@
 ---
-title: Schedule Management – README
-description: Overview of schedule planning and control documents for Project PASS PMP.
-version: 1.2
+title: "Schedule Management – README"
+description: "Overview of schedule planning and control documents for Project PASS PMP."
+filename: README.md
+tags: [governance, schedule, overview, "filename:README.md"]
+draft: false
+date: "2025-10-16"
+role: "reference"
+function: "overview"
+shortcode: "[readme]"
 ---
 
-# 📁 Schedule Management
+
+# Schedule Management (README)
 
 This folder contains all schedule-related documentation for **Project PASS PMP**.  
 It models PMI best practices for planning, maintaining, and controlling the project timeline.
@@ -24,4 +31,18 @@ It models PMI best practices for planning, maintaining, and controlling the proj
 
 Use the [[repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/20-schedule-mangement/index]] file for deeper explanations and direct links to each document.
 
-All artifacts here are version-controlled and change-managed.
+[[#Schedule Management (README)|Top]]
+
+---
+
+## QuickLinks
+- [[01-schedule-management-plan|Schedule Management Plan]]
+- [[02-detailed-project-schedule|Detailed Project Schedule]]
+- [[03-milestone-list|Milestone List]]
+- [[04-schedule-baseline|Schedule Baseline]]
+- [[05-schedule-performance-report|Schedule Performance Report]]
+- [[06-schedule-change-log|Schedule Change Log]]
+- [[index|Schedule Management – Index]]
+- [[README|Schedule Management – README]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

@@ -1,11 +1,17 @@
 ---
-title: Resource Management – README
-description: Summary of how we manage project team structure, availability, and collaboration.
-version: 1.0
+title: "Resource Management – README"
+description: "Overview of how Project PASS PMP manages people, tools, and availability to sustain project delivery."
+filename: README.md
+tags: [resources, overview, governance, "filename:README.md"]
+draft: false
+date: "2025-10-16"
+role: "reference"
+function: "overview"
+shortcode: "[readme]"
 ---
 
-# 📁 Resource Management – README  
-**Folder:** `/50-resource-management-plan/`
+# Resource Management
+– README  
 
 ---
 
@@ -29,3 +35,18 @@ Everything in here exists to make sure the right people are working on the right
 ---
 
 Use [index.md](repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/50-resource-managment-plan/index.md) for full summaries and direct links to each file.
+
+
+[[Resource Managemen|Top]]
+
+---
+
+## QuickLinks
+- [[10-resource-management-plan|Resource Management Plan — Project PASS PMP]]
+- [[20-raci-matrix|RACI Matrix]]
+- [[30-resource-estimates|Resource Estimates]]
+- [[40-resource-calendars|Resource Calendars]]
+- [[50-team-charter|Team Charter]]
+- [[60-training-plan|Training Plan]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

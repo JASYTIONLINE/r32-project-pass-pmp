@@ -1,10 +1,16 @@
 ---
-title: Cost Change Log – Project PASS PMP
-description: Logs all approved changes to the cost baseline.
-version: 1.0
+title: "Cost Change Log — Project PASS PMP"
+description: "Tracks all approved and pending cost-related changes, including budget adjustments and funding modifications."
+filename: 30-cost-change-log.md
+tags: [governance, logs, cost, change-control, "filename:30-cost-change-log.md"]
+draft: false
+date: "2025-10-16"
+role: "record"
+function: "governance"
+shortcode: "[log]"
 ---
 
-# 🔁 Cost Change Log – Project PASS PMP  
+# Cost Change Log – Project PASS PMP  
 **Folder:** `/30-cost-management/`  
 **Bloom’s Level:** 2 – Understanding (Track, Log, Explain)
 
@@ -55,3 +61,22 @@ It ensures traceability, audit readiness, and stakeholder visibility into cost i
 ---
 
 > 📌 This log is the authoritative record of all cost changes. No cost adjustment may be made without an entry here.
+
+[[#Cost Change Log – Project PASS PMP|Top]]
+
+---
+
+## QuickLinks
+- [[10-cost-management-plan|Cost Management Plan — Project PASS PMP]]
+- [[20-cost-performance-report|Cost Performance Report]]
+- [[30-cost-change-log|Cost Change Log]]
+- [[40-Cost-Estimates|Cost Estimates]]
+- [[50-Cost-Baseline|Cost Baseline]]
+- [[60-Funding-Requirements|Funding Requirements]]
+- [[70-Budget-Audit-Checklist|Budget Audit Checklist]]
+- [[80-Cost-Performance-Trend-Chart|Cost Performance Trend Chart]]
+- [[90-Cost-Metrics-Glossary|Cost Metrics Glossary]]
+- [[index|Cost Management – Index]]
+- [[README|Cost Management – README]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

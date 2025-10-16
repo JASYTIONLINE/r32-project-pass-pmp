@@ -1,11 +1,17 @@
 ---
-title: Training Plan – Project PASS PMP
-description: Identifies training needs, skill gaps, and onboarding requirements to support successful project delivery.
-version: 1.0
+title: "Training Plan — Project PASS PMP"
+description: "Identifies training needs, onboarding requirements, and skill development strategies for project contributors."
+filename: 60-training-plan.md
+tags: [resources, training, development, "filename:60-training-plan.md"]
+draft: false
+date: "2025-10-16"
+role: "standard"
+function: "development"
+shortcode: "[std]"
 ---
 
-# 📘 Training Plan – Project PASS PMP  
-**Folder:** `/50-resource-management-plan/`
+# Training Plan
+– Project PASS PMP  
 
 ---
 
@@ -71,3 +77,18 @@ This document outlines any training or onboarding required for project contribut
 |------|------|-----------|------|
 | PM | Owner |           |      |
 | Sponsor | Approver |           |      |
+
+
+[[Training Plan|Top]]
+
+---
+
+## QuickLinks
+- [[10-resource-management-plan|Resource Management Plan — Project PASS PMP]]
+- [[20-raci-matrix|RACI Matrix]]
+- [[30-resource-estimates|Resource Estimates]]
+- [[40-resource-calendars|Resource Calendars]]
+- [[50-team-charter|Team Charter]]
+- [[60-training-plan|Training Plan]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

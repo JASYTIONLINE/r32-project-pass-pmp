@@ -1,11 +1,17 @@
 ---
-title: Communications Management – Document Index
-description: Full strategy, policy, procedures, and logging for how communications work across Project PASS PMP.
-version: 1.0
+title: "Communications Management – Document Index"
+description: "Index of communication plans, policies, procedures, and logs under the PACE framework for Project PASS PMP."
+filename: index.md
+tags: [communications, index, governance, "filename:index.md"]
+draft: false
+date: "2025-10-16"
+role: "index"
+function: "governance"
+shortcode: "[idx]"
 ---
 
-# 📡 Communications Management – Document Index  
-**Folder:** `/60-communications-management-plan/`
+# Communications Management
+– Document Index  
 
 ---
 
@@ -53,12 +59,14 @@ A chronological record of significant communication events, decisions, requests,
 > → Use the **[Platform Procedure](pro-communications-collaboration-index.md)** to see what tools to use  
 > → Review the **[Log](log-communications.md)** to see what’s already been communicated
 
+[[#Communications Management|Top]]
+
 ---
 
-## Quick Navigation
-
-- [README](repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/60-communications-managment-plan/README.md)  
-- [Communications Management Plan](pla-communications-management.md)  
-- [PACE Communications Policy](pol-communications-pace.md.md)  
-- [Collaboration Platform Procedure](pro-communications-collaboration-index.md)  
-- [Communications Log](log-communications.md)
+## QuickLinks
+- [[10-pla-communications-management|Communications Management Plan — Project PASS PMP]]
+- [[20-pol-communications-pace.md|PACE Communications Policy]]
+- [[30-pro-communications-collaboration-index|Collaboration Platform Procedure]]
+- [[40-log-communications|Communications Log]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

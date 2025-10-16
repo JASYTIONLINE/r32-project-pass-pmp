@@ -1,10 +1,17 @@
 ---
-title: Cost Management – README
-description: Overview of the cost planning and control system for Project PASS PMP.
-version: 1.3
+title: "Cost Management – README"
+description: "Overview of all cost management documents, their relationships, and governance alignment under the Project PASS PMP plan."
+filename: README.md
+tags: [governance, cost, overview, "filename:README.md"]
+draft: false
+date: "2025-10-16"
+role: "reference"
+function: "overview"
+shortcode: "[readme]"
 ---
 
-# 📁 Cost Management – README  
+
+# Cost Management – README  
 **Folder:** `/30-cost-management-plan/`
 
 ---
@@ -41,3 +48,22 @@ It contains not just policies and spreadsheets, but a full-cost system, complete
 > 🧾 Use the glossary and audit checklist for learning or closeout
 
 Use [index.md](repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/30-cost-managment-plan/index.md) to deep dive with full summaries and document links.
+
+[[#Cost Management – README |Top]]
+
+---
+
+## QuickLinks
+- [[10-cost-management-plan|Cost Management Plan — Project PASS PMP]]
+- [[20-cost-performance-report|Cost Performance Report]]
+- [[30-cost-change-log|Cost Change Log]]
+- [[40-Cost-Estimates|Cost Estimates]]
+- [[50-Cost-Baseline|Cost Baseline]]
+- [[60-Funding-Requirements|Funding Requirements]]
+- [[70-Budget-Audit-Checklist|Budget Audit Checklist]]
+- [[80-Cost-Performance-Trend-Chart|Cost Performance Trend Chart]]
+- [[90-Cost-Metrics-Glossary|Cost Metrics Glossary]]
+- [[index|Cost Management – Index]]
+- [[README|Cost Management – README]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

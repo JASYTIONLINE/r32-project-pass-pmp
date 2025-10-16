@@ -1,12 +1,18 @@
 ---
-title: Knowledge Capture Workflow – Project PASS PMP
-description: Defines the step-by-step process for capturing, structuring, and publishing reusable knowledge assets.
-version: 1.0
+title: "Knowledge Capture Workflow — Project PASS PMP"
+description: "Outlines the step-by-step process for capturing, structuring, reviewing, and publishing reusable knowledge assets."
+filename: 20-pro-knowledge-capture-workflow.md
+tags: [knowledge, workflow, procedure, "filename:20-pro-knowledge-capture-workflow.md"]
+draft: false
+date: "2025-10-16"
+role: "procedure"
+function: "operations"
+shortcode: "[pro]"
 ---
 
-# 📥 Knowledge Capture Workflow – Project PASS PMP  
-**File:** `pro-knowledge-capture-workflow.md`  
-**Folder:** `/20-knowledge-management-plan/`
+
+# Knowledge Capture Workflow 
+– Project PASS PMP  
 
 ---
 
@@ -57,3 +63,16 @@ It ensures that team insights, technical decisions, and reusable patterns are pr
 - Title must be human-readable and reflect the content's purpose  
 - Include version and YAML front matter  
 - Cross-reference in `[index.md](index.md)` or appropr
+
+[[#Knowledge Capture Workflow |Top]]
+
+---
+
+## QuickLinks
+- [[10-pla-knowledge-management|Knowledge Management Plan — Project PASS PMP]]
+- [[20-pro-knowledge-capture-workflow|Knowledge Capture Workflow]]
+- [[30-std-knowledge-types|Knowledge Types Standard]]
+- [[40-log-knowledge-contributions|Knowledge Contribution Log]]
+- [[../60-communications-management-plan/index|Communications Management – Index]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

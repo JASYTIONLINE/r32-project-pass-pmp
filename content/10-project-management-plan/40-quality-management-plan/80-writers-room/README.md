@@ -1,16 +1,16 @@
 ---
-title: "README — The Writer’s Room"
-description: "The creative nerve center of the JASYTI Knowledge Base — where policy meets personality, and writers learn to break rules correctly."
+title: "Writers Room – README"
+description: "Overview of the Writers Room, including creative governance, writing policies, and lore authoring standards."
 filename: README.md
-tags: [writers-room, governance, humor, onboarding, "filename:README.md"]
+tags: [writers-room, governance, overview, "filename:README.md"]
 draft: false
-date: "2025-10-13"
-role: "readme"
-function: "governance"
+date: "2025-10-16"
+role: "reference"
+function: "overview"
 shortcode: "[readme]"
 ---
 
-# 🎭 Welcome to the Writer’s Room  
+# Welcome to the Writer’s Room  
 
 If the Knowledge Base had a heartbeat, this would be it.  
 Half coffee shop, half control center — this is where policies are written, robots are trained, and writers are politely bullied into consistency.  
@@ -140,9 +140,23 @@ It’s a **creative command center** disguised as one.
 Follow the rules. Break them stylishly.  
 And remember: **boring is the only real compliance violation.**
 
+[[#Welcome to the Writer’s Room |Top]]
+
 ---
 
-### Quicklinks  
-- [[repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/40-quallity-managment-plan/80-writers-room/index|Writer’s Room Index]]  
-- [[repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/40-quallity-managment-plan/index|10-Guidance Index]]  
-- [[repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/index|Knowledge Base Home]]
+## QuickLinks
+- [[pol-1-authoring-documents-jasyti|Authoring Documents for JASYTI’s Knowledge Base]]
+- [[pol-2-structred-learning-writing-style-guide|Structured Learning Writing Style Guide]]
+- [[pol-3-pmi-lore-fidelity-policy|PMI Lore Fidelity Policy]]
+- [[pol-4-tlg-lore-writing-style-guide|The Last Gate Lore Writing Style Guide]]
+- [[pol-5-gloss-first|Gloss First Policy]]
+- [[prmt-1-no-yaml-windows11-gpt-project-execution|No-YAML Windows 11 GPT Project Execution Prompt]]
+- [[scr-1-deihc-yaml-linter.py|DEIHC YAML Linter Script]]
+- [[session-thread-1.txt|Writers Room Session Thread 1]]
+- [[std-1-tlg-narrative-rulebook|The Last Gate Narrative Rulebook]]
+- [[tem-1-markdown-template-for-quartz-environments|Markdown Template for Quartz Environments]]
+- [[tem-2-tlg-backstory-template|The Last Gate Backstory Template]]
+- [[index|Writers Room – Index]]
+- [[README|Writers Room – README]]
+- [[../../../400-glossary/10-glossary|Glossary]]
+- [[../../../index|Project PASS PMP – Home]]

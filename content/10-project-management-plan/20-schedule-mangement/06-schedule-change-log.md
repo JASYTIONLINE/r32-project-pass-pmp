@@ -1,10 +1,16 @@
 ---
-title: Schedule Change Log – Project PASS PMP
-description: Log of all approved changes to the project schedule baseline.
-version: 1.0
+title: "Schedule Change Log — Project PASS PMP"
+description: "Log of all approved or pending changes to the project schedule baseline."
+filename: 06-schedule-change-log.md
+tags: [governance, logs, change-control, schedule, "filename:06-schedule-change-log.md"]
+draft: false
+date: "2025-10-16"
+role: "record"
+function: "governance"
+shortcode: "[log]"
 ---
 
-# 🔁 Schedule Change Log – Project PASS PMP  
+# Schedule Change Log – Project PASS PMP  
 **Folder:** `/20-schedule-management/`  
 **Bloom’s Level:** 2 – Understanding (Describe, Track, Explain)
 
@@ -61,4 +67,20 @@ This ensures:
 
 ---
 
-> 📌 This log is a living document. Only changes approved through the formal change control process are recorded here.
+> This log is a living document. Only changes approved through the formal change control process are recorded here.
+
+[[#Schedule Change Log – Project PASS PMP|Top]]
+
+---
+
+## QuickLinks
+- [[01-schedule-management-plan|Schedule Management Plan]]
+- [[02-detailed-project-schedule|Detailed Project Schedule]]
+- [[03-milestone-list|Milestone List]]
+- [[04-schedule-baseline|Schedule Baseline]]
+- [[05-schedule-performance-report|Schedule Performance Report]]
+- [[06-schedule-change-log|Schedule Change Log]]
+- [[index|Schedule Management – Index]]
+- [[README|Schedule Management – README]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

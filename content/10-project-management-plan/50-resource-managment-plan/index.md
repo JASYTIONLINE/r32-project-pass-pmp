@@ -1,10 +1,17 @@
 ---
-title: Resource Management – Document Index
-description: Portal to all resource-related plans, calendars, estimates, and team agreements for Project PASS PMP.
-version: 1.0
+title: "Resource Management – Document Index"
+description: "Index of resource planning, team structure, availability, and development documentation for Project PASS PMP."
+filename: index.md
+tags: [resources, index, governance, "filename:index.md"]
+draft: false
+date: "2025-10-16"
+role: "index"
+function: "governance"
+shortcode: "[idx]"
 ---
 
-# 📘 Resource Management – Document Index  
+# Resource Management
+– Document Index  
 **Folder:** `/50-resource-management-plan/`
 
 ---
@@ -55,14 +62,16 @@ Identifies required onboarding, skill gaps, and learning needed to support succe
 > Review the [Team Charter](50-team-charter.md) to understand culture  
 > Finish with the [Training Plan](60-training-plan.md) for onboarding or skill coverage
 
+[[Resource Managemen|Top]]
+
 ---
 
-## Quick Navigation
-
-- [README](repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/50-resource-managment-plan/README.md)  
-- [Resource Management Plan](10-resource-management-plan.md)  
-- [RACI Matrix](20-raci-matrix.md)  
-- [Resource Estimates](30-resource-estimates.md)  
-- [Resource Calendars](40-resource-calendars.md)  
-- [Team Charter](50-team-charter.md)  
-- [Training Plan](60-training-plan.md)
+## QuickLinks
+- [[10-resource-management-plan|Resource Management Plan — Project PASS PMP]]
+- [[20-raci-matrix|RACI Matrix]]
+- [[30-resource-estimates|Resource Estimates]]
+- [[40-resource-calendars|Resource Calendars]]
+- [[50-team-charter|Team Charter]]
+- [[60-training-plan|Training Plan]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

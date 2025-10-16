@@ -1,10 +1,17 @@
 ---
-title: Requirements Validation Checklist – Project PASS PMP
-description: A checklist to confirm a requirement is clear, valid, and ready to be implemented.
-version: 1.0
+title: "Requirements Validation Checklist"
+description: "Checklist for verifying that all documented requirements are complete, feasible, testable, and aligned with project objectives."
+filename: 04-requirements-validation-checklist.md
+tags: [requirements, checklist, validation, "filename:04-requirements-validation-checklist.md"]
+draft: false
+date: "2025-10-16"
+role: "standard"
+function: "governance"
+shortcode: "[std]"
 ---
 
-# ✅ Requirements Validation Checklist
+
+# Requirements Validation Checklist
 
 Use this checklist before approving or finalizing a requirement.
 
@@ -46,6 +53,17 @@ Use this checklist before approving or finalizing a requirement.
 - [ ] Has the sponsor reviewed and approved this requirement?
 - [ ] If applicable, has the change control process been followed?
 
+[[#Requirements Validation Checklist|Top]]
+
 ---
 
-> 📝 Keep a record of each validated requirement in the RTM, and archive completed checklists for audit or historical reference.
+## QuickLinks
+- [[00-cutomer-intake-interview-project-pass-pmp|Customer Intake Interview — Project PASS PMP]]
+- [[01-requirements-management-plan|Requirements Management Plan]]
+- [[02-requirements-traceability-matrix|Requirements Traceability Matrix]]
+- [[03-temp-requirements-intake-form|Requirements Intake Form Template]]
+- [[04-requirements-validation-checklist|Requirements Validation Checklist]]
+- [[index|Requirements Management – Index]]
+- [[README|Requirements Management – README]]
+- [[../../../400-glossary/10-glossary|Glossary]]
+- [[../../../index|Project PASS PMP – Home]]

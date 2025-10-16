@@ -1,10 +1,16 @@
 ---
-title: Cost Management Plan – Project PASS PMP
-description: Defines how project costs will be estimated, budgeted, tracked, and controlled.
-version: 1.0
+title: "Cost Management Plan — Project PASS PMP"
+description: "Defines how project costs are estimated, budgeted, managed, and controlled throughout the lifecycle."
+filename: 10-cost-management-plan.md
+tags: [governance, procedures, cost-management, "filename:10-cost-management-plan.md"]
+draft: false
+date: "2025-10-16"
+role: "procedure"
+function: "governance"
+shortcode: "[pro]"
 ---
 
-# 💰 Cost Management Plan – Project PASS PMP  
+# Cost Management Plan – Project PASS PMP  
 **Folder:** `/30-cost-management/`  
 **Bloom’s Level:** 2 – Understanding (Describe, Apply, Interpret)
 
@@ -107,3 +113,22 @@ Updates are included in the [Schedule Performance Report](../20-schedule-managem
 ---
 
 > 📌 This plan governs all cost-related activities in Project PASS PMP. No cost changes or increases to the baseline may be made without formal change control.
+
+[[#Cost Management Plan – Project PASS PMP|Top]]
+
+---
+
+## QuickLinks
+- [[10-cost-management-plan|Cost Management Plan — Project PASS PMP]]
+- [[20-cost-performance-report|Cost Performance Report]]
+- [[30-cost-change-log|Cost Change Log]]
+- [[40-Cost-Estimates|Cost Estimates]]
+- [[50-Cost-Baseline|Cost Baseline]]
+- [[60-Funding-Requirements|Funding Requirements]]
+- [[70-Budget-Audit-Checklist|Budget Audit Checklist]]
+- [[80-Cost-Performance-Trend-Chart|Cost Performance Trend Chart]]
+- [[90-Cost-Metrics-Glossary|Cost Metrics Glossary]]
+- [[index|Cost Management – Index]]
+- [[README|Cost Management – README]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

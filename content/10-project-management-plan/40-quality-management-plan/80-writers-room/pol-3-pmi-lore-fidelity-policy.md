@@ -1,16 +1,16 @@
 ---
 title: "PMI Lore Fidelity Policy"
-description: "Policy ensuring that all lore, satire, and narrative metaphors in the PMP Knowledge Base remain faithful to PMI canon, align with structured learning accuracy, and reflect the Author's tone and intent."
-filename: pol-pmi-lore-fidelity-policy.md
-tags: [governance, policy, lore, fidelity, pmi, writing, "filename:pol-pmi-lore-fidelity-policy.md"]
+description: "Ensures creative writing maintains fidelity to PMI terminology and core project management principles."
+filename: pol-3-pmi-lore-fidelity-policy.md
+tags: [writers-room, governance, lore, fidelity, "filename:pol-3-pmi-lore-fidelity-policy.md"]
 draft: false
-date: "2025-10-13"
+date: "2025-10-16"
 role: "policy"
-function: "guidance"
+function: "governance"
 shortcode: "[pol]"
 ---
 
-# 🎯 PMI Lore Fidelity Policy  
+# PMI Lore Fidelity Policy  
 
 > [!link]
 > **Cross-Reference:**  
@@ -91,13 +91,23 @@ By following this policy:
 Readers will laugh, nod, and—without realizing it—absorb PMI logic correctly.  
 If an instructor can read the lore aloud in class without flinching, this policy has done its job.  
 
-------
+[[#PMI Lore Fidelity Policy|Top]]
 
-### Quicklinks
-- [[jasityonline/100-workshops/100-writers-room/pol-3-pmi-lore-fidelity-policy|pol-3-pmi-lore-fidelity-policy]]
-- [[std-temp-backstory-model|Backstory Template]]
-- [[std-tlg-narrative-rulebook|Narrative Rulebook]]
+---
 
-### Main Categories
-- [[repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/40-quallity-managment-plan/index|TLG-Lore-Door-Policy Index]]
-- [[repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/index|10-Guidance Index]]
+## QuickLinks
+- [[pol-1-authoring-documents-jasyti|Authoring Documents for JASYTI’s Knowledge Base]]
+- [[pol-2-structred-learning-writing-style-guide|Structured Learning Writing Style Guide]]
+- [[pol-3-pmi-lore-fidelity-policy|PMI Lore Fidelity Policy]]
+- [[pol-4-tlg-lore-writing-style-guide|The Last Gate Lore Writing Style Guide]]
+- [[pol-5-gloss-first|Gloss First Policy]]
+- [[prmt-1-no-yaml-windows11-gpt-project-execution|No-YAML Windows 11 GPT Project Execution Prompt]]
+- [[scr-1-deihc-yaml-linter.py|DEIHC YAML Linter Script]]
+- [[session-thread-1.txt|Writers Room Session Thread 1]]
+- [[std-1-tlg-narrative-rulebook|The Last Gate Narrative Rulebook]]
+- [[tem-1-markdown-template-for-quartz-environments|Markdown Template for Quartz Environments]]
+- [[tem-2-tlg-backstory-template|The Last Gate Backstory Template]]
+- [[index|Writers Room – Index]]
+- [[README|Writers Room – README]]
+- [[../../../400-glossary/10-glossary|Glossary]]
+- [[../../../index|Project PASS PMP – Home]]

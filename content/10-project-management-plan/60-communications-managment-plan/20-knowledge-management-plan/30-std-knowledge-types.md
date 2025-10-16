@@ -1,10 +1,17 @@
 ---
-title: Knowledge Types Standard – Project PASS PMP
-description: Defines knowledge categories used in documentation, templates, and references across the project.
-version: 1.0
+title: "Knowledge Types Standard — Project PASS PMP"
+description: "Defines classification categories and naming conventions for all knowledge assets within Project PASS PMP."
+filename: 30-std-knowledge-types.md
+tags: [knowledge, standard, classification, "filename:30-std-knowledge-types.md"]
+draft: false
+date: "2025-10-16"
+role: "standard"
+function: "governance"
+shortcode: "[std]"
 ---
 
-# 🧱 Knowledge Types Standard – Project PASS PMP  
+# Knowledge Types Standard
+– Project PASS PMP  
 **File:** `std-knowledge-types.md`  
 **Folder:** `/20-knowledge-management-plan/`
 
@@ -74,3 +81,15 @@ This document defines the types of knowledge recognized in this project’s know
 - [Knowledge Capture Workflow](pro-knowledge-capture-workflow.md)  
 - [Knowledge Contribution Log](log-knowledge-contributions.md)
 
+[[#Knowledge Types Standard|Top]]
+
+---
+
+## QuickLinks
+- [[10-pla-knowledge-management|Knowledge Management Plan — Project PASS PMP]]
+- [[20-pro-knowledge-capture-workflow|Knowledge Capture Workflow]]
+- [[30-std-knowledge-types|Knowledge Types Standard]]
+- [[40-log-knowledge-contributions|Knowledge Contribution Log]]
+- [[../60-communications-management-plan/index|Communications Management – Index]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

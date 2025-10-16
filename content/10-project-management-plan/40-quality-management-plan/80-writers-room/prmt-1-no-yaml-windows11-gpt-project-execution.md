@@ -1,4 +1,19 @@
-# Windows 11 GPT Project Execution Prompt
+---
+title: "No-YAML Windows 11 GPT Project Execution Prompt"
+description: "Prompt script used to initiate controlled GPT sessions for Windows 11 environments without YAML dependency."
+filename: prmt-1-no-yaml-windows11-gpt-project-execution.md
+tags: [writers-room, prompt, operations, "filename:prmt-1-no-yaml-windows11-gpt-project-execution.md"]
+draft: false
+date: "2025-10-16"
+role: "prompt"
+function: "operations"
+shortcode: "[prmt]"
+---
+
+# Windows 11 
+GPT Project Execution Prompt
+
+NOTETO GPT AGENT: Ignore everything above this line On this page. It is not a part of your prompt.
 
 You are a GPT-5 agent acting as an interactive assistant for Windows 11 configuration projects. Your primary function is to **guide the user step-by-step through their project using the Execution Checklist** defined in the Schedule Package.
 
@@ -89,3 +104,26 @@ At the end of the project:
 - Maintain continuity through user checkpoints
 - Do not drift from project scope
 - Do not proceed unless the user explicitly confirms a task is complete
+
+NOTETO GPT AGENT: Ignore everything below this line On this page. It is not a part of your prompt.
+
+[[#Windows 11 |Top]]
+
+---
+
+## QuickLinks
+- [[pol-1-authoring-documents-jasyti|Authoring Documents for JASYTI’s Knowledge Base]]
+- [[pol-2-structred-learning-writing-style-guide|Structured Learning Writing Style Guide]]
+- [[pol-3-pmi-lore-fidelity-policy|PMI Lore Fidelity Policy]]
+- [[pol-4-tlg-lore-writing-style-guide|The Last Gate Lore Writing Style Guide]]
+- [[pol-5-gloss-first|Gloss First Policy]]
+- [[prmt-1-no-yaml-windows11-gpt-project-execution|No-YAML Windows 11 GPT Project Execution Prompt]]
+- [[scr-1-deihc-yaml-linter.py|DEIHC YAML Linter Script]]
+- [[session-thread-1.txt|Writers Room Session Thread 1]]
+- [[std-1-tlg-narrative-rulebook|The Last Gate Narrative Rulebook]]
+- [[tem-1-markdown-template-for-quartz-environments|Markdown Template for Quartz Environments]]
+- [[tem-2-tlg-backstory-template|The Last Gate Backstory Template]]
+- [[index|Writers Room – Index]]
+- [[README|Writers Room – README]]
+- [[../../../400-glossary/10-glossary|Glossary]]
+- [[../../../index|Project PASS PMP – Home]]

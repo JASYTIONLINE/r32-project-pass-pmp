@@ -1,12 +1,17 @@
 ---
-title: Cost Baseline – Project PASS PMP
-description: The time-phased, sponsor-approved budget used for cost performance tracking.
-version: 1.0
+title: "Cost Baseline — Project PASS PMP"
+description: "Approved budget baseline used to measure cost performance and control financial changes."
+filename: 50-Cost-Baseline.md
+tags: [governance, standards, cost, baseline, "filename:50-Cost-Baseline.md"]
+draft: false
+date: "2025-10-16"
+role: "standard"
+function: "governance"
+shortcode: "[std]"
 ---
 
-# 🧱 Cost Baseline – Project PASS PMP  
-**Folder:** `/30-cost-management/`  
-**Bloom’s Level:** 2 – Understanding (Interpret, Apply, Monitor)
+
+# Cost Baseline – Project PASS PMP  
 
 ---
 
@@ -49,3 +54,22 @@ Referenced in:
 ---
 
 > 📌 This baseline cannot be adjusted without a sponsor-approved [Change Request](../00-project-integration-management/change-management/change-request-template.md).
+
+[[#Cost Baseline – Project PASS PMP |Top]]
+
+---
+
+## QuickLinks
+- [[10-cost-management-plan|Cost Management Plan — Project PASS PMP]]
+- [[20-cost-performance-report|Cost Performance Report]]
+- [[30-cost-change-log|Cost Change Log]]
+- [[40-Cost-Estimates|Cost Estimates]]
+- [[50-Cost-Baseline|Cost Baseline]]
+- [[60-Funding-Requirements|Funding Requirements]]
+- [[70-Budget-Audit-Checklist|Budget Audit Checklist]]
+- [[80-Cost-Performance-Trend-Chart|Cost Performance Trend Chart]]
+- [[90-Cost-Metrics-Glossary|Cost Metrics Glossary]]
+- [[index|Cost Management – Index]]
+- [[README|Cost Management – README]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

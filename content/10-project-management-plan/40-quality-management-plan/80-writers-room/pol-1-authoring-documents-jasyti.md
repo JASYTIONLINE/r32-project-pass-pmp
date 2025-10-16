@@ -1,15 +1,13 @@
 ---
-title: Authoring Documents for JASYTI’s Knowledge Base
-description: Unified guide for creating, formatting, and publishing Markdown documents in the JASYTI environment. This file is the single source of truth for writers and LLM agents alike.
-filename: authoring-documents-jasyti.md
-tags:
-  - writers-room
-  - guidance
+title: "Authoring Documents for JASYTI’s Knowledge Base"
+description: "Defines the master authoring and YAML policy for all documents in the JASYTI environment."
+filename: pol-1-authoring-documents-jasyti.md
+tags: [writers-room, governance, authoring, "filename:pol-1-authoring-documents-jasyti.md"]
 draft: false
-date: 2025-10-11
-role: policy
-function: kb-page
-shortcode: "[doc]"
+date: "2025-10-16"
+role: "policy"
+function: "governance"
+shortcode: "[pol]"
 ---
 
 > [!info] Information Only  
@@ -19,7 +17,7 @@ shortcode: "[doc]"
 
 ---
 
-## 🪴 What Is a JASYTI Document?
+## What Is a JASYTI Document?
 
 Every document in this knowledge base represents a unit of intentional thought: a process, policy, note, reference, or standard. Whether created by a human or a GPT, it must:
 
@@ -179,3 +177,22 @@ Use the following to support clean, valid authoring:
 This guide is the **source of truth** for all written content in the JASYTI environment.
 It reflects your authoring philosophy: structure in service of value, writing in service of thinking.
 All documents should align with this system — not just because Quartz requires it, but because **JASYTI does**.
+
+[[#What Is a JASYTI Document?|Top]]
+
+---
+
+## QuickLinks
+- [[pol-1-authoring-documents-jasyti|Authoring Documents for JASYTI’s Knowledge Base]]
+- [[pol-2-structred-learning-writing-style-guide|Structured Learning Writing Style Guide]]
+- [[pol-3-pmi-lore-fidelity-policy|PMI Lore Fidelity Policy]]
+- [[pol-4-tlg-lore-writing-style-guide|The Last Gate Lore Writing Style Guide]]
+- [[pol-5-gloss-first|Gloss First Policy]]
+- [[prmt-1-no-yaml-windows11-gpt-project-execution|No-YAML Windows 11 GPT Project Execution Prompt]]
+- [[std-1-tlg-narrative-rulebook|The Last Gate Narrative Rulebook]]
+- [[tem-1-markdown-template-for-quartz-environments|Markdown Template for Quartz Environments]]
+- [[tem-2-tlg-backstory-template|The Last Gate Backstory Template]]
+- [[index|Writers Room – Index]]
+- [[README|Writers Room – README]]
+- [[../../../400-glossary/10-glossary|Glossary]]
+- [[../../../index|Project PASS PMP – Home]]

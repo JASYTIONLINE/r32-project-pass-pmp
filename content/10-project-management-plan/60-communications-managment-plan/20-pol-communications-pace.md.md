@@ -1,13 +1,16 @@
 ---
-title: Global Team Communications Policy
-description: Governance policy defining the standard communications framework (PACE) for international team collaboration.
-tags: [governance, communications, policy, PACE, collaboration, project-management]
-date: 2025-10-12
+title: "PACE Communications Policy — Project PASS PMP"
+description: "Defines the PACE framework (Primary, Alternate, Contingency, Emergency) and establishes hierarchy, escalation, and continuity protocols for all project communications."
+filename: 20-pol-communications-pace.md.md
+tags: [communications, policy, PACE, "filename:20-pol-communications-pace.md.md"]
+draft: false
+date: "2025-10-16"
+role: "policy"
+function: "governance"
+shortcode: "[pol]"
 ---
 
 # Global Team Communications Policy  
-**Effective Date:** October 12, 2025  
-**Approved By:** Project Leadership Council  
 
 ---
 
@@ -135,9 +138,14 @@ The system prioritizes **stability**, **simplicity**, and **accessibility** over
 This policy shall be reviewed annually or after any major platform change.  
 Updates require consensus from the leadership council and must be reflected both in Drive and GitHub.  
 
+[[#Global Team Communications Policy|Top]]
+
 ---
 
-**Approved and Implemented by:**  
-**MSG John Barkle**  
-Global Project Communications Lead  
-October 12, 2025
+## QuickLinks
+- [[10-pla-communications-management|Communications Management Plan — Project PASS PMP]]
+- [[20-pol-communications-pace.md|PACE Communications Policy]]
+- [[30-pro-communications-collaboration-index|Collaboration Platform Procedure]]
+- [[40-log-communications|Communications Log]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

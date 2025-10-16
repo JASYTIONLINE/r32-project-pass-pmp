@@ -1,13 +1,16 @@
 ---
-title: Cost Management – Document Index
-description: Explore the full cost management system for Project PASS PMP — from budgeting to performance and change control.
-version: 1.4
+title: "Cost Management Index"
+description: "Index of all cost management artifacts, including baseline, estimates, change logs, and reports."
+filename: index.md
+tags: [governance, cost-management, index, "filename:index.md"]
+draft: false
+date: "2025-10-16"
+role: "index"
+function: "governance"
+shortcode: "[idx]"
 ---
 
-# 📘 Cost Management – Document Index  
-**Folder:** `/30-cost-management-plan/`  
-**Bloom’s Level:** 2 – Understanding (Interpret, Apply, Explore)
-
+# Cost Management – Document Index  
 ---
 
 ## 🧭 Why This Folder Matters
@@ -72,18 +75,24 @@ Short, exam-ready definitions of CPI, CV, EAC, BAC, and more — in plain Englis
 
 ---
 
-## 🔁 Quick Navigation
+[[#Cost Management – Document Index|Top]]
 
-- 📄 [README](repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/30-cost-managment-plan/README.md)  
-- 📄 [Cost Management Plan](10-cost-management-plan.md)  
-- 📄 [Cost Estimates](40-Cost-Estimates.md)  
-- 📄 [Cost Baseline](50-Cost-Baseline.md)  
-- 📄 [Funding Requirements](60-Funding-Requirements.md)  
-- 📄 [Cost Performance Report](20-cost-performance-report.md)  
-- 📄 [Cost Change Log](30-cost-change-log.md)  
-- 📄 [Budget Audit Checklist](70-Budget-Audit-Checklist.md)  
-- 📄 [Cost Performance Trend Chart](80-Cost-Performance-Trend-Chart.md)  
-- 📄 [Cost Metrics Glossary](90-Cost-Metrics-Glossary.md)
+---
+
+## QuickLinks
+- [[10-cost-management-plan|Cost Management Plan — Project PASS PMP]]
+- [[20-cost-performance-report|Cost Performance Report]]
+- [[30-cost-change-log|Cost Change Log]]
+- [[40-Cost-Estimates|Cost Estimates]]
+- [[50-Cost-Baseline|Cost Baseline]]
+- [[60-Funding-Requirements|Funding Requirements]]
+- [[70-Budget-Audit-Checklist|Budget Audit Checklist]]
+- [[80-Cost-Performance-Trend-Chart|Cost Performance Trend Chart]]
+- [[90-Cost-Metrics-Glossary|Cost Metrics Glossary]]
+- [[index|Cost Management – Index]]
+- [[README|Cost Management – README]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]
 
 ---
 

@@ -1,10 +1,17 @@
 ---
-title: Schedule Baseline – Project PASS PMP
-description: The approved project schedule baseline used to measure schedule performance and control.
-version: 1.0
+title: "Schedule Baseline — Project PASS PMP"
+description: "Approved baseline schedule used to measure and control time performance."
+filename: 04-schedule-baseline.md
+tags: [governance, standards, baseline, schedule, "filename:04-schedule-baseline.md"]
+draft: false
+date: "2025-10-16"
+role: "standard"
+function: "governance"
+shortcode: "[std]"
 ---
 
-# 🧱 Schedule Baseline – Project PASS PMP  
+
+# Schedule Baseline – Project PASS PMP  
 **Folder:** `/20-schedule-management/`  
 **Bloom’s Level:** 2 – Understanding (Interpret, Apply, Describe)
 
@@ -77,4 +84,20 @@ This document is referenced by:
 
 ---
 
-> 📌 This baseline is locked for control and performance measurement. All actual progress will be compared to this schedule using SPI, percent complete, and variance metrics.
+> This baseline is locked for control and performance measurement. All actual progress will be compared to this schedule using SPI, percent complete, and variance metrics.
+
+[[#Schedule Baseline – Project PASS PMP|Top]]
+
+---
+
+## QuickLinks
+- [[01-schedule-management-plan|Schedule Management Plan]]
+- [[02-detailed-project-schedule|Detailed Project Schedule]]
+- [[03-milestone-list|Milestone List]]
+- [[04-schedule-baseline|Schedule Baseline]]
+- [[05-schedule-performance-report|Schedule Performance Report]]
+- [[06-schedule-change-log|Schedule Change Log]]
+- [[index|Schedule Management – Index]]
+- [[README|Schedule Management – README]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

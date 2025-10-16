@@ -1,12 +1,12 @@
 ---
-title: "Collaboration Index – Project PASS PMP"
-description: "Procedural index defining the communication and collaboration framework under the PACE system for Project PASS PMP."
-filename: proc-collaboration-index.md
-tags: [governance, procedures, communications, collaboration, "filename:proc-collaboration-index.md"]
+title: "Collaboration Platform Procedure — Project PASS PMP"
+description: "Defines the procedural use of all communication and collaboration platforms under the PACE framework, including GitHub, Pumble, Jitsi, Trello, and Google Drive."
+filename: 30-pro-communications-collaboration-index.md
+tags: [communications, procedures, collaboration, "filename:30-pro-communications-collaboration-index.md"]
 draft: false
-date: "2025-10-12"
+date: "2025-10-16"
 role: "procedure"
-function: "governance"
+function: "operations"
 shortcode: "[pro]"
 ---
 
@@ -15,7 +15,8 @@ shortcode: "[pro]"
 > This document follows the [[authoring-documents-jasyti|JASYTI Authoring Standard]] and resides under **Governance → Procedures**.
 > It defines the procedural use of all communication and collaboration platforms under the PACE framework.
 
-# **Collaboration Index – Project PASS PMP**
+# **Collaboration Index
+– Project PASS PMP**
 
 **Bottom Line Up Front:**  
 This folder contains all documentation for our **communications and collaboration systems** under the PACE framework (Primary, Alternate, Contingency, Emergency).  
@@ -71,3 +72,15 @@ Team members should review this page first, then follow the wiki links to specif
 
 ## **Further Detail**
 Each linked page in this folder provides a detailed “how-to” for setup, configuration, and best practices on that platform.
+
+[[#Collaboration Index|Top]]
+
+---
+
+## QuickLinks
+- [[10-pla-communications-management|Communications Management Plan — Project PASS PMP]]
+- [[20-pol-communications-pace.md|PACE Communications Policy]]
+- [[30-pro-communications-collaboration-index|Collaboration Platform Procedure]]
+- [[40-log-communications|Communications Log]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]
