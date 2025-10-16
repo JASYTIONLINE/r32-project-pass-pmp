@@ -1,11 +1,17 @@
 ---
-title: Risk Register – Project PASS PMP
-description: Tracks all project risks with category, status, owner, and mitigation.
-version: 1.0
+title: "Risk Register — Project PASS PMP"
+description: "Tracks all identified project risks, including category, owner, response strategy, and current resolution status."
+filename: "40-log-risk-register.md"
+tags: [risk, register, log, "filename:40-log-risk-register.md"]
+draft: false
+date: "2025-10-16"
+role: "record"
+function: "reporting"
+shortcode: "[log]"
 ---
 
-# 📋 Risk Register – Project PASS PMP  
-**Folder:** `/70-risk-management-plan/`
+# Risk Register 
+– Project PASS PMP  
 
 ---
 
@@ -42,8 +48,15 @@ This file tracks all known risks in the project, including their status, owner, 
 
 ---
 
-## Related Files
+[[#Risk Register|Top]]
 
-- [Risk Management Plan](pla-risk-management.md)  
-- [Risk Response Workflow](pro-risk-response-workflow.md)  
-- [Risk Types Standard](std-risk-types.md)
+---
+
+## QuickLinks
+- [[10-pla-risk-management|Risk Management Plan — Project PASS PMP]]
+- [[20-pro-risk-response-workflow|Risk Response Workflow]]
+- [[30-std-risk-types|Risk Types Standard]]
+- [[40-log-risk-register|Risk Register]]
+- [[../60-communications-management-plan/index|Communications Management – Index]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

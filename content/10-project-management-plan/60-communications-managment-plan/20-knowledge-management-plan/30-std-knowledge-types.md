@@ -77,9 +77,9 @@ This document defines the types of knowledge recognized in this project’s know
 
 ## Related Documents
 
-- [Knowledge Management Plan](pla-knowledge-management.md)  
-- [Knowledge Capture Workflow](pro-knowledge-capture-workflow.md)  
-- [Knowledge Contribution Log](log-knowledge-contributions.md)
+- [Knowledge Management Plan](10-pla-knowledge-management.md)  
+- [Knowledge Capture Workflow](20-pro-knowledge-capture-workflow.md)  
+- [Knowledge Contribution Log](40-log-knowledge-contributions.md)
 
 [[#Knowledge Types Standard|Top]]
 

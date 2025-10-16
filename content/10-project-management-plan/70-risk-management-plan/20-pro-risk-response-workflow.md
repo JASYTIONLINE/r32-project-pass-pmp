@@ -1,11 +1,16 @@
 ---
-title: Risk Response Workflow – Project PASS PMP
-description: Defines how project risks are identified, analyzed, responded to, and monitored.
-version: 1.0
+title: "Risk Response Workflow — Project PASS PMP"
+description: "Outlines the process for identifying, documenting, analyzing, and responding to risks in a consistent and traceable manner."
+filename: "20-pro-risk-response-workflow.md"
+tags: [risk, workflow, procedure, "filename:20-pro-risk-response-workflow.md"]
+draft: false
+date: "2025-10-16"
+role: "procedure"
+function: "operations"
+shortcode: "[pro]"
 ---
 
-# 🔄 Risk Response Workflow – Project PASS PMP  
-**Folder:** `/70-risk-management-plan/`
+# Risk Response Workflow – Project PASS PMP  
 
 ---
 
@@ -49,3 +54,16 @@ This document defines the workflow for identifying, documenting, analyzing, and 
 - [Risk Management Plan](pla-risk-management.md)  
 - [Risk Types Standard](std-risk-types.md)  
 - [Risk Register](log-risk-register.md)
+
+[[#Risk Response Workflow – Project PASS PMP|Top]]
+
+---
+
+## QuickLinks
+- [[10-pla-risk-management|Risk Management Plan — Project PASS PMP]]
+- [[20-pro-risk-response-workflow|Risk Response Workflow]]
+- [[30-std-risk-types|Risk Types Standard]]
+- [[40-log-risk-register|Risk Register]]
+- [[../60-communications-management-plan/index|Communications Management – Index]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

@@ -1,11 +1,17 @@
 ---
-title: Risk Types Standard – Project PASS PMP
-description: Defines risk categories used in classification and analysis.
-version: 1.0
+title: "Risk Types Standard — Project PASS PMP"
+description: "Defines consistent categories for classifying threats and opportunities across the project to improve clarity, tracking, and analysis."
+filename: "30-std-risk-types.md"
+tags: [risk, standard, classification, "filename:30-std-risk-types.md"]
+draft: false
+date: "2025-10-16"
+role: "standard"
+function: "governance"
+shortcode: "[std]"
 ---
 
-# 🧱 Risk Types Standard – Project PASS PMP  
-**Folder:** `/70-risk-management-plan/`
+# Risk Types Standard
+– Project PASS PMP  
 
 ---
 
@@ -41,3 +47,16 @@ This document defines consistent risk categories used to classify threats and op
 
 - [Risk Management Plan](pla-risk-management.md)  
 - [Risk Register](log-risk-register.md)
+
+[[#Risk Types Standard|Top]]
+
+---
+
+## QuickLinks
+- [[10-pla-risk-management|Risk Management Plan — Project PASS PMP]]
+- [[20-pro-risk-response-workflow|Risk Response Workflow]]
+- [[30-std-risk-types|Risk Types Standard]]
+- [[40-log-risk-register|Risk Register]]
+- [[../60-communications-management-plan/index|Communications Management – Index]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

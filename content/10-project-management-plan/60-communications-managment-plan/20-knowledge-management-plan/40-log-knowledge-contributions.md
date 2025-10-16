@@ -66,13 +66,13 @@ Maintaining this log ensures accountability, transparency, and a clear audit tra
 - Archived projects retain this file for future reference and onboarding.
 
 ---
-
 ## Quick Navigation
 
-- [Knowledge Management Plan](pla-knowledge-management.md)  
-- [Knowledge Capture Workflow](pro-knowledge-capture-workflow.md)  
-- [Knowledge Types Standard](std-knowledge-types.md)  
-- [Back to Folder Index](repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/60-communications-managment-plan/20-knowledge-management-plan/index.md)
+- [Knowledge Management Plan](10-pla-knowledge-management.md)  
+- [Knowledge Capture Workflow](20-pro-knowledge-capture-workflow.md)  
+- [Knowledge Types Standard](30-std-knowledge-types.md)  
+- [Back to Folder Index](repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/60-communications-management-plan/20-knowledge-management-plan/index.md)
+
 
 [[#Knowledge Management Plan — Project PASS PMP|Top]]
 

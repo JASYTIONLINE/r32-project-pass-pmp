@@ -1,10 +1,18 @@
 ---
-title: Risk Management Plan – Project PASS PMP
-description: Defines how project risks are identified, analyzed, responded to, and monitored throughout the project lifecycle.
-version: 1.0
+title: "Risk Management Plan — Project PASS PMP"
+description: "Defines how project risks are identified, analyzed, responded to, and monitored throughout the project lifecycle."
+filename: "10-pla-risk-management.md"
+tags: [risk, governance, management, "filename:10-pla-risk-management.md"]
+draft: false
+date: "2025-10-16"
+role: "plan"
+function: "governance"
+shortcode: "[pla]"
 ---
 
-# ⚠️ Risk Management Plan – Project PASS PMP  
+
+# Risk Management Plan
+– Project PASS PMP  
 **Folder:** `/70-risk-management-plan/`
 
 ---
@@ -72,3 +80,16 @@ This plan defines the risk management strategy for Project PASS PMP. It ensures 
 |------|------|-----------|------|
 | Sponsor | Risk Owner | | |
 | PM | Plan Owner | | |
+
+---
+
+[[#Risk Management Plan|Top]]
+
+## QuickLinks
+- [[10-pla-risk-management|Risk Management Plan — Project PASS PMP]]
+- [[20-pro-risk-response-workflow|Risk Response Workflow]]
+- [[30-std-risk-types|Risk Types Standard]]
+- [[40-log-risk-register|Risk Register]]
+- [[../60-communications-management-plan/index|Communications Management – Index]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]

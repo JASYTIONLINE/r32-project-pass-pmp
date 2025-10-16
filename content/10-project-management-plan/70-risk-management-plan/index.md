@@ -1,11 +1,16 @@
 ---
-title: Risk Management – Index
-description: Navigation and summaries for all risk-related documents.
-version: 1.0
+title: "Risk Management – Document Index"
+description: "Index of the risk management strategy, workflows, standards, and register for Project PASS PMP. Provides navigation and context for how risks are identified, tracked, and controlled."
+filename: "index.md"
+tags: [risk, index, governance, "filename:index.md"]
+draft: false
+date: "2025-10-16"
+role: "index"
+function: "governance"
+shortcode: "[idx]"
 ---
 
-# ⚠️ Risk Management – Index  
-**Folder:** `/70-risk-management-plan/`
+# Risk Management – Index  
 
 ---
 
@@ -30,12 +35,15 @@ Classification guide for consistent tagging and communication.
 ### [Risk Register](log-risk-register.md)  
 The live record of all tracked risks — including current status and ownership.
 
+[[#Risk Management – Index|Top]]
+
 ---
 
-## Quick Navigation
-
-- [README](repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/70-risk-management-plan/README.md)  
-- [Risk Management Plan](pla-risk-management.md)  
-- [Risk Response Workflow](pro-risk-response-workflow.md)  
-- [Risk Types Standard](std-risk-types.md)  
-- [Risk Register](log-risk-register.md)
+## QuickLinks
+- [[10-pla-risk-management|Risk Management Plan — Project PASS PMP]]
+- [[20-pro-risk-response-workflow|Risk Response Workflow]]
+- [[30-std-risk-types|Risk Types Standard]]
+- [[40-log-risk-register|Risk Register]]
+- [[../60-communications-management-plan/index|Communications Management – Index]]
+- [[../../400-glossary/10-glossary|Glossary]]
+- [[../../index|Project PASS PMP – Home]]
