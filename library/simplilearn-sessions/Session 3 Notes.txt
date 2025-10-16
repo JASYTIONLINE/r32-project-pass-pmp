@@ -1,0 +1,2213 @@
+These notes will be shared daily at the end of our class.
+	* Files to be shared daily:
+		- Session Notes - list of notes for all class sessions
+		- Dashboard - progress, status for class
+
+	* Files first shared at end Through Zoom (transfer tool)
+	* AFTER Class session over, Files then copied to lms.simplilearn.com,
+	  "live classes" for the date of the class. 
+ 
+Code of Ethics
+https://www.pmi.org/-/media/pmi/documents/public/pdf/ethics/pmi-code-of-ethics.pdf
+
+Exam Content Outline
+https://www.pmi.org/-/media/pmi/documents/public/pdf/certifications/pmp-examination-content-outline.pdf?v=149cfab8-bd04-4b7b-bacf-c4b1c5e2d164
+
+====================================================
+Team Charter
+
+Objectives: This is what we aim to attain through this class and its
+  results - 
+
+  * Obtain our PMP
+  * Get through this entire content
+  * Obtain our certificate so we can apply for the exam
+  * Establish a solid preparation plan.
+  * Learn something that helps us continue to move forward in our careers
+
+
+Ground Rules
+  Values
+  * Responsibility - take ownership for decisions we make, actions we take,
+	and consequences as these outcomes.
+
+  * Respect - Show a high regard for *OURSELVES* others, and what's entrusted
+	to us.
+
+  * Fairness - Make decisions and act impartially and objectively.
+	I don't want my opinion to be right, I want to hear ALL opinions
+	and work with you to find the best one.
+
+  * Honesty - Understand the truth. Act and speak in a truthful manner.
+	We find out what's right and we speak of it and do it.
+
+	**** We leave no one behind. Everyone crosses the finish line together.
+
+  * Communications: We take statements and comments in chat as opinions and
+    perceptions, not facts or truths. Even facts, without analysis, are not truth.
+
+    We use debate to negotiate and come to agreement.
+
+    Opinions and perceptions may be wrong; PEOPLE are not wrong.
+
+    We embrace the truth. Being right doesn't get us closer to the truth; being
+    wrong Does get us closer to the truth.
+
+    "Greater clarification and transparency, less confusion."
+	(Precision in our definitions)
+
+  * Responsibility - we own our personal growth. This class requires not only
+    acquisition of knowledge, but changes in perception and habit. 
+
+    This includes a sense that we will be confused and frustrated. We accept 
+    that this is just part of the process, and evidence we are doing this right.
+	"All Growth is on the other side of Resistance" - Ryan Holiday
+	'If you're frustrated, you're on the right path' - Tim
+
+    60% of your learning will be received through observing how Tim leads, manages,
+	and organizes the class. This class is intended to not be a lecture, but an
+	immersive experience. 
+
+Relax, take a breath, and think a little slower, and
+	you'll see the patterns emerge.
+
+*****************************************************
+
+Tour -
+	lms.simplilearn.com - 
+		our home base.
+	* Self-learning: a pre-recorded version of this class.
+	  the voice reads the slides, you are given quiz and practice questions.
+	
+		This material may not be in the same sequence as the material in live classes,
+		but it does cover the same content.
+
+	* Live Class: your access to our zoom sessions.
+		- documents your participation
+		- it provides links to streamed recordings of these.
+
+		* BE AWARE: it can take up to 24-48 hours for these data to
+		be updated. If it doesn't happen by then, contact support.
+
+	* Assessments
+		- practice exams: 180 Qs, these are timed. However, you can go in and
+		out of each exam and it'll allow you to pick up later
+			* you can take each of these 3 times.
+
+	* Certificate: what YOU need to complete to receive your Simplilearn certificate
+		if you have unique requirements for certificate, contact support and they'll
+		point you to needed resources.
+			'What is a project?'
+			'Why do I need to score on a practice exam?'
+				We can discuss this offline or after class.
+
+	pmi.org
+		The non-profit org that hosts
+		* the PMP credential
+		* the PMP exam
+		* Prep material for this class
+
+		* this is where you'll go to apply...	<= the most important right now
+			1) You'll need a free account (to share personal information)
+			2) you may want the benefits of a paid membership
+				(I'll talk about this tomorrow or weds)
+
+		https://www.pmi.org/certifications/project-management-pmp
+
+		https://www.pmi.org,
+		- profile
+		- my courses
+		
+			- the "home base" for PMI's training content for this class.
+			- you may have paid for this material, or may have not.
+
+			DO NOT worry - even if you don't pay for this, you can still
+			sit for the exam and pass relatively easily.
+
+			* handbooks
+			* extra exams
+			* lots of videos
+			* copies of our class ppts
+
+	1) if you DID pay for this access
+	   Simplilearn sent you a key.
+
+	2) Use the instructions in the Simplilearn email to activate your
+	   training content.
+
+====================================================
+
+How to Apply
+
+When should I start the application? Now.
+	You'll take about 2 weeks to fill it out,
+	and then when you receive your Simplilearn certificate,
+	you can send the application in.
+
+Applying for the exam:
+	What is 'experience in project management'
+	- how do I document
+	- what does this experience consist of?
+	- did I 'do' projects?
+
+What does the application process look like?
+
+	Documenting the application
+	- personal information
+	- professional information
+	- education
+	- PM experience
+
+	What is experience?
+
+PMI requires that qualified PMP candidates:
+
+* Perform their duties under general supervision and are responsible 
+  for all aspects of the project for the life of the project
+* Lead and direct cross-functional teams to deliver projects within 
+  the constraints of schedule, budget and resources
+* Demonstrate sufficient knowledge and experience to appropriately 
+  apply a methodology to projects that have reasonably well-defined 
+  project requirements and deliverables.
+
+Project descriptions should consist of the following:
+
+* A brief, one-sentence project objective
+* Project deliverables summarized by process areas 
+  (Initiating, Planning, Executing, Monitoring and Controlling, and Closing - 
+   abbreviations are acceptable IN, PL, EX, MC & CL)
+
+	Initiating		gaining project approval
+	Planning		developing an appropriate plan
+	executing		team performs work, PM leads team and
+				manages work
+	Monitoring &
+	Controlling		data is collected, analyzed, changes
+				performed
+	Closing			deliverable transitioned, files archived.
+
+* A brief, one-sentence project outcome
+
+Project descriptions should be a high level summary of the tasks 
+you led and directed on the project (e.g. Initiating: develop project 
+charter etc.; Planning: Scope definition etc.; and so on). 
+
+Project management experience is required in each of the process areas 
+when all projects are totaled, but not on each project. 
+
+Project descriptions must be provided for all projects submitted on 
+application.
+
+	Tim suggests:
+	Document your open projects now (they count)
+	and then document backwards in time until you have enough months.
+
+How do I describe the work *I* Did?
+
+	Use the exam content outline
+	a) what work of mine was a project?
+	b) what tasks did I perform?
+
+	Don't know how to describe the work you did? Use the exam content outline
+	tasks to start as a template.
+
+		If you have a hard time describing the work you did,
+		review the tasks in the Exam Content Outline and use that
+		as a template.
+
+	"I'm not a PM!!!"
+	That's all right.
+	PMI's not interested in your job title, or your assignment to the project.
+	They're looking for the work you did, leading and managing the project.
+
+	Each project will require a reference.
+	That reference will only be needed under audit.
+
+	3-5% of ALL OF US will be audited. It's random, almost never generated
+	due to quality of application.
+
+		Have ready (you don't have to send in at first)
+		* university transcript (degree) - informal
+		* Simplilearn certificate
+		* references
+
+	Reference: someone in higher authority, willing to speak for you if
+	needed (validation of project experience)
+
+		- manager, director, executive on project, even client.
+		- NOT team member, another PM.
+
+	Each project requires 1 reference, 1 reference can be such for
+	> 1 project.
+
+		Tim - I can't find my reference (the company closed)...
+		Contact PMI - they've been solving this problem forever.
+
+	Does PMO Head count as reference?
+	Are they of higher rank? Yes.
+
+	If my application is approved, so it means it did not need audit - 
+	is my understanding correct ?
+	Once PMI asks for money, you are accepted.
+
+	IN order to apply, you need:
+
+	If you still feel lack of confidence, download your completed application
+	and contact support. They'll have you send it to an email, and it'll
+	get to Learner success. Someone will review and recommend.
+
+The exam doesn't test your ability to memorize.
+It tests your ability to think, act, decide and behave.
+	(The exam doesn't test your ability to use and memorize
+		math formulas...????)
+
+		This class is not an exercise in reading entire books.
+		- IT's an exercise in learning how to think, act, decide
+		  as a manager and leader.
+
+	"What do you do now? What's the best option?
+	 What is it you need to be thinking?"
+
+	Sometimes all the options will be good.
+	Sometimes all the options will be poor.
+
+	I was trained by PMI to write these type of questions.
+	I'll give you lots and lots of practice.
+
+	The exam content outline documents the tasks you will be tested on.
+	I've mapped the tasks to the topics we'll study
+
+	Each task will show up about 4-5 times on every exam.
+
+	you have 1.3 minutes to complete all questions.
+	You'll be in a constant state of urgency through the exam.
+	Don't worry. Just practice.
+
+	Random exam:
+	Your exam will be built when you sit down to test.
+	It won't change; those will be your exam questions.
+	
+	multiple choice: 1 correct answer	(80-85%)
+
+	2-correct answers (3) - more than 4 options
+
+	If you're scoring 80-85% correct, you have enough knowledge to pass.
+	You also have to pay attention:
+		- focus
+		- confidence
+		- time management
+
+	Take the exam remotely? In the test center?
+	Pearson -Vue
+
+	PMI Doesn't tell us the passing grade.
+	They will evaluate the test immediately and say:
+
+		- less than capable : business
+		- capable: process
+		- more than capable: leadership
+			and you pass
+
+
+	If you want to improve your score, improve during practice,
+	not after exam.
+
+	* Track the questions you got wrong
+	* align them to the tasks in the exam content outline
+	* look up the details in the training material
+	* continue to practice.
+	* if you don't observe changes in score every 3-4 days, 
+	  you need to review your preparation method
+
+	How to prepare (part of it).
+
+====================================================
+5:05 AM 9/20/2025
+
+Business Environment (sl. 01)
+
+Foundation (sl. 03)
+
+"Why are we jumping from the nature of project (adapt/Predect) to PMO definition
+ /use????? What's the purpose?"
+
+	These are the pieces of the picture of PM.
+	We treat these as a set of pieces in a puzzle.
+
+	In later material, we put these puzzle pieces together for greater purpose.
+	Lesson 1	- we identify with the individual pieces.
+	Further lessons - we learn to put them together.
+
+
+
+
+
+
+This first section is like a picture puzzle.
+	First thing
+	* open box
+	* dump pieces out
+	* sort them
+		white over here,
+		blue over there,
+		corners and sides back in the box
+
+	That's what we're doing in lesson one.
+
+WE know how much total time we have,
+	but we don't know how much time each section
+	will take
+
+	I'll manage this class as an Agile project.
+
+* Project
+	Unique:	requires its own plan
+	Creates a deliverable
+		Product	a 'thing' or "noun"
+		Service an 'action' or "verb"
+		result  an "outcome"
+
+			A project that results in a decision:
+			"Shall we build a data center, and how
+		 	 shall our data center be configured?"
+
+	Specific start	- the project is approved
+	Specific end    - the final deliverable is handed over
+
+ 	Provides a change
+	Provides value
+
+	Ex: Director: 'Go down to the factory floor; one of the tools needs
+	some extra work. Whenever it's moved, a switch is turned, and it
+	turns on. It could hurt someone; we need this fixed quickly.'
+
+	Our 1st example project: "Build a box"
+
+		1: deliverable a solution applied that fixes the problem
+		2: Value:      'we can't have anyone get hurt'
+
+* Evolution of PM
+* PM Life Cycles and Development Approaches
+  Project life cycle: the life a project goes through
+	from its approval to when it transitions the final deliverable
+
+	Development approach: "Method" <- 'a way we develop the project,
+						"do the work"'
+
+	Traditional
+	Adaptive
+	---------------
+	Both life cycles
+	and methods
+
+	Traditional: Predictive - I can 'predict' the outcome to
+					a high probability of success.
+	* We've done this work before.
+	  We can build and rely on a fairly accurate plan.
+		'The plan leads to project success.'
+
+	Adaptive: Adaptive: 'self-organizing'
+	* We've NEVER done this work before.
+	  We have to approach the work as a special type of group
+	  and work through the unknown parts in a special way.
+		'The relationships lead to project success.'
+
+* Tim Adaptive project can be different phases of project which does result in different team taking over during those projects
+
+	* adaptive can be operations work.
+	  We will focus on applying adaptive inside projects,
+	  but the mindset/tools are effective in day-to-day business.
+
+	* There is a blend of adaptive and hybrid.
+		Build a house for a family
+		House frame, electricity, plumbing, data network
+		* Predictive
+
+		Choosing the paint, flooring while you go room-to-room
+		* Adaptive
+
+
+* Project Management Office (PMO)
+	2 purposes
+	* Standardize Project Management
+	* Centralizes Project Management Information (knowledge base)
+
+	3 levels of authority ('rank')
+	- Supportive: 'gives advice'
+	- Controlling: 'Makes decisions'	Healthcare, finance
+		centralizes certain decision-making
+	- Directive:   'Runs PM as a business'	consulting
+						services
+		ongoing authority, directives, and leadership
+
+* Organizational Project Management
+	PMO 	- a type of an organization
+		  (standardizes, centralizes project management)
+
+	OPM	- a framework any organization can adopt
+		  (to take advantage and benefits of projects, project management)
+
+* Projects, Programs, Portfolios
+
+	Program:
+		a group of projects, run in a certain way
+		to obtain extra benefits not available
+		by running them separately.
+
+	I have 5 projects
+	each project requires 2 trucks
+
+	If I run them separately, I rent 10 trucks
+
+	If I run these projects as a group, I
+	may be able to rent fewer.
+
+	trucks on projects might not be needed all the time, and I
+	can move those trucks from project to project
+
+		A group of projects individually run	10  trucks
+		a group of projects as a program	6-7 trucks
+
+		(that's the extra benefit)
+
+	Program:	Program activities (program's administration)
+			Extra benefits.
+
+	Portfolio:	Operations (portfolio's administration)
+			strategic (organizational, corporate) benefits
+
+			
+			Portfolio:	Launch this product into its market
+			sub-portfolio:	Break the launch into different geographies
+
+			Programs:	different technologies:
+					marketing
+					sales
+					construction, instantiation of stores
+					develo0pment of hte product
+
+			Projects:	individual actions within the programs
+					and portfolios
+
+			"Project: Prepare and launch this service in Germany"
+
+	Portfolio:
+		a group of programs, sub-programs, projects,
+		and OPERATIONS -
+		Run in a certain way in order to gain strategic
+		benefits.
+
+	Programs are merely grouping projects
+	Portfolios are RUNNING ALL THIS WORK AS A BUSINESS
+		moving money around.
+		moving resources around.
+		Speeding work here, slowing work there.
+
+		In order to meet the objectives of the organization.
+
+	Operations: (supporting operations)
+	- finance
+	- legal
+	- purchasing
+	- human resources
+	- ...
+
+* Organizational Structures
+	"If you understand the structure of an organization, you understand
+		* why some organizations approach projects differently
+		* why some PMs have high authority and why others have low authority"
+
+* Relative Authority in Org Structures
+
+	- Functional organization:
+	' This organization provides a function (mainly a "support" function)
+	to the rest of the corporation.
+
+		projects are less important than the function
+		(the pm may not have a lot of authority, or may
+			even be just temporary)
+	- finance
+	- legal
+	- purchasing
+	- human resources
+
+	- Project Oriented organizations use projects to generate
+		revenue DIRECTLY, or succeed in a certain outcome directly. 
+		Consulting, services.
+	In a consulting group, the PM generates the money for everyone's
+		salary. They demand almost total authority.
+
+	Information Technology (IT)
+	They look like a functional (support) organization
+	They manage delivery as a series of projects
+
+		MATRIX (combination: functional, project-oriented)
+		Strong-matrix:	they are more focused on projects,
+				than the support role they play.
+
+We stop on sl. 13.
+
+- What do I need to do for this class right now?
+------------------------------------------------
+* Start a journal, write down the topics that confuse you.
+
+* Download, organize content you have access to. Review it
+  for future reference.
+
+* Start the self-learning content now. See if you can stay
+  ahead of the slides we cover in class. Again, capture the
+  topics and concepts you don't understand.
+
+* We'll get into out-of-class assignments and practice
+  questions soon enough; for now, get in a routine of 
+  regularly attending and reviewing class.
+
+====================================================
+5:40 AM 9/21/2025
+
+Scrum:	a framework "utilizing an agile mindset for developing, delivering, 
+	and sustaining complex products." Includes servant leadership, self-
+	organizing teams, reviews, retrospectives, and scrums, and other
+	agile tools.
+
+ Also:	A short, 15-minute meeting in which the complete team gets together 
+	for a quick status update while standing in a circle.
+		- What did we complete yesterday? (progress)
+		- What are we working on today?	  (status)
+		- What do we plan for tomorrow?   (forecast)
+	 	* Issues, Risks
+
+	We'll use a daily scrum (doesn't have to be daily) to introduce
+	necessary information that doesn't show up in the slides, or you
+	call for.
+
+	Today:
+	- What is the PMBOK? What are its details?
+		PM Body of Knowledge:
+			1981-6, 96, 2000. 2004, 2007, 2017...
+
+	6e: 	the old PM Framework (how project management works)
+		the old methodology (predictive)
+		over 800 pgs.
+
+		The PM Framework started as a group of good practice
+		supported by academic reference (white papers, dissertations)
+	-	- on this framework, we continued to build.
+
+	7e:	new PM framework (over and outside methods)
+		PMBOK (Sec.1)
+
+		PRINCIPLES - concepts we embrace that shape our
+		actions.
+
+		Guide to PMBOK (Sec. 2)
+		Domains: areas of PM where we apply our principles.
+
+	Agile	New Agile methodology
+	Practice
+	Guide
+
+	Process	New Predictive Methodology
+	Group
+	Practice
+	Guide
+
+	- What other PMI published documents have value for this class?
+	- How do I use these to prepare?
+	- Can I get them for free?
+
+*****
+
+From:	Lesson 1, sl.  13 PM Principles
+To:	Lesson 1, sl.  67 Project Compliance
+
+* PM Principles
+	(P. 99, 7e PMBOK)
+
+	Principles:	ideas, notions and opinions that drive
+			our behavior.
+
+* PM Domains
+	Domains: Areas of focus
+	- we apply our principles
+
+* Agile
+	'This work is highly unknown, ambiguous, full of risk,
+	 constantly changing'
+		WE need a special type of team...
+
+	Agile:	a mindset
+
+	This is how humans think and act:
+		- we collect values.
+		- we use those values to shape principles.
+		- our principles shape our behaviors (actions).
+		"Atomic Habits", James Clear
+
+
+	Scrum:	a framework (set of tools)
+
+	WE use scrum framework ("tools")     (p.  101,  Agile PG)
+	with an agile mindset  ('attitude')  (p. 8, Agile  PG)
+
+* Agile Manifesto (why?)
+	(p.  8, Agile PG)
+
+* Principles behind the Manifesto
+
+* Agile - Adaptive Approaches
+	Adaptive: "self-organizing"
+
+* Tailor Projects
+
+	The Body of Knowledge is not rules.
+		good practice:
+		"Through analysis and practice, we've found good ways
+		 of doing things. If you do them this way, you get benefits."
+
+	It is intended to be 'modified'
+		- Organizations have their own way of doing things
+		- business requirements drive projects to behave
+			in a certain way
+		- team, expert and general human behavior shape things too.
+
+	PMBOK: a 'standard'
+		"we found out over the last century a few really good
+		 ways of doing this work. If you do it this way,
+		 you'll get better results."
+
+	Tailor:
+	
+Tailoring (p. 131, Guide to PMBOK)
+	The deliberate adaptation
+	of approach,
+	to make them more suitable
+	for the given environment and work at handz
+* Tailoring approaches:
+	Predictive methods:
+		we'll tailor around the team
+	Adaptive methods:
+		we'll tailor around the relationships
+	Hybrid:
+		we'll associate our tailoring based on	
+		the various different needs within both
+		predictive and adaptive  work.
+
+Strategic Alignment (sl. 23)
+- Vision: 	the city on the top of the hill
+		"future, with imagination / vision"
+
+- Mission:	how we will get there and build that city
+		vocation, or "calling" (what we must do)
+
+Objective:	the 'purpose' for that city
+		a "good" or a thing we use to aim.
+		We need to see all the farms and villages,
+		to watch for weather and bad characters.
+
+Key Results:	how we'll measure our success in that mission
+			- creating 20 KM road every day
+			- getting one more house up on the hill
+
+	PM's role:
+	it depends
+		- within a functional organization,
+		- within a project-focused organization,
+
+* Talent Triangle
+	(p. 58, Process Group PG)
+
+	Ways of Working (WoW):
+	Methods, Life Cycles,
+	other "ways of getting the job done"
+
+	Examples: Adaptive, Predictive
+	Systems Thinking - a way of making sense of the complexity by looking
+	at it in terms of wholes and relationships rather than splitting it
+	into its parts.
+
+* Strategic Alignment and Business Skills
+* Strategic Elements and Frameworks
+* Organizational Influences  (pl. 38, Process Group PG)
+
+	EEFs	- business requirements		"HAVE TO HAVE/FOLLOW"
+	OPAs	- organizational preferences	"DOCUMENTATION AND GOOD PRACTICE"
+
+	Enterprise Environmental Factors (EEFs)
+	- conditions not  under control of the team
+	- influence, constrain, direct project
+
+	Organizational Process Assets (OPAs)
+	- plans, documents, templates, knowledge repositories
+	- specific to and  used by the performing organization
+
+* The external Business Environment
+
+	How do we go out and find the EEFs and OPAs?
+
+	*) Ask questions. Executives, business analysts, key decision-makers.
+
+Culture - shared assumptions, values, and beliefs of a group of people
+          which result in characteristic behaviors. (Storti, "Understanding the
+		  World's Cultures")
+
+	the components of a group we need to follow to belong to, get value
+	from that group.
+
+* Internal Business Environmental Factors
+* OPAs, EEFs
+
+	EEFs		- we have to follow them
+			- we can't change them
+			- they influence our project
+				"necessary"
+
+	OPAs		- "good practice"
+			- the organization has found how they want to do this work
+
+			* If we use this, we don't have to come up with these
+			  steps and actions
+
+			1) They make planning very easy
+			2) They bring a higher probability of success
+				* not necessary
+				* yet can be highly beneficial
+
+* Activity (EEFs, OPAs)
+
+	Historical society building regulations.
+	Regulation - official, authoritative rule created by government/authority
+	to control, govern conduct.
+
+	Policy:	"Tie down data cables to the framework so they don't get all tangled."
+		You may fail inspection, but no fines, other severe actions."
+
+		Regulations, laws: include fines.
+
+	Regulation may not be as severe as a law, but...
+
+		"When you're building a commercial building and make a hole in
+		a wall to pass cables, you must fill it in with smoke-stopping putty."
+
+	Laws, regulations contain that "necessary" component.
+
+Approved vendor and contractors list
+	1) tells us how to do something (get vendors in without
+		full bidding process)
+	2) Finance, legal and purchasing say "You have to use these
+		vendors or at least consider them first."
+
+	* An EEF first
+	* Also can be considered an OPA.
+
+	On the exam: mark this down as EEF (considering 1 choice)
+		That is the more important role this plays.
+			"Necessary"
+
+Tenant selection process
+	1) The federal government says "you must be fair"
+		EEF
+	2) This tells you how to select tenants
+		OPA
+
+	On the exam: mark this down as EEF (considering 1 choice)
+		That is the more important role this plays.
+			"Necessary"
+
+	Take this to the exam:
+		when it seems to be both EEF and OPA, 
+		consider it as an EEF first (higher priority)
+
+Policy: course or principle of action adopted or proposed by a government, business,
+	individual
+
+
+Project Benefits & Value (sl. 33)
+
+	Benefit: an advantage or profit gained from something
+		(we'll look at examples)
+
+	Value:   something held in high regard
+		(we'll look at examples)
+
+		I want it. I  desire it.
+		I'm willing to sacrifice for it.
+
+* Business Value
+	Net		Total, sum
+	Quantifiable	I can measure it - SMART
+			S pecific
+			M easurable
+			A chievable
+			R ealistic
+			T imely  / timebound
+	Benefit		Advantage, profit
+
+	tangible: it has physical presence
+		"We will save 20% on energy bills year over year."
+
+	Intangible: it may not have physical presence
+		"Community good will" (the community will like us
+		more if we do this)
+
+* Examine Business Value
+	We  can also use  our relationships:
+	-  Sponsor
+	-  Product owner
+	-  Decision-makers, executives
+	- experts, team, other stakeholders
+
+		It's not 'our'  project.  It's not "my" project.
+		I am merely the servant, steward (remember the principles)
+
+* Types of Business Value
+	Regularization:
+		Alignment with regulations:
+		HIPPA
+		SoX
+		OSHA
+		GAAP	<- both regulations and LAWS
+
+	We are making changes to ensure these regulations are addressed better.
+		(we value this)
+
+* Needs Assessment
+
+		Way before a  project is even an idea,
+
+		Business needs to make a decision:
+		'We have a problem...'
+		'We need a change...'
+		'We have an *opportunity*...'
+		"We need to invest time, money, resources in doing something new..."
+
+	Constraint		a limiting factor
+
+	Assumption:		a  planning factor
+				considered to  be real, true, certain
+				without proof
+				a  'guess'
+				We only use this when we don't have anything better.
+				we log these and replace them when we do have better
+					information.
+
+	Risk:			Might occur (less than 100% probability)
+				IF it does
+				Will impact
+						Probability, impact
+
+* Business Documents
+	Business Case
+		Economic:Study of production, consumption,  of wealth
+		What I want,  and what you want, and  how we can exchange
+		to create greater value
+
+		Feasibility: 	Can we really do this? Should  we?
+				Can the organization or corporation get
+				behind  us and support it.
+
+		Feasible:	We can pull it off.
+		Practical:	We can do it easily, or we should  do it.
+
+		* Justifies the reason for setting aside money, time and resources
+			to make this change, to solve this problem, to do this research.
+
+	Business case 	justifies the reason for the organization/corporation
+			to set aside money, time, resources
+
+	Project Charter	justifies the reason to select *THIS* project
+			as the solution to the business need (from needs analysis)
+
+	Plan <==>  "How we will..."
+
+	Benefits Management Plan
+		- How we will
+		* define				(using financial analysis)
+		* create,  maximize  and sustain	(using positive change and
+								good decision-making)
+		* the benefits
+
+* Benefit Measurement Methods
+	This conversation requires functions and math.
+		Don't focus on the formulas.
+		Focus on:	"What does this mean?" (interpretation)
+				"How do I use this to make project  decisions?" (what do you do	
+				next, first? What do you not do?")
+
+		There will be 10-11 math problems. They'll be  simple algebra
+
+	Payback, break-even...
+
+		Every project  costs.
+		In order for a project to be selected,
+		It must generate enough value to recover  cost.
+		Benefits=cost	-> "break  even"
+			1) we want to know when we transition from
+			cost recovery to profitability
+			2) we want this time to be short
+				~ 18 months for IT projects
+				~ 15-30 years for buildings, factories
+
+		Payback
+			The time  or milestone
+			when we  achieve "break even"
+
+			If we are a toy manufacturer:
+			"When we will have sold our 10,000th plastic toy duck..."
+
+		When we recover cost, any other  benefit = PROFIT
+		(extra money we have created -> MORE VALUE)
+
+	Opportunity cost
+	*) "You can only spend money once."
+
+		You have to choose:
+			go to a movie
+			go to dinner
+
+		If you go to a movie, you miss out on a good meal
+		If you go to dinner,  you miss out on entertainment
+
+		Opportunity cost  = the  value  of  the "missed  opportunity"
+			The benefit of the option you did not select.
+
+	Project		Benefit
+	A		$45,000
+	B		$65,000	<- we choose the larger
+
+			We are missing out on the benefit of A
+			Opportunity cost = $45,000
+			And. that. is all right.
+			B's benefit is  greater than the opportunity cost.
+
+	Project		Benefit
+	A		$45,000
+	B		$65,000	<- we still choose the biggest (we want biggest benefits)
+	C		$25,000
+
+		3 options
+		You can ONLY CHOOSE ONE. <- you can't choose 2 or 3.
+		What is the opportunity cost?
+
+			45,000
+			70,000
+			20,000
+			?
+
+		The benefit  we choose will still be B.
+		The cost  of  that  opportunity is
+		the  missed benefit of A <- $45,000
+
+		Why is it only $45,000?
+
+		Even if  we had not selected  B, 
+		we would have ONLY selected A and still not selected C.
+
+		Opportunity cost is the value of the missed  opportunity
+		of  next greatest  value.
+
+	When you have  options, you will  always sacrifice.
+		1) you can only choose  1
+		2) by saying 'Yes'  you are also saying "No"
+			This is a major concept.
+
+		Both in business and our personal lives:
+			You can only spend once - money, time, resources.
+
+
+	These are not the whole picture.
+	These are fundamentals
+	We're in an airplane above the clouds looking at the landscape.
+	In lessons 2,3 we are closer to the ground and can see buildings and cars.
+
+		These are the building blocks we'll put together to
+		talk about the "buildings and cars"
+
+* Project Selection (PV, NPV)
+
+	Present  Value	-> "today's" value
+	Future 	 Value  -> "tomorrow's" value
+
+	Project		Benefit
+	A		$45,000
+	B		$65,000
+
+	How do I select? Choose the greater value.
+		B. (we already did this.)
+
+	NEW SCENARIO
+
+	Project		Benefit
+	A		$45,000 at the end of 3 years
+	B		$65,000 at the end of 5 years
+
+		do I go with less benefit sooner?	a
+		do I go with more benefit later?	b
+
+
+	We have  2 survival instincts now:
+		1) "I want my money now."	<- primary survival  instinct
+
+		sooner is not the real question.
+
+		2) "Is it worth waiting 2  extra
+			years for an extra $20,000?"
+			(time value of money / TVM)
+
+		This second  factor  takes into considering  our  rational mind.
+		That's where we need  to focus.
+
+
+		We will look at the math later, but this is the concept.
+
+	We  understand stocks and investing...
+		I have a present  value  that  I use to buy stocks
+		I am given an investment rate  to determine
+		a future value.
+
+		each stock has a forecasted investment rate
+		that helps us to move PV investments to FV returns.
+
+	This works in reverse  (I love finance)
+
+	You can take a future  value (3 years or 5  years)
+		And by using a DISCOUNT rate
+		Determine the present ("today" value)
+
+		If I convert 3-year value
+			     5-year value
+
+		both to today's value (PV)
+		I can  now compare  them equally.
+
+	Where do I get these  discount rates?
+		Finance. They have discount rates for EVERYTHING.
+			products and services gain value
+			they also gain costs.
+		we have to understand how to consider both.
+
+			investment, discount rates consider both
+			sides.
+
+		Once again, I'll show you the math later, but
+		this is a concept that you'll see.
+
+		Can we convert
+					a 3-year benefit for 45,000
+					a 5-year benefit for 65,000?
+			Yes - we convert both these benefits to "today" (PV)
+			and *then* we can compare them equally.
+
+		PV, FV discount rates are variables and concepts we
+		use to balance the impact of time-value relationships
+		and make better comparisons (analysis)
+
+	"Net" Present Value  (NPV)
+	Net  -->  'sum' or total
+		Curious? Google "Gartner IT Chart of accounts"
+			1995, this was a $5,000 document.
+			Free today.
+		* what categories do we collect for the data?
+		* how do we calculate, "treat" that data?
+		* how do we interpret the results?
+
+	You, product  owner,  business analyst and finance get together.
+	You generate a group of  assumptions:
+
+	* This product will  have  a usable  life
+	* Each year of its usable life it'll generate benefits,  costs
+
+	1) we'll take each year's  benefits, costs
+	2) we'll  bring all these to the present
+	3) we'll  add up the PVs  of costs, and PVs  of benefits
+	4) we'll compare.
+		B>C?	:-)	Profit
+		B<C?	:-(	Loss
+		B=C?		Break-even
+
+		NPV = sum(PV(benefits)) compared to sum(PV(Costs))
+
+	Year	Benefits	Costs
+	-----------------------------
+	0	  ---		  xxx
+	1	  xxx		   xx
+	2	  xxx		   xx
+	3	xxxxx		 xxxx	<- upgrade  
+	4	  xxx		    x	<- obsolescence
+	------------------------------
+
+
+	this is not the formula, but looks somewhat...
+		NPV =  Sum(PV(Costs)) compared to Sum(PV(Benefits))
+
+	Internal rate of return	(IRR)
+	My INTEREST RATE for the project
+		We used Interest rate to determine PV, FV
+		Now, let's see if we can forecast
+		an interest (growth in value) rate.
+
+	You, product  owner,  business analyst and finance get together.
+	You generate a group of  assumptions:
+
+	* Let's assume that in a year x (let's  say year 4) a product
+	  will break even (B=C).
+	* What  is the interest rate where
+		- The  benefits and  costs
+		  balance
+		- exactly at year 4?
+
+		What is a reasonable rate of return for an IT project?
+		- generally (personal experience) 13-18% yoy.
+		Investment firms, IT projects can actually have higher
+		IRR (and must have higher IRRs).	26% IRR.
+
+	"Internal" rate  of return (IRR)
+	'Internal'  -> the analysis of everything included  within the decision
+			AND  NOTHING ELSE
+
+	Return on Investment  (ROI)
+
+	"What is the size of profit relative to the size  of  Cost?"
+	RoI = (Profit) / (cost) <- considering everything is in Present  value
+
+	Understanding Profit = Benefit - Cost
+	RoI                  = (Benefits  - Cost) / (cost)
+	It gives us a relative size of profitability
+
+	We can compare profitability between a project
+		A:	$250,000 benefits	$100,000 cost
+
+			(B-C) = 150k
+			RoI   = 150k/100k = 1.5
+
+		B:	$450,000 Benefits	$ 95,000 cost
+
+			(B-C)   355k
+			RoI   = 355k/95k = 3.74 (374%)
+
+* How can we consider profit in Present Value?
+	Value. Benefits.
+	Profit is the evaluation of  benefits after  removing cost.
+
+	Benefits  may not be a part of revenue.
+	Benefits  may be COST  SAVINGS.
+
+		This is confusing. 
+		I need to help you understand
+			- not the math
+			- how to use this to make decisions
+
+		(I'll be updating the lesson 1exercises to reflect)
+
+* How OKRs Help Deliver Business Value
+	Objective:  a  "good", something at which we aim
+	Key Result: a  metric we use to demonstrate achievement
+
+We stop on sl. 43
+
+- What do I need to do for this class right now?
+------------------------------------------------
+* Start a journal, write down the topics that confuse you.
+
+* Download, organize content you have access to. Review it
+  for future reference.
+
+* Start the self-learning content now. See if you can stay
+  ahead of the slides we cover in class. Again, capture the
+  topics and concepts you don't understand.
+
+* We'll get into out-of-class assignments and practice
+  questions soon enough; for now, get in a routine of 
+  regularly attending and reviewing class.
+
+====================================================
+4:56 AM 9/27/2025
+
+Scrum:
+
+	How to Read
+	4 Levels of Reading ("How to Read a Book", Adler)
+	1 - Elementary: translate text into words.
+	  How Tim reads ancient Greek. (Casual Reading)
+	2 - Inspectional: basic ideas of the text
+	  "Scanning" - headlines, major themes (Reading on the Internet)
+	3 - Analytical: From a general idea to a good understanding
+	  Study, notes, review (Starting to form opinions)
+	4 - Syntopical: Comparative; many books, placed in relation
+	  to each other. Construction of analysis not in any book
+	
+	Choose the level of reading for the purpose desired.
+
+	How to Learn
+	Bloom's Taxonomy - Cognitive (knowledge-based) domain
+	6) Knowledge: I remember, recognize (facts, figures)
+	5) Comprehension: I demonstrate understanding
+	4) Application: Using acquired knowledge (connecting relationships)
+	3) Analysis: Breaking down into component parts
+	2) Synthesis: Building a structure / pattern from components
+	1) Evaluation: Presenting and defending opinions by making
+	   judgments about information
+
+	* The exam tests you on level 4
+	* Focusing on 4,3,2 meets 6, 5
+
+	False assumption: "I need to understand something to 100% before
+	I can move forward."
+	
+	Correct assumption: "I'll learn to about 60-70%, and use that
+	as a practice structure."
+
+
+	How to Prepare
+	Phase 1 - This class. Follow the discussion, capture what you don't
+	understand. Phrase your question to determine what you need. Look 
+	for references in context. Aim to understand to 60-70%.
+
+	Phase 2 - Practice. Use practice questions, understand how to decompose,
+	look for relationships. Study (research) concepts unclear - questions
+	you don't understand. Track ratio of questions wrong per category. Focus
+	on the concepts you get wrong more often. Use the Exam Content Outline
+	to organize the concepts. Aim for 80-85%. Take the problems slowly.
+	Work on about 20-50 questions per day.
+
+	Phase 3 - When consistently scoring 80-85%, schedule your exam. Schedule
+	it out 2-3 weeks. Continue daily practice. Retain consistent 80-85%.
+	Turn attention to -
+		* Focus: You will be distracted. Get comfortable with getting
+		back on track.
+
+		* Time management: start accelerating your problem-solving,
+		without impacting your score.
+
+		* Confidence: Reflect on your progress. "Observing the results
+		of your efforts, demonstrating you are attaining command of
+		the knowledge and mindset."
+
+*****
+
+From:	Lesson 1, sl.  43 Incremental Value Delivery (org culture & change)
+To:	Lesson 2, sl.  21 Communication Model
+
+* Incremental Value Delivery(p.  246,  process group  PG)
+
+	Product owner:	"I just got  back from business -  we've decided on our
+			next product...
+
+			* We'll first  launch a basic  smartphone. We'll get it out
+			  early for  quick  feedback and visibility.
+			* We'll then launch the phone with better  memory.
+			* We'll then launch the  phone with a better camera.
+			* We'll then launch the phone with lots of  apps.
+
+* Exam Content Outline (ECO) Coverage
+
+Organizational Culture and Change Management (45)
+	Culture: 	'the unwritten rules and laws that guide  a group'	
+			* We go out to the patio every 2 pm and talk about
+			  everything EXCEPT work...
+
+			"The customary beliefs, social forms, and material traits
+			 of a racial, religious, or social (ex. WORK) group.
+
+			 The set of shared attitudes, values, goals, and practices
+			 that characterize an organization."
+
+			* We have a break-room everyone uses.
+			* We are  committed to the corporate  vision
+			* We have our own 'way' of  performing projects
+
+	Change:		the reason for a project
+			
+			'Change is not bad.
+			 UNCONTROLLED change is bad, and can  lead to  project  failure.'
+
+	Traditional:	We'll have a formal change control system  that runs
+			beside the project work
+
+	Adaptive:	Change  and  change management will be  built into
+			our tools and framework ("part of  the work")
+
+* Change Management
+	Projects  (And companies and all human groups)
+	2  choices:
+	1) let's manage change
+	2) let's not manage  change
+
+		which one has a higher  potential for  increasing value?
+		which one has  a higher potential for inviting chaos  (and  failure)?
+
+	*) We  approve "NECESSARY" changes
+	*) We  reject  "UNNECESSARY" changes
+
+		Necessary:	'it increases probability of success
+				 it minimizes probability of failure.'
+
+* Manage Organizational Change Impacts on Projects
+* Get to Know Organizational Cultures and Styles
+* Risk, Culture and Change in Organizations
+* Change Management Framework
+* Actions to Support Change
+* Plan for Change
+
+	Change MUST be formal
+		Traditional: we MUST have a formal approach to managing change
+			(system, integrated)
+
+		Adaptive: we MUST build change and change management into
+			the way the work is performed...
+			What does this mean?
+			Lesson 2 tells...
+
+but  change creates discomfort to some team members. 
+	Human behavior - change is uncertain, it is  unknowing
+			it might not be in the direction I want
+
+	Think about learning the PM Framework in this class.
+
+* Organizational Transformation for Project Practitioners
+
+		Objective: 	the 'destination' of a project
+			26% reduction in power use
+			more transactions per minute...
+			etc.
+
+		- A North star isn't a destination
+		- It's a reference  point we use to correct our course.
+
+		"Our vision is..."
+			Project 'Build a Dam'
+			Objective is to retain water in a lake  so we have
+			a lot of water during droughts
+				Destination, results
+
+		Vision, or North Star:
+			We  see a  future
+			* our descendants will not lack for water ever again.
+
+			This is not  our destination.
+			We use this as a 'north star'
+
+Project Governance (55)
+
+Governance
+	Act or process of overseeing control and direction
+	of something.
+		Authorizations, approvals
+		signatures, sign-offs.
+	
+	"Decision-making among the actors involved in a collective problem
+	 that leads to the creation, reinforcement, or reproduction of social
+	 norms and institutions."
+
+* Project Governance
+	Optimal
+		* The  benefits  of  governance - staying on track and focused.
+		* equal the costs of governance - time and effort invested.
+
+* Governance in Adaptive Projects
+
+	- If the work can't be well-defined
+	- the environment and the relationships must  remain defined
+	- and  governance integrated into these  components
+
+* Governance Board
+	Boards and committees
+
+	Governance board 	->  "change control board"
+	they make decisions.  Usually made of experts.
+
+	Steering  committee	-> "advisory board"
+	They give advice.     Usually made of experts.
+
+
+* Governance Defines Escalation Procedures
+	Your sponsor, product owner, executives,  senior decision-makers
+	will assist you in  defining escalation.
+* Governance and Life Cycles
+
+	Project Life Cycle:	the life a project progresses through
+				from its  approval
+				to its final transition
+
+	Product  life cycle:	the life a product progresses through
+				from  the creation of the product as an idea
+				to its final  obsolescence (total loss of value)
+
+	A product life cycle
+		can  contain many
+	  project life cycles
+
+* Phase Gates and Iterations
+
+Phase
+	A collection of logically related project activities
+	That culminates in the completion of one or more
+	deliverables.
+
+		Ex.	"Build a Restaurant"
+			--------------------
+			* Landscape		<- logically related collection
+			* building		<- results in the completion
+			* Kitchen		   of one/more deliverable/s.
+			* dining area
+			* bar
+			* menus
+			* staff
+
+				a phase gate in this project.
+				We end the building phase, and want to start
+					kitchen, dining, bar phases.
+					We apply governance.
+					"Is the building finished enough for
+					 us to focus on the individual phases?"
+	
+Gate	An entry/exit point between items
+	fields and pastures
+	territories
+	phases
+
+	A "good  place  to apply control"
+	- Are we ready to continue?
+	- Are we done?
+	- What's the progress, status?
+
+Waterfall (Predictive approach)
+
+	- A type of predictive: Sequential phases, where the finish of one leads
+	  to the start of the next.
+
+	- "Even though the approach is rigid and not necessarily cost-effective,
+	   it is still used and required on several types of projects, especially
+	   those with clear requirements that are unlikely to change..."
+	   (p. 85, "Project Management" 13th ed., Kerzner)
+
+Releases
+	Multiple transitions of deliverable
+
+Iterations
+	"Repeats";  opportunities to demonstrate  functionality and  value
+	in exchange for feedback
+
+* Project Phases
+* Apply Governance to Predictive Project Phases
+
+sl. 62  
+Project Compliance (67)
+
+-Compliance
+The state of meeting—or being in accord with—organizational, 
+legal, certification or other relevant regulations.
+
+	A form of governance that confirms:
+	"We are following process, procedure."
+	
+* Compliance Requirements
+* Compliance Categories Classification
+* Compliance Threats
+	What if an organization does not have a stated quality
+	plan? How do you apply quality on your project.
+
+	Threat	a type of  risk  - it's "negative"
+	Compliance activities need to be transparent.
+
+	* if we're not informed, we see compliance as a checklist.
+	* if we are informed, we learn that compliance protects the
+		company from loss of face, and  potential cost into 10s  of Millions USD.
+
+	When planning  compliance activities,
+	Please identify at least 1  risk surrounding that  compliance:
+	"What if  we don't get that signature?
+	 What if  we aren't in compliance?
+	 What if the worst possible outcome occurs?"
+		- someone gets hurt
+		- we create defects
+		- the company loses extreme face (data breaches)
+
+	Compliance states: "we  approve the fact we  are  following process and procedure."
+	* We're following the process of our project  (the "plan")
+	* We're following the process of our  organization.
+	* We're  following process of our corporation
+	* We're following process of the government (laws, regulations)
+
+	Risk: something  that
+		* MIGHT happen
+		* if it does, WILL impact (often negatively)
+
+	We need to  identify these potential outcomes of  not  being compliant.
+
+		1) it ensures we're taking compliance seriously
+		2) it's a  great communication tool to ensure
+			the organization and company trusts  us.
+
+
+====================================================
+Lesson 2
+Start the Project
+
+Identify and Engage Stakeholders (03)
+* Typical Project Stakeholders
+
+		- individual,  group, entity (like "government")
+		* Might impact a project
+		* Might be impacted by a project
+		* Might perceive  themselves to be impacted
+
+	Stakeholder
+		- individual,  group, entity (like "government")
+		* Might impact a project
+			pm, team, sponsor, product owner,  decision-makers, executives
+
+			We're running a  critical task in the lab. A  janitor cleans
+			the lab every night.
+			A  stakeholder?
+
+			We are responsible  for
+			* identifying them
+			* assessing their potential impact
+			* ensuring
+				we minimize negative impact
+				we maximize positive impact
+
+			"The whole world" is not a stakeholder.
+			We have to determine the greater body of stakeholders
+			that will ensure success.
+
+
+		* Might be impacted by a project
+			users of the product being developed
+			recipients of the result of the project's service
+
+		Ex. Your project is upgrading corporate email. This will change
+			everything in how we manage our  messages.
+			It will slow down  admins  especially since everyone
+			will go  to them for questions.
+
+			Is an admin a stakeholder on this project?
+			* if we don't get them on our side, they can hurt our project  severely.
+
+			A  stakeholder?
+
+			We are responsible  for
+			* identifying them
+			* assessing their potential impact
+			* ensuring
+				we minimize negative impact
+				we maximize positive impact
+
+		* Might perceive  themselves to be impacted
+			they "THINK" they'll be impacted.
+
+			Information Technology (IT) thinks our  project 
+			will eliminate  their jobs.
+			They're  wrong.
+
+			Are they stakeholders?
+
+			Yes.
+
+			The  IT department can raise such a ruckus that
+			it disrupts and may even stop our project.
+
+			We are responsible  for
+			* identifying them
+			* assessing their potential impact
+			* ensuring
+				we minimize negative impact
+				we maximize positive impact
+
+	- You will NEVER identify enough stakeholders
+	- you will sometimes miss the critical ones.
+	- The best approach:
+		start identifying stakeholders as soon as you are assigned,
+		and continue to identify, assess, and determine how to engage...
+
+			Engage - "involve"
+			in order to minimize negative  impact
+			in order  to maximize positive impact
+
+	"A watchman who is gatekeeper to a data center is a stakeholder for the company?"
+		If that watchman can  either help or hurt my project, I have to consider
+		them as a stakeholder
+		- identify
+		- assess
+		- determine appropriate engagement
+
+	In the past, my students have  said, give me a list so I can capture everyone.
+	Any list  will not include all  your project's potential stakeholders
+
+	instead of a list, focus on a process or system...
+
+		Using the definition of stakeholders, hold that as a lens
+		against everyone that seems to be in and around your project.
+
+* Stakeholder and Communications Management
+
+	We attempt to engage all stakeholders
+	- our primary mode of engagement: "sharing information 2  ways"
+						(communications)
+		Engagement <=>  'Involvement'
+
+	Stakeholder register
+		- a project  document
+		* contains stakeholders and contact information
+		* as  well as any  information we need to determine
+		  how they should be engaged.
+
+	Stakeholder engagement plan
+	- how we  will
+	* identify, assess, and engage
+	* our stakeholders
+
+	Communication management plan
+	- how we  will
+	* plan
+	* "do"
+	* monitor (and change appropriately)
+	* communications  ('sharing information 2  ways')
+
+	Stakeholder engagement assessment  matrix
+	a tool we use to determine appropriate stakeholder engagement
+		- based on our identification
+		- using simple assessment
+
+* Stakeholder Identification
+	Interest: one stakeholder characteristic:
+	'curiosity'
+		This is a human super-power
+		that allowed us to turn groups of  villages
+		into mighty emprise.
+
+	If someone is curious, nothing will stop them from learning that information.
+		Give them information for which they'r ecurious, they become satisfied.
+	(motivation)
+
+* Assess Stakeholders
+	(p. 23, process group PG)
+
+	Data		raw, without context
+			"We spent $5,000 last week."
+			Is this bad, good? We don't know - it's only data.
+
+	Information	Data, in context
+			"We are now $400 over budget."
+			This is bad - we  can determine that.
+
+	Reports		- graphical representations of information
+			- intended to drive control:
+				analysis, review, decisions, governance,
+				compliance...
+
+	Analysis: is how we turn data into information
+	Reports:  are what we use to control the project.
+
+Brainstorming
+Identify a list of ideas in a short amount of time.
+Conducted in a group environment, led by a facilitator.
+
+	Capturing the data
+	not necessarily turning it into information.
+
+* Create the Stakeholder Register
+	Includes
+	- identification
+	- analysis
+	- CLASSIFICATION
+		organization of my stakeholders in groups
+		such that I can determine how to engage
+
+	Expectation:	an opinion considered to be so common sense
+			it doesn't need to be shared.
+
+	Perception:	how we 'see  things'
+			shaped  by
+			our opinions
+			habits, behaviors
+			principles, values
+
+* Stakeholder Characteristics
+	Level of authority: Power
+	the 'energy' required to exert influence
+	
+	Interest: curiosity  - a major driver of human behavior
+
+	influence/impact: ability to make changes through the actions of others
+
+* Salience
+
+Salience -  Notable,  noticeable, prominent  - I can see it easily.
+
+Salience Model
+A classification model that groups stakeholders according to level of authority,
+immediate needs, and how appropriate their involvement is in terms of the project.
+
+* level of authority			POWER
+* immediate needs			URGENCY
+* how appropriate their involvement is 	AUTHENTICITY, "LEGITIMACY"
+
+* Plan Stakeholder Communications
+
+	Communications: sharing information 2 ways
+				intentionally, unintentionally
+
+	90% of our activity:
+			'planning, doing and  "ensuring"
+			project communications
+
+			Ensuring:	monitoring  communications and making appropriate changes
+
+	We share  information that's APPROPRIATE
+
+		If others perceive we're hiding information, they'll no longer  trust us.
+		WE have to adopt a  general approach
+			* transparency
+			* without over-sharing
+
+			a  wicked,  wicked balance to achive
+
+
+* Communication Requirements Analysis
+* Communication: Methods and Technologies
+		Oral, written:
+		When do we share information using documents?
+			1) validation - did they actually agree in that meeting?
+			2) were they part of conversations?
+			3) version control: control the document, control
+			   version of the information.
+
+	Push communications:	I send  information out.
+				emails. Distribution lists.
+				document distribution
+				meetings
+
+				when sharing information quickly, the
+				sender can determine urgency.
+
+	Pull communications:	I keep information updated
+				in a centralized location
+				in order for you to access
+				whenever you need.
+
+				Shared folders
+				Information radiators
+				Dashboards
+
+	Interactive:		a combination of push, pull
+				in order to gain  project success
+				(to meet all communication needs)
+
+* Communication Methods
+* Communication Challenges/Considerations
+
+	Tools:  ease of use - 'transparency'
+		Are the tools almost  invisible?
+
+		Am I spending more time  in managing and using the tools
+		than getting the work done?
+
+* Communication Model
+	model	- a simple example
+		- used to demonstrate  a small set of  functions/results
+
+	1) understand  "acknowledge", acknowledgement
+		- I received the message and decoded  it
+		- I understand what to do with the information
+
+		The sender  must retain control of acknowledgement
+		I can't just rely on you telling me you acknowledge.
+		I can't assume that no acknowledgement means  you understand.
+
+		Communications failure of any kind rest on the shoulders of the PM.
+
+	2) understand  "noise"
+		ANYTHING
+		* that  gets in the way of receiving the message
+				loud  machines in the room
+				too much distance between  sender,  receiver
+
+		* that gets in the way  of decoding the message
+				I'm tired, I'm hungry,  I'm distracted,
+				I have high emotions
+
+				When's lunch?  Will I get off in time
+				to have  dinner  with my family?
+				I'm almost out of  gas...
+				I feel sick...
+				I'm worried...
+
+* Stakeholder Engagement Strategy
+
+	"Levels" of engagement
+		unaware		unaware of project	unaware of  change
+		resistant	aware of project	resistant to change
+		neutral		neither resistant 	nor  supportive
+		supportive	aware of project	supportive of change
+		Leading		aware of project	actively engaged  to support success
+
+
+		I want as many stakeholders as possible to be  supportive
+		I want  a few leading stakeholders:
+			too many, and they often get in the way of each other
+
+We stop on sl.  25.
+====================================================
+====================================================
+4:56 AM 9/27/2025
+
+Future Scrum Topics
+	* What about the PMBOK? Which version?
+		Are there other guides I need?
+	* How do I get the PMBOK  for Free?
+	- How to Read
+	- How to Learn
+	- How to Prepare
+	- What is a practice question, and how do I use it?
+	- How can a PM take advantage of AI NOW?
+	- How is AI prepared to impact our careers the next 2 decades.
+	- Where can I find lots of practice questions?
+	- What PMI materials do I have to prepare? (after the classes are over)
+	- PM Careers for the next 30-40  years.
+	- What does recertification look like?
+
+(Our next Scrum - Saturday + "how to read a book", "How to learn")
+
+Maybe post-session
+- Are there really good books for PMs (continuous education)
+
+Questions unanswered
+
+* What sources do we need to prepare
+	(this is already part of "how to prepare")
+
+* How are the standards created, evaluated?
+	Universities come to PMI for accreditation.
+	PMI manages one standard of PM
+		that aligns with
+		ISO 21500
+		Many ANSI standards.
+
+* 	(Tim) define tailoring, define adaptive, and compare.
+	relationship between tailoring and adaptive methods?
+	adaptive promotes active, constant change (for clarification and greater
+							benefits/value)
+
+	tailoring: a "change" based on preference beyond mere good practice.
+
+* Dear Tim, Is there any notes which filtered topics by you was available?? 
+  To revise for upcoming sessions
+	There are aspects in place, but they are inferred.
+	(Tim) think about some proactive preparation before the next topics.
+		Forecasted general topics for 1 day, 1 week.
+
+	This is heading to a whole workbook that is actually something
+	you can read and not just publish.
+		I just sent my 1st book to the publisher.
+		The next book is just this. It'll take 1 year to create
+		the content and about 4 months to prepare it for print.
+
+* Whether Mission changes on every year?
+	business and strategic planning concepts
+
+* When do we get to exercises? Can we do exercises along the various topics?
+	maybe.
+
+	I have exercises by lesson.
+	I have a sheet for our last class that takes about 2 hours.
+
+* why don't we have our notes in cloud to get updates and for reference
+	I tried this. I tried many different cloud services.
+	This becomes un-manageable.
+	This was moved by Simplilearn into the LMS to protect it
+	from cloud links getting out.
+	We used slack - the links got out.
+	We used to have a forum. The links got out.
+
+
+*  adaptive management when resources are trying to manage both program and projects vs ongoing operations?
+	There are attempts to take greater advantage of adaptive methods in bus; 
+	- we are right now looking at uncertainty in general and preparing
+	  business and people for major change.
+
+* when hiring a consultant company, it becomes quiet problamatic wherein the resource which are the best are on other projects and thus newly hired are deployed within the project and therefore the company is charged the same but does not obtain same quality of the product. How to deal with it?
+
+* Tim- EEF are static and have to have follow (out of our circle of influence). On other hand OPA can be changed or continuous improved with the time & requirement. (under our control).  Am I understanding both correctly?. 
+	- Sometimes, EEFs change A LOT.
+
+* if there was a selection criteria to select vendors or criteria list then it would have been OPA but now the resource or vendor is approved or the list of vendor decided and constrained, then it will be EFF
+
+* so for clarity:  if it is demanded by a higher authority than the PM or the project,  
+  it is an eef?
+	EEF: generally outside of control of the team/project/PM
+		may be organizational,
+		may even be outside of corporation
+
+	HAS to be part of the project.
+
+	OPA: good practice, not REQUIRED, yet potentially provides benefits
+		we may elect to choose these
+
+* "the O in OPA stands for Organizational:  anything not created by organization (or adopted)  are External"
+		Think of it at a higher level.
+		Organizational *process assets"
+			- these are documented information
+			  that tell us how to do things well.
+		NOT NECESSARY
+
+	EEFS	*are* necessary
+		- they may be external
+		- they also may be internal
+			(finance, contracting, purchasing policies and regulations)
+
+* Policy: course or principle of action adopted or proposed by a government, business,
+	individual
+
+* Thanks tim for explaining th case study of Telescope, however what about the business case when so many astronomy clubs or classes were created or these societies wherein prerequisite to enter them was buying these telescopes?
+
+Rather than targeting these children, you end up targeting children clubs/societies?
+	This is a business discussion, but very important.
+	In planning, we'll revisit when we discuss
+	"User centered design" (Who is our "real" or *final* customer?)
+
+Rather than targeting these children, you end up targeting children clubs/scoieties?
+* so what your saying is : we have to be able to read/interpret the reports, make the correct decision about what the number is telling us, and come the the best conclusion about how to act based on the report?
+	That's exactly right. (the best type of right)
+
+* so for clarity:  If ROI is over 0 = good  under 0 = bad?
+		Profit / Cost	these equal	1.0, 100%
+				P < C		< 1
+				P > C		> 1
+
+		Benefits to cost	when these are equal -> breakeven
+		RoI			> 1			Profitability that is accepted
+
+* How do i get a pdf copy of slides?
+* What is the origin for these methodologies??
+
+Questions requiring review
+
+* (Tim) More detail please on Organizational PM:
+		- Organizational Project Management (p. 12, Process Group PG)
+* (Tim) Please provide definitions of:
+	- Project Life Cycle
+	- Project Phase
+	- Phase Gate
+	- PM Process
+	- PM Process Group
+	(p. 13, process gropu PG)
+* What's the difference between a customer and an end user? (p. 13, PMBOK / section 1)
+* (Tim) Do we have a PM on adaptive projects?
+	Does an adaptive project *need* a PM?
+* (Tim) develop an OPM example (an organization that strategically
+		uses projects, programs, portfolios)
+
+Answered Questions
+
+====================================================
+====================================================
+5:40 AM 9/21/2025
+
+Answered questions
+
+* In adaptive project management approaches, is it necessary for a single individual to oversee and monitor the project throughout the entire life cycle, or can proper execution and planning be ensured through collaborative monitoring and iterative processes?
+	- Both Predictive and Adaptive Projects can treat PM as a group
+	  of tasks (a "role") where the tasks are distributed.
+	- If a distributed model is employed, the role of PM has to be
+	  very integrated, i.e. communication must be very effective for
+	  each component to relate to the others - i.e. finance, schedule and
+	  scope, contracting, etc.
+
+I asked it because, even though we were following agile project management for several projects, there was always a responsible individual overseeing throughout the life cycle.
+	- Traditionally, PM is seen to have one single individual in charge (one
+	  single point of contact). The distributed PM model has been seen to be more
+	  effective, especially in less formal PM environments, where the budget
+	  might be entirely indirect, or purchasing and contracts are not part
+	  of the project.
+	- Also, consider the technology - quality may be critical, or risk management
+	  or change management may be critical (for example). In these instances,
+	  formality is delegated to experts, or organizations that either do this
+	  for the organization / other organizations, or even contracted in.
+
+* can you kindly share your email id at the end of the class? wherein we can ask you questions directly by email?
+	- I Considered this when starting remote training; this opened me up to additional
+	  5-100 conversations per month; today it would destroy my email box.
+
+	- If you want to stay in touch and see what I'm working on in public,
+	  feel free to look me up in social media.
+
+	- I prioritize my students when they are in my classes; after this,
+	  I answer questions, give guidance, etc.
+
+* What's a composite organizational structure?
+	"Many organizational structures include strategic, middle management,
+	 and operational levels. The PM may interact with all 3 levels."
+
+	- (P. 46, Process Group PG)
+
+* I have multiple projects  one is building a KB for PMP  one is building a KB for Computer science: they don't really relate to each other but work towards my strategic initiative to gain knowledge to make me employable .  these two are part of my portfolio.
+
+	- Think about this:
+
+		Portfolio: The organizational strategy
+		Program:   "Extra" benefits, relating to the group of projects
+		Project:   Deliverable (product, service, result)
+
+	For your example, your portfolio supports employability ("make sure my work
+	generates pay."). Call it "Keep Me Employed".
+
+	The two builds are projects, they are focused on creating something or
+	making a change.
+
+	A program would be putting in categories, such as "KB projects", "User
+	interface projects", "graphics projects".
+
+	It would be totally appropriate, with how you structure your work, that
+	you organize this as "2 projects, that are part of 1 portfolio."
+
+* WhatsApp
+	- its great for people preparing to group together.
+	- we can't talk about it in this session (it's recorded)
+		* if you share personal information in this class
+		* it's recorded and gets out of control of the students and Simplileanr
+		* Simplilearn already made a promise to protect your personal information
+		* we must establish a policy that says "find a way to share personal
+		  information outside of class."
+
+====================================================
+====================================================
+5:05 AM 9/20/2025
+
+I have lots of open questions. If I don't answer them post-session,
+I'll start answering them outside of class and leave the answers in the notes.
+I can even carry some questions into the forum (you can too if you need to)
+
+Answered Questions
+
+* In adaptive project management approaches, is it necessary for a single individual to oversee and monitor the project throughout the entire life cycle, or can proper execution and planning be ensured through collaborative monitoring and iterative processes?
+
+	- Both Predictive and Adaptive Projects can treat PM as a group
+	  of tasks (a "role") where the tasks are distributed.
+	- If a distributed model is employed, the role of PM has to be
+	  very integrated, i.e. communication must be very effective for
+	  each component to relate to the others - i.e. finance, schedule and
+	  scope, contracting, etc.
+
+I asked it because, even though we were following agile project management for several projects, there was always a responsible individual overseeing throughout the life cycle.
+	- Traditionally, PM is seen to have one single individual in charge (one
+	  single point of contact). The distributed PM model has been seen to be more
+	  effective, especially in less formal PM environments, where the budget
+	  might be entirely indirect, or purchasing and contracts are not part
+	  of the project.
+	- Also, consider the technology - quality may be critical, or risk management
+	  or change management may be critical (for example). In these instances,
+	  formality is delegated to experts, or organizations that either do this
+	  for the organization / other organizations, or even contracted in.
+
+* can you kindly share your email id at the end of the class? wherein we can ask you questions directly by email?
+	- I Considered this when starting remote training; this opened me up to additional
+	  5-100 conversations per month; today it would destroy my email box.
+
+	- If you want to stay in touch and see what I'm working on in public,
+	  feel free to look me up in social media.
+
+	- I prioritize my students when they are in my classes; after this,
+	  I answer questions, give guidance, etc.
+
+* What's a composite organizational structure?
+	"Many organizational structures include strategic, middle management,
+	 and operational levels. The PM may interact with all 3 levels."
+
+	- (P. 46, Process Group PG)
+
+* I have multiple projects  one is building a KB for PMP  one is building a KB for Computer science: they don't really relate to each other but work towards my strategic initiative to gain knowledge to make me employable .  these two are part of my portfolio.
+
+	- Think about this:
+
+		Portfolio: The organizational strategy
+		Program:   "Extra" benefits, relating to the group of projects
+		Project:   Deliverable (product, service, result)
+
+	For your example, your portfolio supports employability ("make sure my work
+	generates pay."). Call it "Keep Me Employed".
+
+	The two builds are projects, they are focused on creating something or
+	making a change.
+
+	A program would be putting in categories, such as "KB projects", "User
+	interface projects", "graphics projects".
+
+	It would be totally appropriate, with how you structure your work, that
+	you organize this as "2 projects, that are part of 1 portfolio."
+
+* Please demonstrate PMI training content access
+	We completed! Right after break
+	how to get to content
+	what content consists of
+
+
+* Can Scrum Master Experience for a Agile Project can be considered for 
+  PM experience criteria of 36 Months?
+	We have to understand
+		- what a PM does
+		- what a scrum master does
+		- do they overlap?
+	* Scrum master: makes sure scrum works and is effective
+	* PM? What about budget? What about contracts? What about
+		risk and quality? <- the material you'll use for
+			your project documentation (refer to EXam content outline)
+
+* If same project can be executed by two different Project Manager.
+  both way by different people as I same kind of project...?
+	Let's step away from thinking of PM as a job title or assignment.
+ 	Let's start thinking of PM as a group of tasks ("role")
+		role: a group of tasks
+			performed by 1 or more individual, group, entity
+
+		1 role can be filled by multiple people
+		1 person can take on more than 1 role
+
+* whne using an example lets stick with it instead of jumping cause i still dont know is germany and the uk under the same program or would we seperate it?
+	It's like designing scope.
+		We can design a work breakdown on any project in any of
+		1,000 ways. I'm using a single example to demonstrate the concept
+		and application, we can discuss other specific examples
+		if time allows.
+
+* for the sake of time, can we reserve the questions for after the session, 
+this is my suggestion. A *great* suggestion.
+	- I am daily monitoring remaining time and will balance questions
+	  to completing content daily.
+
+* You can take note by computer, but this sometimes side-steps
+	comprehension.
+
+  It seems, writing by hand engages the mind in the concepts behind
+	the symbols.
+
+	I write the greater body of notes for you.
+	You write the outline, and the questions where you
+	have doubt.
+
+* Why won't TIm share his pdfs?
+	*) PMI and Simplilearn and I are in an agreement:
+		- pdfs are for students who purchased.
+		- ppts are for trainers.
+	*) PMI published materials are for people who purchased
+
+	Finally - I teach ethics as well as PM. If I teach ethics
+	and don't practice ethics, how do I ensure you understand
+	the value of them?
+
+		AND - if it's ethics that I have no integrity,
+		how can you believe me in anything?
+
+	I have made this decision as a trainer; you all will make
+	your own ethical decisions.
+
+* How do I know what to document (and how to document it)?
+	- is the work I did a project?
+	- What is the work I did leading and managing?
+
+* Reaching support:
+	www.simplilearn.com
+	"contact us" (bottom)
+	look for a local ph. number (no ph. charges)
+	use the calling tree to find a human

@@ -1,0 +1,46 @@
+{
+  "excheck_1_pre_answer_checklist": {
+    "step_1": {
+      "title": "Analyze the Question",
+      "description": "Read the last sentence first, decompose the question into core project management principles (e.g., scope, time, risk). Identify key components and ensure you understand the core query."
+    },
+    "step_2": {
+      "title": "Verify Context",
+      "description": "Ensure all necessary context is present. Ask clarifying questions if any information is missing (e.g., project phase, stakeholder involvement)."
+    },
+    "step_3": {
+      "title": "Logical Analysis",
+      "description": "Follow a step-by-step logic template, considering dependencies, risks, and consequences for the recommended solution. Ensure all steps are covered."
+    },
+    "step_4": {
+      "title": "Validate Against PMBOK Standards",
+      "description": "Ensure the solution aligns with PMBOK knowledge areas and process groups. Cross-check the response with PMBOK guidelines for accuracy."
+    },
+    "step_5": {
+      "title": "Self-Check for Errors",
+      "description": "Before finalizing the response, check for logical gaps or errors. Correct any inconsistencies and ensure the response is thorough and well-reasoned."
+    }
+  },
+  "excheck_2_post_feedback_checklist": {
+    "step_1": {
+      "title": "Review Feedback and Errors",
+      "description": "Analyze the feedback received and review error logs. Identify frequent mistakes, patterns, and prioritize areas for correction."
+    },
+    "step_2": {
+      "title": "Update Persona",
+      "description": "Adjust the agent's persona based on feedback. Modify communication style or tone to better suit user needs, if required."
+    },
+    "step_3": {
+      "title": "Refine Logic Template",
+      "description": "Update the agent’s logic process. Add steps or checks if gaps were found, or correct existing logic errors based on feedback."
+    },
+    "step_4": {
+      "title": "Refine Guidelines",
+      "description": "Incorporate lessons learned from mistakes into the guidelines. Add any new terms or processes to prevent future errors."
+    },
+    "step_5": {
+      "title": "Log Improvements",
+      "description": "Record all changes made to the agent’s persona, logic template, and guidelines. Use the `save_data()` function to log improvements and track progress over time."
+    }
+  }
+}
