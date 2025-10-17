@@ -37,12 +37,10 @@ Straightforward, practical, mapped exactly to the Exam Content Outline.
 ---
 
 ![[case.png|image of  a team at work](case.png)
-#### Ca!se Study – The Project in Motion  
-Walk through a single initiative from spark to delivery.  
-Create every part of the plan, then execute it.
-Every phase mirrors the workbook’s lessons, so theory turns into practice in real time.  
-See how a project lives, breathes, and changes.  
-[Enter the case study ›](200-case-study/index.md)
+#### Case Study – The Project in Motion  
+See how this web site was built using PMI Project Management Professional Practices. Walk through a single initiative from spark to delivery.  Create every part of the plan, then execute it.
+Every phase mirrors the workbook’s lessons, so theory turns into practice in real time.  See how a project lives, breathes, and changes.  
+[Enter the case study ›](200-case-study/10-project-management-plan/index.md)
 
 ---
 ![[assets/images/riya-and-the-team.png|Image of Riya and her team]]
@@ -65,17 +63,17 @@ Search it, click it, learn it on demand.
 ## Behind the Scenes  
 Transparency matters.  
 Our **Governance Documents** record how this project was planned, built, and managed—real examples of professional documentation in action.  
-[View the governance archive ›](10-project-management-plan/index.md)
+[View the governance archive ›](200-case-study/index.md)
 
 ---
 [[#Project PASS PMP|Top]]
 ### Quicklinks
 - [Start the modules ›](100-structured-study-guide/index.md)
-- [Enter the case study ›](200-case-study/index.md)
+- [Enter the case study ›](200-case-study/10-project-management-plan/index.md)
 - [Open the Lore Door ›](300-the-lore-door/index.md)
 - [Explore the glossary ›](400-glossary/10-glossary.md)
-- [View the governance archive ›](10-project-management-plan/index.md)
-- [Site Map](2-hello/site-map.md)
+- [View the governance archive ›](200-case-study/index.md)
+
 - [Structured Study Syllibus](30-syllabus.md)
 - 
 

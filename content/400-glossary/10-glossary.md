@@ -3402,20 +3402,11 @@ Milestones co[[glossary-files/90-glossary#gloss-milestone|Milestone]]l [[glossar
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
 [[#Glossary|Top]]
-
-
-## Quick Links
-- [[#Glossary|Top]]
-- [[jasytionline.github/100-portals/300-pmp-modules/01-test-prep/01-test-prep|Test Preparation Essentials]]
-- [[jasytionline.github/100-portals/300-pmp-modules/01-test-prep/02-Understanding Terms|Understanding Terms]]
-- [[03-cue-cards|Cue Cards as a Study Tool]]
-- [[01-test-prep/04-glossary|Glossary]]
-
-## Navigation
-- [[jasytionline.github.io/index|JASYTI's PMP KB Home]]
-- [[jasytionline.github.io/contents/100-published/110-modules/01-test-prep/index|Test Prep & Tactics]]
-- [[jasytionline.github.io/contents/100-published/110-modules/03-lifecycle/index|Lifecycle of a Project]]
-- [[jasytionline.github.io/contents/100-published/110-modules/02-pmbok/index|Theory Application]]
-- [[jasytionline.github.io/contents/100-published/110-modules/tlg/index|Case Studies (6 vs. 7 in Action)]]
-- [[02-pmbok/6-pmbok/index|PMBOK 6 Standards]]
-- [[02-pmbok/7-pmbok/index|PMBOK 7 Standards]]
+### Quick Links  
+- [[01-welcome/index|Welcome Center:]]
+- [[#Structured Study Guide]] - 
+- [[200-case-study/10-project-management-plan/index|Case Study: See how this Web Site was Built]]
+- [[300-the-lore-door/index|Enter The Lore Door]]
+- [Site Map](01-welcome/10-pm-site-map.md)
+- [[400-glossary/10-glossary.md|Interactive Glossary]]  
+- [[index.md|Project Pass PMP Home]]

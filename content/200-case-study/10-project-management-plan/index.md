@@ -1,31 +1,10 @@
 ---
 title: Project Management Plan – Index
 ---
-# Case Study: Project Pass PMP 
-This web site was built using a Predictive Project Approach.  View all the documents created during the its Project Lifecycle.
+# The Project Management Plan - Artifact
+Here you will find all the documents created during the planning of Project Pass Pmp
 
-Follow along as our team  initiates, plans, executes, monitors and closes the project to bring this web site from a proposal to a living working interactive tool you can use to  prepare for your personal journey into the world of Project Management.
-
----
-## The Team:
-Meet the team of professionals from all over the world who came together in a colbaorative Cohort to make this dream into a reality.
-## The Proposal
-Here you learn about the Idea and see the process followed to bring this idea to the team in the form of a business case.
-
-# The Charter
-Once the business case has been approved and the project officially sponsored, it is time to make the project charter.  Follow along as the newly formed team must move from Forming to Performing while developing the core document that guides the project through planning to completion.
-## The Plan
-If yo don't now where you are going, any road will do.  The Plan, is the key to keeping the project on the path.  Although not every project needs everyone one of the deocuements we created here, every one of these concepts must be considered during the planning process.  Dive into the Artifacts created during the planning Process.
-
-## Executing the Plan
-
-## Monitoring and Controlling
-
-## Closing the Project
-
-
----
-
+\---
 ### 📁 [00-project-integration-management](repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/00-project-integration-management/index.md)
 
 **Project Integration Management** brings together all elements of the project into a cohesive whole. This section includes the master Project Management Plan, Change Management Plan, Configuration Plan, and other key integrative documents. Integration ensures that all processes and project components align with the overall strategy and objectives. It's the “glue” that binds all parts of the plan, ensuring consistency and coordinated execution across knowledge areas.
@@ -86,15 +65,17 @@ If yo don't now where you are going, any road will do.  The Plan, is the key to 
 ### 📁 [90-stakeholders](repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/90-stakeholders/index.md)
 
 **Stakeholder Management** ensures that project stakeholders are appropriately engaged and their expectations managed. This includes identifying stakeholders, analyzing their influence and impact, and planning communications strategies. Artifacts include the Stakeholder Register, Engagement Plans, and tools like the Power/Interest Grid.
-
 ---
 
-[[#Case Study Project Pass PMP|Top]]
-### Quick Links  
-- [[01-welcome/index|Welcome Center:]]
-- [[#Structured Study Guide]] - 
-- [[200-case-study/10-project-management-plan/index|Case Study: See how this Web Site was Built]]
-- [[300-the-lore-door/index|Enter The Lore Door]]
-- [Site Map](01-welcome/10-pm-site-map.md)
-- [[400-glossary/10-glossary.md|Interactive Glossary]]  
-- [[index.md|Project Pass PMP Home]]
+## 🔁 Quick Links to All Folders
+
+- [00 Project Integration](../00-project-integration-management/index.md)
+- [10 Scope Management](200-case-study/10-project-management-plan/10-scope-management/index.md)
+- [20 Schedule Management](../20-schedule-management/index.md)
+- [30 Cost Management](../30-cost-management-plan/index.md)
+- [40 Quality Management](200-case-study/10-project-management-plan/40-quality-management-plan/index.md)
+- [50 Resource Management](../50-resource-management-plan/index.md)
+- [60 Communications Management](../60-communications-management-plan/index.md)
+- [70 Risk Management](200-case-study/10-project-management-plan/70-risk-management-plan/index.md)
+- [80 Procurement Management](200-case-study/10-project-management-plan/80-procurement-management-plan/index.md)
+- [90 Stakeholder Management](200-case-study/10-project-management-plan/90-stakeholders/index.md)

@@ -39,19 +39,12 @@ If you're here, the system thinks you're ready. If you're wrong... the Gate will
 - 0.1 [[jasityoffline/01-hub/200-drafts/jasytionline.content/100-portals/300-pmp-modules/310-tlg/episodes/02-tlg-ep0.1-the-fire-below|The Fire Beneath the Code EP 0.1]]
 
 ---
-## Quick Links
-- [[jasytionline.github.io/contents/100-published/110-modules/tlg/index|JASYTI's PMP KB – HOME]]
-- [[jasytionline.github.io/1-about|About JASYTI]]
-- [[jasytionline.github.io/3-glossary|Glossary]]
-- [[jasytionline.github.io/contents/100-published/110-modules/tlg/README|Repository README]]
-- [[jasytionline.github.io/2-references|References]]
-
----
-## Main Categories
-- [[jasytionline.github.io/contents/100-published/110-modules/01-test-prep/index|Test Prep & Tactics]]
-- [[jasytionline.github.io/contents/100-published/110-modules/02-pmbok/index|Project Management Body of Knowledge]]
-- [[jasytionline.github.io/contents/100-published/110-modules/03-lifecycle/index|Lifecycle of a Project]]
-- [[jasytionline.github.io/contents/100-published/110-modules/04-ittos/index|ITTOs]]
-- [[## The Lore Door|The Last Gate]]
-
----
+[[#The Lore Door|Top]]
+### Quick Links  
+- [[01-welcome/index|Welcome Center:]]
+- [[#Structured Study Guide]] - 
+- [[200-case-study/10-project-management-plan/index|Case Study: See how this Web Site was Built]]
+- [[300-the-lore-door/index|Enter The Lore Door]]
+- [Site Map](01-welcome/10-pm-site-map.md)
+- [[400-glossary/10-glossary.md|Interactive Glossary]]  
+- [[index.md|Project Pass PMP Home]]
