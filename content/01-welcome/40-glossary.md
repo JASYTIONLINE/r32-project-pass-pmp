@@ -3401,12 +3401,15 @@ Milestones co[[glossary-files/90-glossary#gloss-milestone|Milestone]]l [[glossar
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
-[[#Glossary|Top]]
-### Quick Links  
-- [[01-welcome/index|Welcome Center:]]
-- [[#Structured Study Guide]]
-- [[200-case-study/10-project-management-plan/index|Case Study: See how this Web Site was Built]]
-- [[300-the-lore-door/index|Enter The Lore Door]]
-- [Site Map](01-welcome/10-pm-site-map.md)
-- [[40-glossary|Interactive Glossary]]  
-- [[index.md|Project Pass PMP Home]]
+
+---
+[[#Glossary|Back to the Top]]
+
+## Quick Links
+- 1. [[10-team-pmp|Meet the Team]]
+- 2. [Domain, Tasks, & Enablers Index Map](01-welcome/20-dte-index.md)
+- 3. [Review the Site Map](30-pm-site-map.md)
+- 4. [Explore the PMP Interactive Glossary](40-glossary.md)
+- 5. [JASYTI's Project Pass PMP - Home](index.md)
+
+
