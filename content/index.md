@@ -52,18 +52,11 @@ It’s fiction—but the project management is real.
 
 ---
 
+![[glossary.png]]
 #### Interactive Glossary – The PMP Language Lab  
 Every PMI term, every acronym, every concept—explained in plain English and linked to real exam cues.  
 Search it, click it, learn it on demand.  
 [Explore the glossary ›](400-glossary/10-glossary.md)
-
----
-
-![[glossary-image.png]]
-## Behind the Scenes  
-Transparency matters.  
-Our **Governance Documents** record how this project was planned, built, and managed—real examples of professional documentation in action.  
-[View the governance archive ›](200-case-study/index.md)
 
 ---
 [[#Project PASS PMP|Top]]
