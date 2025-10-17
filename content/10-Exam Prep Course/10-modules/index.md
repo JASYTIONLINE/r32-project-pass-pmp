@@ -12,7 +12,7 @@ role: index
 function: education
 shortcode: "[idx]"
 ---
-# Structured Study Guide
+# Exam Prep Course
 Pass the PMP® on the First Try!
 
 What if you could skip the noise and study exactly what PMI tests—no filler, no guesswork?  
@@ -43,14 +43,14 @@ Or your money back.
 [[#Structured Study Guide|Top]]
 
 ## Quick Links
-- 
-- 100-structured-study-guide/20-test-prep/index.md
-- 100-structured-study-guide/30-dte-index/100-index-business-domain.md
+- [Structured Exam Prep Course](10-Exam Prep Course/index.md)
+- [Test Prep Tip & Tricks](100-structured-study-guide/20-test-prep/index.md)
+-[] 100-structured-study-guide/30-dte-index/100-index-business-domain.md
 - 100-structured-study-guide/40-project-lifecycle/index.md
 - 100-structured-study-guide/50-pmbok/index.md
 - 100-structured-study-guide/60-the-music-of-pmp/Index.md
 ##  Main Categories
-- [Followed the Structured Study Guide](10-structured-study-guide/index.md)
+- [Structured Exam Prep Course](10-Exam%20Prep%20Course/index.md)
 - [Review Project Pass PMP Case Study](20-case-study/10-project-management-plan/index.md)
 - [Go Through the Lore Door](30-the-lore-door/index.md)
 - [Explore the glossary](40-glossary.md)

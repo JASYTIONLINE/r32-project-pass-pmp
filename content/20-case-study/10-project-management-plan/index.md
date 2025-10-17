@@ -81,7 +81,7 @@ Here you will find all the documents created during the planning of Project Pass
 - [80 Procurement Management](20-case-study/10-project-management-plan/80-procurement-management-plan/index.md)
 - [90 Stakeholder Management](20-case-study/10-project-management-plan/90-stakeholders/index.md)
 ##  Main Categories
-- [1. Followed the Structured Study Guide](10-structured-study-guide/index.md)
+- [Structured Exam Prep Course](10-Exam%20Prep%20Course/index.md)
 - [2. Review Project Pass PMP Case Study](20-case-study/10-project-management-plan/index.md)
 - [3. Go Through the Lore Door](30-the-lore-door/index.md)
 - [4. Explore Your Bonus Material](50-bonus/index.md)

@@ -643,7 +643,7 @@ G:\00-REPO-VAULT\S7-LEARNING-CENTER\R72-PMP\R72-PMP-PREP-KB
 [[#Repository Site Map|Back to the Top]]
 ## Quick Links
 - 1. [[10-team-pmp|Meet the Team]]
-- 2. [Domain, Tasks, & Enablers Index Map](01-welcome/20-dte-index.md)
+- 2. [Domain, Tasks, & Enablers Index Map](50-bonus/10-dte/index.md)
 - 3. [Review the Site Map](30-pm-site-map.md)
 - 4. [Explore the PMP Interactive Glossary](40-glossary.md)
 - 5. [JASYTI's Project Pass PMP - Home](index.md)

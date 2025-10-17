@@ -30,7 +30,7 @@ Just a little bit extra to help you prepare for the test and become effective le
 	- [[05-tailoring|Tailoring:]] is an essential part of modern Project Management, and must be considered as a integrated part of the process. learning how to apply tailoring to any given situation or process is vital to passing the PMP exam.
 	- [[50-risk|Risk:]] is not always bad, and understanding how to recognized, prepare for, mitigate and accept risk is a core concept in the ECO.  Learn all about risk and Risk Management here.
 	- Without [[50-risk|Stakeholders:]] there is no project.  Proper Stakeholder engagement and stakeholder management is key to the success, and will be woven into many f your PMI exam questions.
-- [[60-the-music-of-pmp/Index|The Music of PMP:]] is a fun way to learn, memorize and internalize the lessons of Project Management.  These tunes are specifically designed to use mnemonics and music theory to help get you internalize the lessons you will be learning throughout this course.  Once you have studied an individual concept, listen to the corresponding music to help hammer home and get those facts stuck in your brain
+- [[60-music/Index|The Music of PMP:]] is a fun way to learn, memorize and internalize the lessons of Project Management.  These tunes are specifically designed to use mnemonics and music theory to help get you internalize the lessons you will be learning throughout this course.  Once you have studied an individual concept, listen to the corresponding music to help hammer home and get those facts stuck in your brain
 
 ---
 [[#Bonus Material|Back to Top]]
@@ -43,9 +43,14 @@ Just a little bit extra to help you prepare for the test and become effective le
 - 100-structured-study-guide/50-pmbok/index.md
 - 100-structured-study-guide/60-the-music-of-pmp/Index.md
 ##  Main Categories
-- 1. [JASYTI's Project Pass PMP - Home](index.md)
-- 2. [Followed the Structured Study Guide](10-structured-study-guide/index.md)
-- 3. [Review Project Pass PMP Case Study](20-case-study/10-project-management-plan/index.md)
+- 1. [[#Welcome to JASYTI's Project Pass PMP|JASYTI's Project Pass PMP - Home]]
+- 2. [Structured Exam Prep Course](10-Exam%20Prep%20Course/index.md)
+- 3. [Case Review - Project Pass PMP](20-case-study/10-project-management-plan/index.md)
 - 4. [Go Through the Lore Door](30-the-lore-door/index.md)
 - 5. [Explore Your Bonus Material](50-bonus/index.md)
-- 6. [Listen to The Music of PMP](60-the-music-of-pmp/Index.md)
+- 6. [Listen to The Music of PMP](60-music/Index.md)
+
+
+
+
+
