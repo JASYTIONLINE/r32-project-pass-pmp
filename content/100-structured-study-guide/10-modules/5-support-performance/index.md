@@ -29,11 +29,19 @@ It reflects both **Domain I – People** and **Domain II – Process**, bridging
 - **Lessons Learned:** Capture experience and feed it forward.
 
 ---
+[[#Module 5 – Support Project Team Performance|Back to the Top]]
+## Quick Links
+- [[1a-foundation|1A – Foundation]]
+- [[1b-strategic-alignment|1B – Strategic Alignment]]
+- [[1c-benefits-and-value|1C – Project Benefits and Value]]
+- [[1d-culture-and-change|1D – Organizational Culture and Change Management]]
+- [[1e.-governance|1E - Governance]]
+- [[1f-project-compliance|1F – Project Compliance]]
+- [[1g-notes-and-activities|1G - Lesson 1 Notes and Activities]]
 
-### Quicklinks
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/480-mock-1|Mock Exam 1]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/490-mock-2|Mock Exam 2]]
-- [[499-lessons-learned|Lessons Learned]]
-
-### Main Categories
-- [[repositories/r30project-managment/contents/jasityonline/100-workshops/r33-project-managment/contents/100-Modules/index|PMP Modules – Home]]
+## Main Categories
+- [01- Visit the Welcome Center](01-welcome/index)
+- [100 - Structured Study Guide›](100-structured-study-guide/index.md)
+- [200- Case Study: Project Pass PMP›](200-case-study/10-project-management-plan/index.md)
+- [300- Open the Lore Door ›](300-the-lore-door/index.md)
+- [400-Explore the glossary ›](40-glossary.md)

@@ -72,5 +72,5 @@ This document outlines the full schedule of activities required to complete the 
 - [[06-schedule-change-log|Schedule Change Log]]
 - [[index|Schedule Management – Index]]
 - [[README|Schedule Management – README]]
-- [[10-glossary|Glossary]]
+- [[40-glossary|Glossary]]
 - [[index|Project PASS PMP – Home]]

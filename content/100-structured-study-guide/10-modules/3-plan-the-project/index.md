@@ -29,17 +29,19 @@ Each topic here reflects **Domain II – Process** in the PMP Examination Conten
 - **Integration:** Coordinate plans across cost, scope, and schedule while managing complexity.  
 
 ---
+[[#Module 3 – Plan the Project|Back to the Top]]
+## Quick Links
+- [[1a-foundation|1A – Foundation]]
+- [[1b-strategic-alignment|1B – Strategic Alignment]]
+- [[1c-benefits-and-value|1C – Project Benefits and Value]]
+- [[1d-culture-and-change|1D – Organizational Culture and Change Management]]
+- [[1e.-governance|1E - Governance]]
+- [[1f-project-compliance|1F – Project Compliance]]
+- [[1g-notes-and-activities|1G - Lesson 1 Notes and Activities]]
 
-### Quicklinks
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/310-build-team|Build the Team]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/320-lead-team|Lead the Team]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/330-support-performance|Support Performance]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/340-empower|Empower Team Members]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/350-remove-impediments|Remove Impediments]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/360-conflict-negotiation|Conflict and Negotiation]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/370-stakeholders-collab|Stakeholder Collaboration]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/380-ei-and-culture|Emotional Intelligence and Culture]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/390-facilitation-decisions|Facilitation and Decision-Making]]
-
-### Main Categories
-- [[repositories/r30project-managment/contents/jasityonline/100-workshops/r33-project-managment/contents/100-Modules/index|PMP Modules – Home]]
+## Main Categories
+- [01- Visit the Welcome Center](01-welcome/index)
+- [100 - Structured Study Guide›](100-structured-study-guide/index.md)
+- [200- Case Study: Project Pass PMP›](200-case-study/10-project-management-plan/index.md)
+- [300- Open the Lore Door ›](300-the-lore-door/index.md)
+- [400-Explore the glossary ›](40-glossary.md)

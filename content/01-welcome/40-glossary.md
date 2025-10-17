@@ -3408,5 +3408,5 @@ Milestones co[[glossary-files/90-glossary#gloss-milestone|Milestone]]l [[glossar
 - [[200-case-study/10-project-management-plan/index|Case Study: See how this Web Site was Built]]
 - [[300-the-lore-door/index|Enter The Lore Door]]
 - [Site Map](01-welcome/10-pm-site-map.md)
-- [[400-glossary/10-glossary.md|Interactive Glossary]]  
+- [[40-glossary|Interactive Glossary]]  
 - [[index.md|Project Pass PMP Home]]

@@ -90,11 +90,9 @@ If yo don't now where you are going, any road will do.  The Plan, is the key to 
 ---
 
 [[#Case Study Project Pass PMP|Top]]
-### Quick Links  
-- [[01-welcome/index|Welcome Center:]]
-- [[#Structured Study Guide]]
-- [[200-case-study/10-project-management-plan/index|Case Study: See how this Web Site was Built]]
-- [[300-the-lore-door/index|Enter The Lore Door]]
-- [Site Map](01-welcome/10-pm-site-map.md)
-- [[400-glossary/10-glossary.md|Interactive Glossary]]  
-- [[index.md|Project Pass PMP Home]]
+##  Main Categories
+- [Followed the Structured Study Guide](100-structured-study-guide/index.md)
+- [Review Project Pass PMP Case Study](200-case-study/10-project-management-plan/index.md)
+- [Go Through the Lore Door](300-the-lore-door/index.md)
+- [Explore the glossary](40-glossary.md)
+- [Explore the Bonus Material](500-bonus/index.md)

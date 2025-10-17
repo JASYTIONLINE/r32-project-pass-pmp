@@ -82,5 +82,5 @@ Each linked page in this folder provides a detailed “how-to” for setup, conf
 - [[20-pol-communications-pace.md|PACE Communications Policy]]
 - [[30-pro-communications-collaboration-index|Collaboration Platform Procedure]]
 - [[40-log-communications|Communications Log]]
-- [[10-glossary|Glossary]]
+- [[40-glossary|Glossary]]
 - [[index|Project PASS PMP – Home]]

@@ -91,7 +91,7 @@ Short, exam-ready definitions of CPI, CV, EAC, BAC, and more — in plain Englis
 - [[90-Cost-Metrics-Glossary|Cost Metrics Glossary]]
 - [[index|Cost Management – Index]]
 - [[README|Cost Management – README]]
-- [[10-glossary|Glossary]]
+- [[40-glossary|Glossary]]
 - [[index|Project PASS PMP – Home]]
 
 ---

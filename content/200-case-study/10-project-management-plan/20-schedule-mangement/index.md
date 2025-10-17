@@ -103,5 +103,5 @@ This is a duplicate filename; you may want to merge or remove one if not intenti
 - [[06-schedule-change-log|Schedule Change Log]]
 - [[index|Schedule Management – Index]]
 - [[README|Schedule Management – README]]
-- [[10-glossary|Glossary]]
+- [[40-glossary|Glossary]]
 - [[index|Project PASS PMP – Home]]

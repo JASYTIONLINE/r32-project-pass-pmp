@@ -91,5 +91,5 @@ This plan defines the risk management strategy for Project PASS PMP. It ensures 
 - [[30-std-risk-types|Risk Types Standard]]
 - [[40-log-risk-register|Risk Register]]
 - [[../60-communications-management-plan/index|Communications Management – Index]]
-- [[10-glossary|Glossary]]
+- [[40-glossary|Glossary]]
 - [[index|Project PASS PMP – Home]]

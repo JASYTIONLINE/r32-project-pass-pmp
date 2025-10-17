@@ -397,5 +397,5 @@ These references remain in their respective folders and are authoritative contro
 - [[07-development-approach-document|Development Approach Document]]
 - [[index|Integration Management – Index]]
 - [[README|Integration Management – README]]
-- [[10-glossary|Glossary]]
+- [[40-glossary|Glossary]]
 - [[index|Project Pass PMP -Home]]

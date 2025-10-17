@@ -178,5 +178,5 @@ Lessons are added to the **Lessons Learned Register** and inform updates to:
 - [[43-quality-reports|Quality Reports]]
 - [[44-continuous-improvement-plan|Continuous Improvement Plan]]
 - [[200-case-study/10-project-management-plan/40-quality-management-plan/80-writers-room/index|Writers Room – Index]]
-- [[10-glossary|Glossary]]
+- [[40-glossary|Glossary]]
 - [[index|Project PASS PMP – Home]]

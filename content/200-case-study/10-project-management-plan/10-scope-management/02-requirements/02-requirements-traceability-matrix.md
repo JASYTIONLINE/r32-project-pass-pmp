@@ -33,5 +33,5 @@ shortcode: "[std]"
 - [[04-requirements-validation-checklist|Requirements Validation Checklist]]
 - [[index|Requirements Management – Index]]
 - [[README|Requirements Management – README]]
-- [[10-glossary|Glossary]]
+- [[40-glossary|Glossary]]
 - [[index|Project PASS PMP – Home]]

@@ -48,5 +48,5 @@ Use [index.md](repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/50
 - [[40-resource-calendars|Resource Calendars]]
 - [[50-team-charter|Team Charter]]
 - [[60-training-plan|Training Plan]]
-- [[10-glossary|Glossary]]
+- [[40-glossary|Glossary]]
 - [[index|Project PASS PMP – Home]]

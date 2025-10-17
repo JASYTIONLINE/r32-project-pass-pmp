@@ -172,5 +172,5 @@ This project does not involve direct financial expenditure beyond existing tools
 - [[07-development-approach-document|Development Approach Document]]
 - [[index|Integration Management – Index]]
 - [[README|Integration Management – README]]
-- [[10-glossary|Glossary]]
+- [[40-glossary|Glossary]]
 - [[index|Project Pass PMP -Home]]

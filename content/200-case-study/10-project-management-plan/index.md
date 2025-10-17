@@ -65,8 +65,9 @@ Here you will find all the documents created during the planning of Project Pass
 ### 📁 [90-stakeholders](repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/90-stakeholders/index.md)
 
 **Stakeholder Management** ensures that project stakeholders are appropriately engaged and their expectations managed. This includes identifying stakeholders, analyzing their influence and impact, and planning communications strategies. Artifacts include the Stakeholder Register, Engagement Plans, and tools like the Power/Interest Grid.
----
 
+---
+[[#The Project Management Plan - Artifact|Back to the Top]]
 ## 🔁 Quick Links to All Folders
 
 - [00 Project Integration](../00-project-integration-management/index.md)
@@ -79,3 +80,10 @@ Here you will find all the documents created during the planning of Project Pass
 - [70 Risk Management](200-case-study/10-project-management-plan/70-risk-management-plan/index.md)
 - [80 Procurement Management](200-case-study/10-project-management-plan/80-procurement-management-plan/index.md)
 - [90 Stakeholder Management](200-case-study/10-project-management-plan/90-stakeholders/index.md)
+##  Main Categories
+- [1. Followed the Structured Study Guide](100-structured-study-guide/index.md)
+- [2. Review Project Pass PMP Case Study](200-case-study/10-project-management-plan/index.md)
+- [3. Go Through the Lore Door](300-the-lore-door/index.md)
+- [4. Explore Your Bonus Material](500-bonus/index.md)
+- [5. Explore the PMP Interactive Glossary](40-glossary.md)
+- [6. JASYTI's Project Pass PMP - Home](index.md)

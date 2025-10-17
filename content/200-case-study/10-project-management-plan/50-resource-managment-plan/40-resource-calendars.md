@@ -97,5 +97,5 @@ If a resource is overbooked or unavailable:
 - [[40-resource-calendars|Resource Calendars]]
 - [[50-team-charter|Team Charter]]
 - [[60-training-plan|Training Plan]]
-- [[10-glossary|Glossary]]
+- [[40-glossary|Glossary]]
 - [[index|Project PASS PMP – Home]]

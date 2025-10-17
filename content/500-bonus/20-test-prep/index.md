@@ -32,7 +32,7 @@ Strong preparation reduces anxiety and allows your understanding of project mana
 ---
 ## Quick Links
 
--  [[jasytionline.github.io/contents/20-portals/30-pmp/300-pmp-modules/01-test-prep/01-test-prep|Test Prep - Preparing For Test Day]]
+-  [[Test Prep - Preparing For Test Day]]
 - [[jasytionline.github.io/contents/20-portals/30-pmp/300-pmp-modules/01-test-prep/02-Understanding Terms|Test Prep - Understanding Terminology]]
 - [[jasytionline.github.io/contents/20-portals/30-pmp/300-pmp-modules/01-test-prep/04-eco|PMI Exam Content Outline.]]  
 - [[jasytionline.github.io/3-glossary|Glossary]]

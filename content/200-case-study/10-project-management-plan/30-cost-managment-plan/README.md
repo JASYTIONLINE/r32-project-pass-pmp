@@ -65,5 +65,5 @@ Use [index.md](repositories/r30-project-pass-pmp/contents/00-project-pass-pmp/30
 - [[90-Cost-Metrics-Glossary|Cost Metrics Glossary]]
 - [[index|Cost Management – Index]]
 - [[README|Cost Management – README]]
-- [[10-glossary|Glossary]]
+- [[40-glossary|Glossary]]
 - [[index|Project PASS PMP – Home]]

@@ -57,5 +57,5 @@ Together, these ensure that scope is measurable, validated, and protected from u
 - [[200-case-study/10-project-management-plan/10-scope-management/02-requirements/index|Requirements Management – Index]]
 - [[index|Scope Management – Index]]
 - [[README|Scope Management – README]]
-- [[10-glossary|Glossary]]
+- [[40-glossary|Glossary]]
 - [[index|Project PASS PMP – Home]]

@@ -58,5 +58,5 @@ This document defines consistent risk categories used to classify threats and op
 - [[30-std-risk-types|Risk Types Standard]]
 - [[40-log-risk-register|Risk Register]]
 - [[../60-communications-management-plan/index|Communications Management – Index]]
-- [[10-glossary|Glossary]]
+- [[40-glossary|Glossary]]
 - [[index|Project PASS PMP – Home]]

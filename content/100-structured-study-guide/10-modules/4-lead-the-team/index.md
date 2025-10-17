@@ -29,15 +29,19 @@ Aligned primarily to **Domain I – People**, this section focuses on leadership
 - **Emotional Intelligence:** Lead with awareness, empathy, and clarity.
 
 ---
+[[#Module 4 – Lead the Project Team|Back to the Top]]
+## Quick Links
+- [[1a-foundation|1A – Foundation]]
+- [[1b-strategic-alignment|1B – Strategic Alignment]]
+- [[1c-benefits-and-value|1C – Project Benefits and Value]]
+- [[1d-culture-and-change|1D – Organizational Culture and Change Management]]
+- [[1e.-governance|1E - Governance]]
+- [[1f-project-compliance|1F – Project Compliance]]
+- [[1g-notes-and-activities|1G - Lesson 1 Notes and Activities]]
 
-### Quicklinks
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/410-exam-overview|Exam Overview]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/420-eco-mapping|ECO Mapping]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/430-formulas|Formulas]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/440-agile-hybrid-qref|Agile & Hybrid Quick Reference]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/450-itto-tactics|ITTO Tactics]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/460-quiz-a|Quiz A]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/470-quiz-b|Quiz B]]
-
-### Main Categories
-- [[repositories/r30project-managment/contents/jasityonline/100-workshops/r33-project-managment/contents/100-Modules/index|PMP Modules – Home]]
+## Main Categories
+- [01- Visit the Welcome Center](01-welcome/index)
+- [100 - Structured Study Guide›](100-structured-study-guide/index.md)
+- [200- Case Study: Project Pass PMP›](200-case-study/10-project-management-plan/index.md)
+- [300- Open the Lore Door ›](300-the-lore-door/index.md)
+- [400-Explore the glossary ›](40-glossary.md)

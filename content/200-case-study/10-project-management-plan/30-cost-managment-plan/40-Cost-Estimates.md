@@ -63,6 +63,6 @@ It feeds into the [Cost Baseline](./Cost-Baseline.md) and is referenced in the [
 - [[90-Cost-Metrics-Glossary|Cost Metrics Glossary]]
 - [[index|Cost Management – Index]]
 - [[README|Cost Management – README]]
-- [[10-glossary|Glossary]]
+- [[40-glossary|Glossary]]
 - [[index|Project PASS PMP – Home]]
 

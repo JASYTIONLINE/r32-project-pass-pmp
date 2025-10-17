@@ -39,5 +39,5 @@ Use `index.md` for a quick reference to each document with descriptions and link
 - [[07-development-approach-document|Development Approach Document]]
 - [[index|Integration Management – Index]]
 - [[README|Integration Management – README]]
-- [[10-glossary|Glossary]]
+- [[40-glossary|Glossary]]
 - [[index|Project Pass PMP -Home]]

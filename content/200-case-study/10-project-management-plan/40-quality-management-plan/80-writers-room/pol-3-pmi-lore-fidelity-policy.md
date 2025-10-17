@@ -109,5 +109,5 @@ If an instructor can read the lore aloud in class without flinching, this policy
 - [[tem-2-tlg-backstory-template|The Last Gate Backstory Template]]
 - [[index|Writers Room – Index]]
 - [[README|Writers Room – README]]
-- [[10-glossary|Glossary]]
+- [[40-glossary|Glossary]]
 - [[index|Project PASS PMP – Home]]

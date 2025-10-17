@@ -77,5 +77,5 @@ It provides an easy-to-read visual and numerical breakdown of **project cost hea
 - [[90-Cost-Metrics-Glossary|Cost Metrics Glossary]]
 - [[index|Cost Management – Index]]
 - [[README|Cost Management – README]]
-- [[10-glossary|Glossary]]
+- [[40-glossary|Glossary]]
 - [[index|Project PASS PMP – Home]]

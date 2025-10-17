@@ -68,5 +68,5 @@ Details the methodology or framework (e.g., Agile, Waterfall, Scrum) selected to
 - [[07-development-approach-document|Development Approach Document]]
 - [[index|Integration Management – Index]]
 - [[README|Integration Management – README]]
-- [[10-glossary|Glossary]]
+- [[40-glossary|Glossary]]
 - [[index|Project Pass PMP -Home]]

@@ -93,5 +93,5 @@ It helps ensure that all **cost management processes** are in place, up to date,
 - [[90-Cost-Metrics-Glossary|Cost Metrics Glossary]]
 - [[index|Cost Management – Index]]
 - [[README|Cost Management – README]]
-- [[10-glossary|Glossary]]
+- [[40-glossary|Glossary]]
 - [[index|Project PASS PMP – Home]]

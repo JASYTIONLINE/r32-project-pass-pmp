@@ -76,5 +76,5 @@ They must:
 - [[03-wbs-dictionary|WBS Dictionary]]
 - [[index|Scope Baseline – Index]]
 - [[README|Scope Baseline – README]]
-- [[10-glossary|Glossary]]
+- [[40-glossary|Glossary]]
 - [[index|Project PASS PMP – Home]]

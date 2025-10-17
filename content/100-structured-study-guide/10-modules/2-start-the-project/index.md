@@ -30,17 +30,19 @@ These lessons align primarily with **Domain I – People** and **Domain II – P
 
 ---
 
-### Quicklinks
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/210-methods-overview|Methods Overview]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/220-scope|Scope]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/230-schedule|Schedule]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/240-cost|Cost]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/250-quality|Quality]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/260-resources|Resources]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/270-communications|Communications]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/280-risk|Risk]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/290-procurement|Procurement]]
-- [[jasityonline/S33-project-managment/contents/300-pmp-modules/295-stakeholders-in-process|Stakeholders in Process]]
+[[#Module 2 – Start the Project|Back to the Top]]
+## Quick Links
+- [[1a-foundation|1A – Foundation]]
+- [[1b-strategic-alignment|1B – Strategic Alignment]]
+- [[1c-benefits-and-value|1C – Project Benefits and Value]]
+- [[1d-culture-and-change|1D – Organizational Culture and Change Management]]
+- [[1e.-governance|1E - Governance]]
+- [[1f-project-compliance|1F – Project Compliance]]
+- [[1g-notes-and-activities|1G - Lesson 1 Notes and Activities]]
 
-### Main Categories
-- [[repositories/r30project-managment/contents/jasityonline/100-workshops/r33-project-managment/contents/100-Modules/index|PMP Modules – Home]]
+## Main Categories
+- [01- Visit the Welcome Center](01-welcome/index)
+- [100 - Structured Study Guide›](100-structured-study-guide/index.md)
+- [200- Case Study: Project Pass PMP›](200-case-study/10-project-management-plan/index.md)
+- [300- Open the Lore Door ›](300-the-lore-door/index.md)
+- [400-Explore the glossary ›](40-glossary.md)
