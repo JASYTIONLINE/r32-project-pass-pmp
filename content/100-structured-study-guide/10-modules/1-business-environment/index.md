@@ -1,12 +1,15 @@
 ---
-title: "Lesson 1 – Business Environment"
-description: "Learn how every project lives inside a larger system of strategy, value, and governance. This is where you start thinking like PMI expects you to think."
+title: Lesson 1 – Business Environment
+description: Learn how every project lives inside a larger system of strategy, value, and governance. This is where you start thinking like PMI expects you to think.
 filename: index.md
-tags: [pmp, business-environment, lesson-1, "filename:index.md"]
+tags:
+  - pmp
+  - business-environment
+  - lesson-1
 draft: false
-date: "2025-10-12"
-role: "index"
-function: "education"
+date: 2025-10-12
+role: index
+function: education
 shortcode: "[idx]"
 ---
 
@@ -60,21 +63,21 @@ You’ll learn to classify compliance requirements and build them into your plan
 **Domain link:** closes the loop on the Business Environment domain by proving that delivering value also means delivering *responsibly.*
 
 ---
-
-### Quicklinks
+[[#Lesson 1 – Business Environment|Back to the Top]]
+## Quick Links
 - [[1a-foundation|1A – Foundation]]
 - [[1b-strategic-alignment|1B – Strategic Alignment]]
 - [[1c-benefits-and-value|1C – Project Benefits and Value]]
 - [[1d-culture-and-change|1D – Organizational Culture and Change Management]]
-- [[1E-project-governance|1E – Project Governance]]
+- [[1e.-governance|1E - Governance]]
 - [[1f-project-compliance|1F – Project Compliance]]
-- [[notes|Lesson 1 Notes and Activities]]
+- [[1g-notes-and-activities|1G - Lesson 1 Notes and Activities]]
 
-### Main Categories
-- [[repositories/r30-project-pass-pmp/contents/100-structured-study-guide/index|Structured Study Guide – Home]]
-- [[../lesson-2-start-the-project/index|Lesson 2 – Start the Project]]
-- [[../lesson-3-plan-the-project/index|Lesson 3 – Plan the Project]]
-- [[../lesson-4-lead-the-project-team/index|Lesson 4 – Lead the Project Team]]
-- [[../lesson-5-support-project-team-performance/index|Lesson 5 – Support Project Performance]]
-- [[../lesson-6-close-the-project-phase/index|Lesson 6 – Close the Project/Phase]]
-- [[../../library/glossary/index|Interactive Glossary]]
+## Main Categories
+- [01- Visit the Welcome Center](01-welcome/index)
+- [100 - Structured Study Guide›](100-structured-study-guide/index.md)
+- [200- Case Study: Project Pass PMP›](200-case-study/10-project-management-plan/index.md)
+- [300- Open the Lore Door ›](300-the-lore-door/index.md)
+- [400-Explore the glossary ›](40-glossary.md)
+
+
