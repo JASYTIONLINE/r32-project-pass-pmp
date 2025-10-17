@@ -66,8 +66,7 @@ Search it, click it, learn it on demand.
 - [Open the Lore Door ›](300-the-lore-door/index.md)
 - [Explore the glossary ›](400-glossary/10-glossary.md)
 - [View the governance archive ›](200-case-study/index.md)
+- [Structured Study Syllabus](30-syllabus.md)
 
-- [Structured Study Syllibus](30-syllabus.md)
-- 
 
 

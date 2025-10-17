@@ -3404,7 +3404,7 @@ Milestones co[[glossary-files/90-glossary#gloss-milestone|Milestone]]l [[glossar
 [[#Glossary|Top]]
 ### Quick Links  
 - [[01-welcome/index|Welcome Center:]]
-- [[#Structured Study Guide]] - 
+- [[#Structured Study Guide]]
 - [[200-case-study/10-project-management-plan/index|Case Study: See how this Web Site was Built]]
 - [[300-the-lore-door/index|Enter The Lore Door]]
 - [Site Map](01-welcome/10-pm-site-map.md)
