@@ -1,35 +1,10 @@
 ---
 Title: 3. Site Map
 ---
-
 # Repository Site Map
-
-**Repo:** G:\00-repo-vault\s7-learning-center\r72-pmp\r72-pmp-prep-kb  
-**Generated:** 2025-09-21T15:19:48.0252461-05:00
-
-`	extFolder PATH listing for volume DEIHC
-Volume serial number is 16CB-F8E5
-G:\00-REPO-VAULT\S7-LEARNING-CENTER\R72-PMP\R72-PMP-PREP-KB
-|   .editorconfig
-|   .gitattributes
-|   .gitignore
-|   .gitmodules
-|   LICENSE
-|   quartz.config.ts
-|   quartz.layout.ts
-|   README.md
-|   site-map.md
-|   
-+---.github
-|   |   .kodiak.toml
-|   |   dependabot.yml
-|   |   
-|   \---workflows
-|           ci.yml
-|           lychee.yml
-|           
-+---content
-|   |   index.md
+     
++---ROOT
+|   index.md
 |   |   README.md
 |   |   requirements traceability Matrix.md
 |   |   Untitled.md
