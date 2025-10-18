@@ -11,14 +11,18 @@ draft: false
 This section brings project management to life through sound.  
 Each subfolder represents a concept turned into rhythm — a tool to help you *remember the math by ear.*
 
+
 ---
 
-## Albums and Tracks
+## 🎧 Albums
 
-- [**Earned Value Analysis**](06-music/earned-value-analasys/index.md))  
-  Learn the core EVM relationships — Planned Value, Earned Value, Actual Cost, and the performance indices — through music.
+- [**Earned Value Analysis**](earned-value-analasys/index.md)  
+  Learn EVM through twelve concept tracks covering Planned Value, Earned Value, Actual Cost, and performance forecasting.
 
-*(Additional albums will appear here as new sets are added.)*
+- [**Men of Motivation**](men-of-motivation/index.md)  
+  Seven songs exploring human motivation and leadership theories—from Maslow to Vroom—aligned with the PMP *People Domain.*
+
+*(More albums coming soon.)*
 
 ---
 
