@@ -1,0 +1,72 @@
+---
+title: Earned Value Analysis Songs
+description: A concept album translating key EVM formulas into rhythm and rhyme for PMP study. Each track pairs theory with memory cues.
+tags: [pmp, evm, music, learning, songs]
+date: 2025-10-18
+draft: false
+---
+
+# 🎧 Earned Value Analysis – Study Tracks
+
+These songs teach the logic behind Earned Value Management (EVM).  
+Each one converts a formula or process into rhythm you can remember.  
+Click a cover to play. The grid reshapes to fit your screen.
+
+---
+
+<style>
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1rem;
+  text-align: center;
+  align-items: start;
+}
+.grid img {
+  width: 100%;
+  max-width: 150px;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.4);
+  transition: transform 0.2s;
+}
+.grid img:hover {
+  transform: scale(1.05);
+}
+.grid audio {
+  width: 100%;
+  margin-top: 0.5rem;
+}
+</style>
+
+<div class="grid">
+
+  <div>
+    <img src="eva-img/eva-song1-planned-value–the-roadmap-beat-v1_cover.jpg" alt="Planned Value cover">
+    <audio controls src="eva-song1-planned-value–the-roadmap-beat-v1.mp3"></audio>
+    <p><strong>Planned Value</strong><br>Sets the pace for what *should* be done by now.</p>
+  </div>
+
+  <div>
+    <img src="eva-img/eva-song2-earned-value–the-work-you-have-done-v1_cover.jpg" alt="Earned Value cover">
+    <audio controls src="eva-song2-earned-value–the-work-you-have-done-v1.mp3"></audio>
+    <p><strong>Earned Value</strong><br>Measures how much progress is *actually* achieved.</p>
+  </div>
+
+  <div>
+    <img src="eva-img/eva-song3-actual-cost–what-you-paid-v1_cover.jpg" alt="Actual Cost cover">
+    <audio controls src="eva-song3-actual-cost–what-you-paid-v1.mp3"></audio>
+    <p><strong>Actual Cost</strong><br>The bill you’ve paid for the work so far.</p>
+  </div>
+
+  <div>
+    <img src="eva-img/eva-song4-cost-performance-index–efficiency-score-v1_cover.jpg" alt="CPI cover">
+    <audio controls src="eva-song4-cost-performance-index–efficiency-score-v1.mp3"></audio>
+    <p><strong>Cost Performance Index (CPI)</strong><br>The efficiency scorecard — how well the budget’s holding up.</p>
+  </div>
+
+</div>
+
+---
+
+Each track aligns with PMI’s *Control Costs* process.  
+Use them as recall cues: listen, read the formula, repeat the rhythm.

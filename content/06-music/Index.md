@@ -15,7 +15,7 @@ Each subfolder represents a concept turned into rhythm — a tool to help you *r
 
 ## Albums and Tracks
 
-- [**Earned Value Analysis**](earned-value-analasys/index.md)  
+- [**Earned Value Analysis**](06-music/earned-value-analasys/index.md))  
   Learn the core EVM relationships — Planned Value, Earned Value, Actual Cost, and the performance indices — through music.
 
 *(Additional albums will appear here as new sets are added.)*
