@@ -77,4 +77,30 @@ Use them to connect emotion, logic, and recall.
   <div>
     <img src="mov-img/mov-song4-mcgregors-mirror-theory-v1_cover.jpg" alt="McGregor’s Mirror Theory cover">
     <audio controls src="mov-song4-mcgregors-mirror-theory-v1.mp3"></audio>
-    <p><span class="song
+    <p><span class="song-title">Song 4: McGregor’s Mirror Theory</span> Theory X vs Y—management starts with your reflection.</p>
+  </div>
+
+  <div>
+    <img src="mov-img/song5-vrooms-equation-expectancy-drive-v1_cover.jpg" alt="Vroom’s Equation cover">
+    <audio controls src="song5-vrooms-equation-expectancy-drive-v1.mp3"></audio>
+    <p><span class="song-title">Song 5: Vroom’s Equation (Expectancy Drive)</span> Effort → Performance → Reward: motivation in math form.</p>
+  </div>
+
+  <div>
+    <img src="mov-img/mov-song6-tuckmans-team-machine-v1_cover.jpg" alt="Tuckman’s Team Machine cover">
+    <audio controls src="mov-song6-tuckmans-team-machine-v1.mp3"></audio>
+    <p><span class="song-title">Song 6: Tuckman’s Team Machine</span> From forming to performing—the stages in motion.</p>
+  </div>
+
+  <div>
+    <img src="mov-img/movsong7-the-grid-blake-moutons-frame-of-mind-v1_cover.jpg" alt="Blake & Mouton cover">
+    <audio controls src="movsong7-the-grid-blake-moutons-frame-of-mind-v1.mp3"></audio>
+    <p><span class="song-title">Song 7: The Grid (Blake & Mouton)</span> Leadership style mapped—people vs production.</p>
+  </div>
+
+</div>
+
+---
+
+Each track brings theory to memory through melody.  
+Listen while studying the **Motivational Theories** section in PMP’s *People Domain* to lock in the logic.
