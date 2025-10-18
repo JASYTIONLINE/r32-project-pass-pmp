@@ -1,5 +1,5 @@
 ---
-title: "120 Strategic Alignment"
+title: "1b. Strategic Alignment"
 description: "How projects align with organizational strategy and deliver value."
 tags: [pmp, eco, business-environment, strategic-alignment]
 eco: [3.2.1, 3.2.4, 2.1.1]
