@@ -33,8 +33,7 @@ Straightforward, practical, mapped exactly to the Exam Content Outline.
 
 ### [02 - Case Study – The Project in Motion](03-case-study/3-plan/1-artifacts/index.md)  
 ---
-![[case.png|image of  a team at work](case.png)
-
+![case.png|image of a 4 people team at work](case.png)
 See how this web site was built using PMI Project Management Professional Practices. Walk through a single initiative from spark to delivery.  Create every part of the plan, then execute it.
 Every phase mirrors the workbook’s lessons, so theory turns into practice in real time.  See how a project lives, breathes, and changes throughout its life-cycle.
 
