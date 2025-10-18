@@ -15,10 +15,12 @@ Each subfolder represents a concept turned into rhythm — a tool to help you *r
 ---
 
 ## 🎧 Albums
-
+![[eva.png]]
 - [**Earned Value Analysis**](earned-value-analasys/index.md)  
   Learn EVM through twelve concept tracks covering Planned Value, Earned Value, Actual Cost, and performance forecasting.
+---
 
+![[mov.png]]
 - [**Men of Motivation**](men-of-motivation/index.md)  
   Seven songs exploring human motivation and leadership theories—from Maslow to Vroom—aligned with the PMP *People Domain.*
 
