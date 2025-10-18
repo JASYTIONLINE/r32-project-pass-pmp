@@ -1,12 +1,12 @@
 ---
-title: Men of Motivation – Leadership Theories in Sound
+title: README
 description: Seven motivational models turned into memorable study tracks for the PMP exam.
 tags: [pmp, motivation, leadership, music, songs]
 date: 2025-10-18
 draft: false
 ---
 
-# 🎶 Men of Motivation
+# 🎶 Men of Motivation (ReadMe)
 
 This collection translates the psychology of motivation into rhythm.  
 Each track represents a theory or model you'll see on the PMP exam—  
@@ -81,7 +81,7 @@ Use them to connect emotion, logic, and recall.
   </div>
 
   <div>
-    <img src="mov-img/mov-song5-vrooms-equation-expectancy-drive-v1_cover.jpg" alt="Vroom’s Equation cover">
+    <img src="mov-img/song5-vrooms-equation-expectancy-drive-v1_cover.jpg" alt="Vroom’s Equation cover">
     <audio controls src="song5-vrooms-equation-expectancy-drive-v1.mp3"></audio>
     <p><span class="song-title">Song 5: Vroom’s Equation (Expectancy Drive)</span> Effort → Performance → Reward: motivation in math form.</p>
   </div>
@@ -93,7 +93,7 @@ Use them to connect emotion, logic, and recall.
   </div>
 
   <div>
-    <img src="mov-img/mov-song7-the-grid-blake-moutons-frame-of-mind-v1_cover.jpg" alt="Blake & Mouton cover">
+    <img src="mov-img/movsong7-the-grid-blake-moutons-frame-of-mind-v1_cover.jpg" alt="Blake & Mouton cover">
     <audio controls src="movsong7-the-grid-blake-moutons-frame-of-mind-v1.mp3"></audio>
     <p><span class="song-title">Song 7: The Grid (Blake & Mouton)</span> Leadership style mapped—people vs production.</p>
   </div>
