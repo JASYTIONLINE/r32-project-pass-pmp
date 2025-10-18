@@ -31,7 +31,7 @@ Follow the official workbook’s six-lesson sequence.
 Business Environment → Start the Project → Plan the Project → Lead the Team → Support Performance → Close the Project.  
 Straightforward, practical, mapped exactly to the Exam Content Outline.  
 
-### [02 - Case Study – The Project in Motion](20-case-study/10-artifacts/index.md)  
+### [02 - Case Study – The Project in Motion](20-case-study/3-plan/1-artifacts/index.md)  
 ---
 ![[case.png|image of  a team at work](case.png)
 
@@ -53,7 +53,7 @@ This means:
 
 If you stripped out the metaphors, a PMI instructor should still nod and say: *"Yes, that’s how it works."*
 
-### [04 - Visit the Interactive Glossary – The PMP Language Lab](40-glossary.md)  
+### [04 - Visit the Interactive Glossary – The PMP Language Lab](2-glossary.md)  
 ---
 ![[glossary.png]]
 
@@ -63,13 +63,13 @@ Every PMI term, every acronym, every concept—explained in plain English and li
 [[#Welcome to JASYTI's Project Pass PMP|Back to Top]]
 ## Quick Links
 - [Visit the Welcome Center](01-welcome/index)
-- [Meet the Team](10-team-pmp.md) 
-- [Review the Site Map](30-pm-site-map.md)
-- [Explore the PMP Interactive Glossary](40-glossary.md)
+- [Meet the Team](1-team-pmp.md) 
+- [Review the Site Map](3-site-map.md)
+- [Explore the PMP Interactive Glossary](2-glossary.md)
 ##  Main Categories
 - 1. [[#Welcome to JASYTI's Project Pass PMP|JASYTI's Project Pass PMP - Home]]
 - 2. [Structured Exam Prep Course](10-structured/index.md)
-- 3. [Case Review - Project Pass PMP](20-case-study/10-artifacts/index.md)
+- 3. [Case Review - Project Pass PMP](20-case-study/3-plan/1-artifacts/index.md)
 - 4. [Go Through the Lore Door](30-the-lore-door/index.md)
 - 5. [Explore Your Bonus Material](50-bonus/index.md)
 - 6. [Listen to The Music of PMP](60-music/Index.md)

@@ -51,7 +51,7 @@ Or your money back.
 - 100-structured-study-guide/60-the-music-of-pmp/Index.md
 ##  Main Categories
 - [Structured Exam Prep Course](10-structured/index.md)
-- [Review Project Pass PMP Case Study](20-case-study/10-artifacts/index.md)
+- [Review Project Pass PMP Case Study](20-case-study/3-plan/1-artifacts/index.md)
 - [Go Through the Lore Door](30-the-lore-door/index.md)
-- [Explore the glossary](40-glossary.md)
+- [Explore the glossary](2-glossary.md)
 - [Explore the Bonus Material](50-bonus/index.md)

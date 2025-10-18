@@ -76,8 +76,8 @@ You’ll learn to classify compliance requirements and build them into your plan
 ## Main Categories
 - [01- Visit the Welcome Center](01-welcome/index)
 - [100 - Structured Study Guide›](10-structured/index.md)
-- [200- Case Study: Project Pass PMP›](20-case-study/10-artifacts/index.md)
+- [200- Case Study: Project Pass PMP›](20-case-study/3-plan/1-artifacts/index.md)
 - [300- Open the Lore Door ›](30-the-lore-door/index.md)
-- [400-Explore the glossary ›](40-glossary.md)
+- [400-Explore the glossary ›](2-glossary.md)
 
 
