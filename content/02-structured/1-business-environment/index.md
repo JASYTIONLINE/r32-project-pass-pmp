@@ -1,5 +1,5 @@
 ---
-title: Lesson 1 – Business Environment
+title: Module 1 – Business Environment
 description: Learn how every project lives inside a larger system of strategy, value, and governance. This is where you start thinking like PMI expects you to think.
 filename: index.md
 tags:
