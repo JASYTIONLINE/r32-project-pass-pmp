@@ -1,12 +1,12 @@
 ---
-title: The Music of PMP
+title: index
 description: A collection of PMP-themed study songs covering key processes and formulas.
 tags: [music, pmp, learning]
 date: 2025-10-18
 draft: false
 ---
 
-# 🎵 The Music of PMP
+# 🎵 The Music of PMP (Home)
 
 This section brings project management to life through sound.  
 Each subfolder represents a concept turned into rhythm — a tool to help you *remember the math by ear.*
