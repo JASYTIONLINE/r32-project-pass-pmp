@@ -1,5 +1,5 @@
 ---
-title: 4 Change Management
+title: 4. Change Management
 description: Introduction to change and configuration control in project management.
 tags:
   - cmpa3302

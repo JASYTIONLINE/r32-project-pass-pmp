@@ -1,5 +1,5 @@
 ---
-title: 1 Test Preparation Tips and Tactics – Home
+title: 2 Test Preparation Tips and Tactics – Home
 description: Section home for PMP exam preparation strategies, covering test-day habits, principles, and contextual learning.
 tags:
   - cmpa3302

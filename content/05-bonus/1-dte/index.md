@@ -1,5 +1,5 @@
 ---
-title: 3 Domain, Tasks, & Enablers Index Map
+title: 1.  Domain, Tasks, & Enablers Index Map
 date: 2025-09-07
 draft: false
 tags:
@@ -18,7 +18,7 @@ This page maps the Structured Study Guide to the Three Domains, Their Tasks, and
 [[#Domain, Tasks, & Enablers Index Map|Back to the Top]]
 ## Quick Links
 - 1. [[1-team-pmp|Meet the Team]]
-- 2. [Domain, Tasks, & Enablers Index Map](05-bonus/10-dte/index.md)
+- 2. [Domain, Tasks, & Enablers Index Map](05-bonus/1-dte/index.md)
 - 3. [Review the Site Map](3-site-map.md)
 - 4. [Explore the PMP Interactive Glossary](2-glossary.md)
 - 5. [JASYTI's Project Pass PMP - Home](index.md)

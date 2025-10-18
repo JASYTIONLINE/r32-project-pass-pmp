@@ -1,5 +1,5 @@
 ---
-title: 4 PMI Exam Content Outline (ECO)
+title: 5. PMI Exam Content Outline (ECO)
 description: Understand how the PMP exam is structured using PMI's three domains, tasks, and enablers from the Exam Content Outline.
 tags:
   - pmp

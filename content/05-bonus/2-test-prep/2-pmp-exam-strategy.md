@@ -1,11 +1,15 @@
 ---
-title: "PMP Exam Strategy"
-description: "Test-taking strategies and preparation approach."
-tags: ["PMP","Exam","Strategy","ECO"]
-version: "v1.0"
-created: "2025-09-07"
-updated: "2025-09-07"
-status: "draft"
+title: 2. PMP Exam Strategy
+description: Test-taking strategies and preparation approach.
+tags:
+  - PMP
+  - Exam
+  - Strategy
+  - ECO
+version: v1.0
+created: 2025-09-07
+updated: 2025-09-07
+status: draft
 ---
 
 # PMP Exam Strategy

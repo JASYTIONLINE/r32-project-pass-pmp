@@ -1,5 +1,5 @@
 ---
-title: RREADME
+title: README
 description: "Repository overview for CMPA 3302 knowledge base: structure, topic, and purpose."
 tags:
   - cmpa3302

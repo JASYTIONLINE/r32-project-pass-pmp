@@ -63,7 +63,7 @@ My goal is to learn the memory elements for multiple-choice questions and improv
 [[#Meet the Team|Back to the Top]]
 ## Quick Links
 - 1. [[1-team-pmp|Meet the Team]]
-- 2. [Domain, Tasks, & Enablers Index Map](05-bonus/10-dte/index.md)
+- 2. [Domain, Tasks, & Enablers Index Map](05-bonus/1-dte/index.md)
 - 3. [Review the Site Map](3-site-map.md)
 - 4. [Explore the PMP Interactive Glossary](2-glossary.md)
 - 5. [JASYTI's Project Pass PMP - Home](index.md)

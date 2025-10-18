@@ -18,7 +18,7 @@ shortcode: "[idx]"
 
 - [Meet the Team](1-team-pmp.md)
 	- We have assembled an international team from around the globe of dedicated and experienced Project Managers from multiple different Industries. 
-- [[05-bonus/10-dte/index|Domain, Tasks, and Enablers Index (DTEI):]] is you MAP to applying the core concepts of the ECO to the lessons and Practical Exercises you will be experience throughout this journey. Understanding how certain DTEs are relevant to situations will be key to passing the exam.
+- [[05-bonus/1-dte/index|Domain, Tasks, and Enablers Index (DTEI):]] is you MAP to applying the core concepts of the ECO to the lessons and Practical Exercises you will be experience throughout this journey. Understanding how certain DTEs are relevant to situations will be key to passing the exam.
 - [Visit the Site Map](3-site-map.md)
 	- A clickable navigations Site to find any page on our site
 - [PMI Project Management Interactive Glossary](2-glossary.md)

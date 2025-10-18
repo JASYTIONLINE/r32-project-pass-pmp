@@ -1,5 +1,5 @@
 ---
-title: 2 Risk Management
+title: 2. Risk Management
 description: "Understanding risk in project management: concepts, practices, and exam relevance."
 tags:
   - cmpa3302

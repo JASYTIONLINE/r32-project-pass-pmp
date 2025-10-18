@@ -1,5 +1,5 @@
 ---
-title: 2 Understanding Terms in Project Management
+title: 3. Understanding Terms in Project Management
 description: Focus on key terms, artifacts, and deliverables for PMP exam success, emphasizing context over memorization.
 tags:
   - cmpa3302

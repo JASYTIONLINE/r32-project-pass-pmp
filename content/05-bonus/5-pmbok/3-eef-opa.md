@@ -1,5 +1,5 @@
 ---
-title: 3 EEFs and OPAs
+title: 3. EEFs and OPAs
 description: Explains enterprise environmental factors and organizational process assets, and their impact on projects.
 tags:
   - cmpa3302

@@ -1,5 +1,5 @@
 ---
-title: 2 Lifecycle of a Project
+title: 3. Lifecycle of a Project
 description: "Portal for the project lifecycle: prerequisites, initiating, planning, executing, monitoring/controlling, and closing."
 tags:
   - cmpa3302
