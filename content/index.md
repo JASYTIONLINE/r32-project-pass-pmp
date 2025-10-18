@@ -36,7 +36,7 @@ Straightforward, practical, mapped exactly to the Exam Content Outline.
 ![[case.png|image of  a team at work](case.png)
 
 See how this web site was built using PMI Project Management Professional Practices. Walk through a single initiative from spark to delivery.  Create every part of the plan, then execute it.
-Every phase mirrors the workbook’s lessons, so theory turns into practice in real time.  See how a project lives, breathes, and changes.  
+Every phase mirrors the workbook’s lessons, so theory turns into practice in real time.  See how a project lives, breathes, and changes throughout its life-cycle.
 
 ### [03 Step Through The Lore Door – Learn Through Story](04-the-lore-door/index.md)
 ---
