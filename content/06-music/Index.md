@@ -1,10 +1,28 @@
 ---
-Title: 06. The Music of PMP
+title: The Music of PMP
+description: A collection of PMP-themed study songs covering key processes and formulas.
+tags: [music, pmp, learning]
+date: 2025-10-18
+draft: false
 ---
 
-# 05. The Music of PMP
+# 🎵 The Music of PMP
 
-## TBP
+This section brings project management to life through sound.  
+Each subfolder represents a concept turned into rhythm — a tool to help you *remember the math by ear.*
+
+---
+
+## Albums and Tracks
+
+- [**Earned Value Analysis**](earned-value-analasys/index.md)  
+  Learn the core EVM relationships — Planned Value, Earned Value, Actual Cost, and the performance indices — through music.
+
+*(Additional albums will appear here as new sets are added.)*
+
+---
+
+[[../index.md|← Back to Project Pass PMP Home]]
 
 ---
 [[#6 The Music of PMP|Back to the Top]]
