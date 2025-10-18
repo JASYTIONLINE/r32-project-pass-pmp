@@ -1,5 +1,5 @@
 ---
-title: Welcome README
+title: README
 description: Entry point for governance, policies, procedures, standards, and guidance for Project PASS PMP.
 tags:
   - governance

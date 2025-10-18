@@ -21,7 +21,7 @@ Just a little bit extra to help you prepare for the test and become effective le
 	- Explore the [[03-principles|12 Project Management Core Principles:]] Your key project performance and behavior. These are not rigid rules, but universally applicable values that empower decision-making across project lifecycles and diverse industries.  
 	- Dive into the [[04-eco|PMI Exam Content Outline (ECO):]] While the *PMBOK® Guide* explains what project management is, the ECO defines how it will be tested.
 	 
-- [[50-bonus/30-project-lifecycle/index|Project Lifecycle:]] Every project is a living breathing entity which follows a specific path from inception to end.  Learn about the Project Lifecyle and its associated Process Groups and Processes. 
+- [[20-case-study/20-lifecycle/index|Project Lifecycle:]] Every project is a living breathing entity which follows a specific path from inception to end.  Learn about the Project Lifecyle and its associated Process Groups and Processes. 
 
 - [[50-bonus/40-pmbok/index|PMBOK is not Dead:]] Don't believe teh hype. PMBOK 6 and 7 are not dead.  The 2021 ECO is simply testing you on your ability to apply the lessons learned from previous Project Mangers through a new perspective, but the core principles outlined in PMBOK 6 and 7 still apply to effective project Management.
 	- Learn about relevant [[100-structured-study-guide/50-pmbok/84--ittos|Inputs Tasks Tools and Outputs (ITTOs)]] as they pertain the the individual Processes and fit within the 5 Process Groups.
@@ -44,8 +44,8 @@ Just a little bit extra to help you prepare for the test and become effective le
 - 100-structured-study-guide/60-the-music-of-pmp/Index.md
 ##  Main Categories
 - 1. [[#Welcome to JASYTI's Project Pass PMP|JASYTI's Project Pass PMP - Home]]
-- 2. [Structured Exam Prep Course](10-Exam%20Prep%20Course/index.md)
-- 3. [Case Review - Project Pass PMP](20-case-study/10-project-management-plan/index.md)
+- 2. [Structured Exam Prep Course](10-structured/index.md)
+- 3. [Case Review - Project Pass PMP](20-case-study/10-artifacts/index.md)
 - 4. [Go Through the Lore Door](30-the-lore-door/index.md)
 - 5. [Explore Your Bonus Material](50-bonus/index.md)
 - 6. [Listen to The Music of PMP](60-music/Index.md)
