@@ -22,7 +22,7 @@ shortcode: "[idx]"
 I know what your thinking! You’re not just trying to pass an exam—you’re learning to *think* like a project manager.  This site is your interactive companion to the PMI® Authorized Exam Prep Course (Workbook v3.2). Every lesson, story, and tool is built to move with you—step-by-step, day-by-day—until PMP concepts feel second nature.
 
 ## Choose Your Path
-### [01 - Structured Self Learning](01-structured/index.md)
+### [01 - Structured Self Learning](02-structured/index.md)
 ---
 ![[structured.png]]
 
@@ -31,14 +31,14 @@ Follow the official workbook’s six-lesson sequence.
 Business Environment → Start the Project → Plan the Project → Lead the Team → Support Performance → Close the Project.  
 Straightforward, practical, mapped exactly to the Exam Content Outline.  
 
-### [02 - Case Study – The Project in Motion](02-case-study/3-plan/1-artifacts/index.md)  
+### [02 - Case Study – The Project in Motion](03-case-study/3-plan/1-artifacts/index.md)  
 ---
 ![[case.png|image of  a team at work](case.png)
 
 See how this web site was built using PMI Project Management Professional Practices. Walk through a single initiative from spark to delivery.  Create every part of the plan, then execute it.
 Every phase mirrors the workbook’s lessons, so theory turns into practice in real time.  See how a project lives, breathes, and changes.  
 
-### [03 Step Through The Lore Door – Learn Through Story](03-the-lore-door/index.md)
+### [03 Step Through The Lore Door – Learn Through Story](04-the-lore-door/index.md)
 ---
 ![[assets/images/riya-and-the-team.png|Image of Riya and her team]]
 Step into an original narrative world where PMP principles drive the plot.  
@@ -62,17 +62,17 @@ Every PMI term, every acronym, every concept—explained in plain English and li
 ---
 [[#Welcome to JASYTI's Project Pass PMP|Back to Top]]
 ## Quick Links
-- [Visit the Welcome Center](00-welcome/index.md)
+- [Visit the Welcome Center](01-welcome/index.md)
 - [Meet the Team](1-team-pmp.md) 
 - [Review the Site Map](3-site-map.md)
 - [Explore the PMP Interactive Glossary](2-glossary.md)
 ##  Main Categories
 - 1. [[#Welcome to JASYTI's Project Pass PMP|JASYTI's Project Pass PMP - Home]]
-- 2. [Structured Exam Prep Course](01-structured/index.md)
-- 3. [Case Review - Project Pass PMP](02-case-study/3-plan/1-artifacts/index.md)
-- 4. [Go Through the Lore Door](03-the-lore-door/index.md)
-- 5. [Explore Your Bonus Material](04-bonus/index.md)
-- 6. [Listen to The Music of PMP](05-music/Index.md)
+- 2. [Structured Exam Prep Course](02-structured/index.md)
+- 3. [Case Review - Project Pass PMP](03-case-study/3-plan/1-artifacts/index.md)
+- 4. [Go Through the Lore Door](04-the-lore-door/index.md)
+- 5. [Explore Your Bonus Material](05-bonus/index.md)
+- 6. [Listen to The Music of PMP](06-music/Index.md)
 
 
 
