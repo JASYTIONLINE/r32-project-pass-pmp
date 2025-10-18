@@ -18,7 +18,6 @@ Each one converts a formula or process into rhythm you can remember.
 Click a cover to play. The grid reshapes to fit your screen.
 
 ---
-
 <style>
 .grid {
   display: grid;
@@ -37,11 +36,21 @@ Click a cover to play. The grid reshapes to fit your screen.
 .grid img:hover {
   transform: scale(1.05);
 }
+.song-title {
+  display: block;
+  min-height: 2.5em;   /* forces two lines of space */
+  font-weight: 600;
+  line-height: 1.2em;
+}
 .grid audio {
   width: 100%;
-  margin-top: 0.5rem;
+  margin-top: 0.4rem;
+}
+.grid p {
+  margin: 0.3rem 0;
 }
 </style>
+
 
 <div class="grid">
 
